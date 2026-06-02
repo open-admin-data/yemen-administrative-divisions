@@ -1,0 +1,45 @@
+{
+  "id": "YE1109",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "حزم العدين",
+    "en": "Hazm Al Odayn",
+    "slug": "hazm-al-odayn-ye1109"
+  },
+  "code": {
+    "id": "YE1109",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.112",
+    "lon": "43.833"
+  },
+  "metadata": {},
+  "source": {}
+}

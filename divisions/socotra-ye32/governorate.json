@@ -1,0 +1,33 @@
+{
+  "id": "YE32",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "سقطرى",
+    "en": "Socotra",
+    "slug": "socotra-ye32"
+  },
+  "code": {
+    "id": "YE32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.505",
+    "lon": "53.895"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/socotra-ye32/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1730",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "وشحه",
+    "en": "Washhah",
+    "slug": "washhah-ye1730"
+  },
+  "code": {
+    "id": "YE1730",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.336",
+    "lon": "43.386"
+  },
+  "metadata": {},
+  "source": {}
+}

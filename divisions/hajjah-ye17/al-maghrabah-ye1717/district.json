@@ -1,0 +1,45 @@
+{
+  "id": "YE1717",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المغربه",
+    "en": "Al Maghrabah",
+    "slug": "al-maghrabah-ye1717"
+  },
+  "code": {
+    "id": "YE1717",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.902",
+    "lon": "43.618"
+  },
+  "metadata": {},
+  "source": {}
+}

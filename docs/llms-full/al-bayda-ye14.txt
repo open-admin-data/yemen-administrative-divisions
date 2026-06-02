@@ -1,0 +1,109 @@
+# Al Bayda — Yemen Administrative Divisions
+
+> 20 districts
+> Code: YE14
+> Coordinates: 14.326, 45.28
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### العرش (Al Arsh)
+
+Code: YE1416, Coordinates: 14.359, 44.764
+
+
+### البيضاء (Al Bayda)
+
+Code: YE1410, Coordinates: 14.065, 45.571
+
+
+### مدينة البيضاء (Al Bayda City)
+
+Code: YE1409, Coordinates: 13.983, 45.573
+
+
+### الملاجم (Al Malajim)
+
+Code: YE1420, Coordinates: 14.328, 45.388
+
+
+### القريشيه (Al Quraishyah)
+
+Code: YE1414, Coordinates: 14.605, 44.899
+
+
+### الرياشيه (Ar Ryashyyah)
+
+Code: YE1418, Coordinates: 14.241, 44.799
+
+
+### السواديه (As Sawadiyah)
+
+Code: YE1411, Coordinates: 14.525, 45.389
+
+
+### الصومعه (As Sawma&#39;ah)
+
+Code: YE1404, Coordinates: 14.177, 45.754
+
+
+### الشريه (Ash Sharyah)
+
+Code: YE1419, Coordinates: 14.284, 45.075
+
+
+### الطفه (At Taffah)
+
+Code: YE1407, Coordinates: 14.162, 45.303
+
+
+### الزاهر (Az Zahir)
+
+Code: YE1405, Coordinates: 13.999, 45.438
+
+
+### ذي ناعم (Dhi Na&#39;im)
+
+Code: YE1406, Coordinates: 14.109, 45.461
+
+
+### مسوره (Maswarah)
+
+Code: YE1403, Coordinates: 14.409, 45.678
+
+
+### مكيراس (Mukayras)
+
+Code: YE1408, Coordinates: 14.026, 45.868
+
+
+### ناطع (Nati&#39;)
+
+Code: YE1402, Coordinates: 14.537, 45.588
+
+
+### نعمان (Nu&#39;man)
+
+Code: YE1401, Coordinates: 14.622, 45.541
+
+
+### رداع (Rada&#39;)
+
+Code: YE1413, Coordinates: 14.33, 44.905
+
+
+### ردمان (Radman)
+
+Code: YE1412, Coordinates: 14.473, 45.26
+
+
+### صباح (Sabah)
+
+Code: YE1417, Coordinates: 14.271, 44.677
+
+
+### ولدربيع (Wald Rabi&#39;)
+
+Code: YE1415, Coordinates: 14.64, 45.024
+
+

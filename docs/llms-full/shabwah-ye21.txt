@@ -1,0 +1,94 @@
+# Shabwah — Yemen Administrative Divisions
+
+> 17 districts
+> Code: YE21
+> Coordinates: 14.661, 46.656
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الروضه (Ar Rawdah)
+
+Code: YE2115, Coordinates: 14.5, 47.233
+
+
+### عرماء (Arma&#39;a)
+
+Code: YE2104, Coordinates: 15.387, 47.027
+
+
+### الصعيد (As Sa&#39;id)
+
+Code: YE2112, Coordinates: 14.28, 46.858
+
+
+### الطلح (At Talh)
+
+Code: YE2102, Coordinates: 15.094, 47.337
+
+
+### عتق (Ataq)
+
+Code: YE2113, Coordinates: 14.567, 46.85
+
+
+### عين (Ayn)
+
+Code: YE2106, Coordinates: 14.95, 45.6
+
+
+### بيحان (Bayhan)
+
+Code: YE2107, Coordinates: 14.756, 45.713
+
+
+### دهر (Dahr)
+
+Code: YE2101, Coordinates: 15.51, 47.588
+
+
+### حبان (Habban)
+
+Code: YE2114, Coordinates: 14.306, 47.123
+
+
+### حطيب (Hatib)
+
+Code: YE2111, Coordinates: 14.179, 46.554
+
+
+### جردان (Jardan)
+
+Code: YE2103, Coordinates: 15.183, 46.591
+
+
+### مرخة العليا (Markhah Al Olya)
+
+Code: YE2108, Coordinates: 14.503, 45.92
+
+
+### مرخة السفلى (Markhah As Sufla)
+
+Code: YE2109, Coordinates: 14.699, 46.162
+
+
+### ميفعه (Mayfa&#39;ah)
+
+Code: YE2116, Coordinates: 14.412, 47.715
+
+
+### نصاب (Nisab)
+
+Code: YE2110, Coordinates: 14.533, 46.442
+
+
+### عسيلان (Osaylan)
+
+Code: YE2105, Coordinates: 15.119, 45.994
+
+
+### رضوم (Radum)
+
+Code: YE2117, Coordinates: 13.978, 47.527
+
+

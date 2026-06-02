@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "YE1809",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الضحى",
+      "en": "Ad Dohi",
+      "slug": "ad-dohi-ye1809"
+    },
+    "code": {
+      "id": "YE1809",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.221",
+      "lon": "43.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1814",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الدريهمي",
+      "en": "Ad Durayhimi",
+      "slug": "ad-durayhimi-ye1814"
+    },
+    "code": {
+      "id": "YE1814",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.6",
+      "lon": "43.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1823",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحالي",
+      "en": "Al Hali",
+      "slug": "al-hali-ye1823"
+    },
+    "code": {
+      "id": "YE1823",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.788",
+      "lon": "42.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1821",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحوك",
+      "en": "Al Hawak",
+      "slug": "al-hawak-ye1821"
+    },
+    "code": {
+      "id": "YE1821",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.751",
+      "lon": "42.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1811",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحجيله",
+      "en": "Al Hujjaylah",
+      "slug": "al-hujjaylah-ye1811"
+    },
+    "code": {
+      "id": "YE1811",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.988",
+      "lon": "43.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1825",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الجراحي",
+      "en": "Al Jarrahi",
+      "slug": "al-jarrahi-ye1825"
+    },
+    "code": {
+      "id": "YE1825",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.103",
+      "lon": "43.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1820",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الخوخه",
+      "en": "Al Khukhah",
+      "slug": "al-khukhah-ye1820"
+    },
+    "code": {
+      "id": "YE1820",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.812",
+      "lon": "43.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1816",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المنصوريه",
+      "en": "Al Mansuriyah",
+      "slug": "al-mansuriyah-ye1816"
+    },
+    "code": {
+      "id": "YE1816",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.684",
+      "lon": "43.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1813",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المراوعه",
+      "en": "Al Marawi'ah",
+      "slug": "al-marawiah-ye1813"
+    },
+    "code": {
+      "id": "YE1813",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.843",
+      "lon": "43.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1808",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المغلاف",
+      "en": "Al Mighlaf",
+      "slug": "al-mighlaf-ye1808"
+    },
+    "code": {
+      "id": "YE1808",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.31",
+      "lon": "43.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1822",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الميناء",
+      "en": "Al Mina",
+      "slug": "al-mina-ye1822"
+    },
+    "code": {
+      "id": "YE1822",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.945",
+      "lon": "42.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1805",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المنيره",
+      "en": "Al Munirah",
+      "slug": "al-munirah-ye1805"
+    },
+    "code": {
+      "id": "YE1805",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.353",
+      "lon": "42.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1806",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "القناوص",
+      "en": "Al Qanawis",
+      "slug": "al-qanawis-ye1806"
+    },
+    "code": {
+      "id": "YE1806",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.46",
+      "lon": "43.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1802",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "اللحيه",
+      "en": "Alluhayah",
+      "slug": "alluhayah-ye1802"
+    },
+    "code": {
+      "id": "YE1802",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.641",
+      "lon": "42.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1804",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الصليف",
+      "en": "As Salif",
+      "slug": "as-salif-ye1804"
+    },
+    "code": {
+      "id": "YE1804",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.273",
+      "lon": "42.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1815",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السخنه",
+      "en": "As Sukhnah",
+      "slug": "as-sukhnah-ye1815"
+    },
+    "code": {
+      "id": "YE1815",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.745",
+      "lon": "43.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1826",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "التحيتا",
+      "en": "At Tuhayta",
+      "slug": "at-tuhayta-ye1826"
+    },
+    "code": {
+      "id": "YE1826",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.087",
+      "lon": "43.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1807",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الزيديه",
+      "en": "Az Zaydiah",
+      "slug": "az-zaydiah-ye1807"
+    },
+    "code": {
+      "id": "YE1807",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.3",
+      "lon": "43.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1801",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الزهره",
+      "en": "Az Zuhrah",
+      "slug": "az-zuhrah-ye1801"
+    },
+    "code": {
+      "id": "YE1801",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.723",
+      "lon": "43.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1810",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "باجل",
+      "en": "Bajil",
+      "slug": "bajil-ye1810"
+    },
+    "code": {
+      "id": "YE1810",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.041",
+      "lon": "43.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1817",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بيت الفقيه",
+      "en": "Bayt Al Faqih",
+      "slug": "bayt-al-faqih-ye1817"
+    },
+    "code": {
+      "id": "YE1817",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.461",
+      "lon": "43.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1812",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "برع",
+      "en": "Bura'",
+      "slug": "bura-ye1812"
+    },
+    "code": {
+      "id": "YE1812",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.907",
+      "lon": "43.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1819",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حيس",
+      "en": "Hays",
+      "slug": "hays-ye1819"
+    },
+    "code": {
+      "id": "YE1819",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.93",
+      "lon": "43.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1818",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبل راس",
+      "en": "Jabal Ras",
+      "slug": "jabal-ras-ye1818"
+    },
+    "code": {
+      "id": "YE1818",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.03",
+      "lon": "43.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1803",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "كمران",
+      "en": "Kamaran",
+      "slug": "kamaran-ye1803"
+    },
+    "code": {
+      "id": "YE1803",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.36",
+      "lon": "42.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1824",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "زبيد",
+      "en": "Zabid",
+      "slug": "zabid-ye1824"
+    },
+    "code": {
+      "id": "YE1824",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE18",
+        "level": 1,
+        "name": {
+          "local": "الحديده",
+          "en": "Al Hodeidah",
+          "slug": "al-hodeidah-ye18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.273",
+      "lon": "43.299"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

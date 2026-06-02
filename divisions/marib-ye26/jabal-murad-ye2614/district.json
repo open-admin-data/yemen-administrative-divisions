@@ -1,0 +1,45 @@
+{
+  "id": "YE2614",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "جبل مراد",
+    "en": "Jabal Murad",
+    "slug": "jabal-murad-ye2614"
+  },
+  "code": {
+    "id": "YE2614",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE26",
+    "level": 1,
+    "name": {
+      "local": "مارب",
+      "en": "Ma'rib",
+      "slug": "marib-ye26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.045",
+    "lon": "45.192"
+  },
+  "metadata": {},
+  "source": {}
+}

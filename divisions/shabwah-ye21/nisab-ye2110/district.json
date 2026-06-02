@@ -1,0 +1,45 @@
+{
+  "id": "YE2110",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "نصاب",
+    "en": "Nisab",
+    "slug": "nisab-ye2110"
+  },
+  "code": {
+    "id": "YE2110",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE21",
+    "level": 1,
+    "name": {
+      "local": "شبوه",
+      "en": "Shabwah",
+      "slug": "shabwah-ye21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE21",
+      "level": 1,
+      "name": {
+        "local": "شبوه",
+        "en": "Shabwah",
+        "slug": "shabwah-ye21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.533",
+    "lon": "46.442"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1612",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "خراب المراشى",
+    "en": "Kharab Al Marashi",
+    "slug": "kharab-al-marashi-ye1612"
+  },
+  "code": {
+    "id": "YE1612",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.606",
+    "lon": "44.273"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1719",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "شرس",
+    "en": "Sharas",
+    "slug": "sharas-ye1719"
+  },
+  "code": {
+    "id": "YE1719",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.731",
+    "lon": "43.64"
+  },
+  "metadata": {},
+  "source": {}
+}

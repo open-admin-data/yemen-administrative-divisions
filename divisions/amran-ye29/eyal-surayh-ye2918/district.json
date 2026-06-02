@@ -1,0 +1,45 @@
+{
+  "id": "YE2918",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "عيال سريح",
+    "en": "Eyal Surayh",
+    "slug": "eyal-surayh-ye2918"
+  },
+  "code": {
+    "id": "YE2918",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE29",
+    "level": 1,
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.649",
+    "lon": "44.013"
+  },
+  "metadata": {},
+  "source": {}
+}

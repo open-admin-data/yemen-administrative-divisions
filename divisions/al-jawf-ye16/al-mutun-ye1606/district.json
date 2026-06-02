@@ -1,0 +1,45 @@
+{
+  "id": "YE1606",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المتون",
+    "en": "Al Mutun",
+    "slug": "al-mutun-ye1606"
+  },
+  "code": {
+    "id": "YE1606",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.313",
+    "lon": "44.616"
+  },
+  "metadata": {},
+  "source": {}
+}

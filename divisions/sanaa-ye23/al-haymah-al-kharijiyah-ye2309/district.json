@@ -1,0 +1,45 @@
+{
+  "id": "YE2309",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحيمة الخارجيه",
+    "en": "Al Haymah Al Kharijiyah",
+    "slug": "al-haymah-al-kharijiyah-ye2309"
+  },
+  "code": {
+    "id": "YE2309",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.03",
+    "lon": "43.887"
+  },
+  "metadata": {},
+  "source": {}
+}

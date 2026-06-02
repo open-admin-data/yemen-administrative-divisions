@@ -1,0 +1,45 @@
+{
+  "id": "YE2316",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "جحانه",
+    "en": "Jihanah",
+    "slug": "jihanah-ye2316"
+  },
+  "code": {
+    "id": "YE2316",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.194",
+    "lon": "44.509"
+  },
+  "metadata": {},
+  "source": {}
+}

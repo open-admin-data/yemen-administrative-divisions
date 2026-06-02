@@ -1,0 +1,45 @@
+{
+  "id": "YE2405",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "التواهي",
+    "en": "At Tawahi",
+    "slug": "at-tawahi-ye2405"
+  },
+  "code": {
+    "id": "YE2405",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE24",
+    "level": 1,
+    "name": {
+      "local": "عدن",
+      "en": "Aden",
+      "slug": "aden-ye24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.776",
+    "lon": "44.994"
+  },
+  "metadata": {},
+  "source": {}
+}

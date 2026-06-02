@@ -1,0 +1,54 @@
+# Al Mahwit — Yemen Administrative Divisions
+
+> 9 districts
+> Code: YE27
+> Coordinates: 15.314, 43.502
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الخبت (Al Khabt)
+
+Code: YE2704, Coordinates: 15.487, 43.363
+
+
+### المحويت (Al Mahwit)
+
+Code: YE2709, Coordinates: 15.411, 43.561
+
+
+### مدينة المحويت (Al Mahwit City)
+
+Code: YE2708, Coordinates: 15.462, 43.546
+
+
+### الرجم (Ar Rujum)
+
+Code: YE2703, Coordinates: 15.408, 43.677
+
+
+### الطويله (At Tawilah)
+
+Code: YE2702, Coordinates: 15.463, 43.766
+
+
+### بني سعد (Bani Sa&#39;d)
+
+Code: YE2707, Coordinates: 15.235, 43.489
+
+
+### حفاش (Hufash)
+
+Code: YE2706, Coordinates: 15.375, 43.433
+
+
+### ملحان (Melhan)
+
+Code: YE2705, Coordinates: 15.323, 43.324
+
+
+### شبام كوكبان (Shibam Kawkaban)
+
+Code: YE2701, Coordinates: 15.475, 43.85
+
+

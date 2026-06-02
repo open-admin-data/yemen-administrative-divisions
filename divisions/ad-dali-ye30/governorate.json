@@ -1,0 +1,33 @@
+{
+  "id": "YE30",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "الضالع",
+    "en": "Ad Dali'",
+    "slug": "ad-dali-ye30"
+  },
+  "code": {
+    "id": "YE30",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.891",
+    "lon": "44.79"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/ad-dali-ye30/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

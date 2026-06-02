@@ -1,0 +1,45 @@
+{
+  "id": "YE2102",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الطلح",
+    "en": "At Talh",
+    "slug": "at-talh-ye2102"
+  },
+  "code": {
+    "id": "YE2102",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE21",
+    "level": 1,
+    "name": {
+      "local": "شبوه",
+      "en": "Shabwah",
+      "slug": "shabwah-ye21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE21",
+      "level": 1,
+      "name": {
+        "local": "شبوه",
+        "en": "Shabwah",
+        "slug": "shabwah-ye21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.094",
+    "lon": "47.337"
+  },
+  "metadata": {},
+  "source": {}
+}

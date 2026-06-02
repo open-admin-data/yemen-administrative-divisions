@@ -1,0 +1,45 @@
+{
+  "id": "YE1703",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ميدي",
+    "en": "Midi",
+    "slug": "midi-ye1703"
+  },
+  "code": {
+    "id": "YE1703",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.178",
+    "lon": "42.895"
+  },
+  "metadata": {},
+  "source": {}
+}

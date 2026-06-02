@@ -1,0 +1,45 @@
+{
+  "id": "YE2806",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المسيله",
+    "en": "Al Masilah",
+    "slug": "al-masilah-ye2806"
+  },
+  "code": {
+    "id": "YE2806",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE28",
+    "level": 1,
+    "name": {
+      "local": "المهره",
+      "en": "Al Maharah",
+      "slug": "al-maharah-ye28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.551",
+    "lon": "50.638"
+  },
+  "metadata": {},
+  "source": {}
+}

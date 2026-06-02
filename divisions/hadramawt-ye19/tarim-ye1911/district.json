@@ -1,0 +1,45 @@
+{
+  "id": "YE1911",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "تريم",
+    "en": "Tarim",
+    "slug": "tarim-ye1911"
+  },
+  "code": {
+    "id": "YE1911",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.079",
+    "lon": "49.05"
+  },
+  "metadata": {},
+  "source": {}
+}

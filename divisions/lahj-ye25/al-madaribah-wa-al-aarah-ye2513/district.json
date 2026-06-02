@@ -1,0 +1,45 @@
+{
+  "id": "YE2513",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المضاربة و العاره",
+    "en": "Al Madaribah Wa Al Aarah",
+    "slug": "al-madaribah-wa-al-aarah-ye2513"
+  },
+  "code": {
+    "id": "YE2513",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE25",
+    "level": 1,
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.869",
+    "lon": "43.97"
+  },
+  "metadata": {},
+  "source": {}
+}

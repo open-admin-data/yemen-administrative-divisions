@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "YE1521",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المعافر",
+      "en": "Al Ma'afer",
+      "slug": "al-maafer-ye1521"
+    },
+    "code": {
+      "id": "YE1521",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.376",
+      "lon": "43.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1505",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المخاء",
+      "en": "Al Makha",
+      "slug": "al-makha-ye1505"
+    },
+    "code": {
+      "id": "YE1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.522",
+      "lon": "43.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1522",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المواسط",
+      "en": "Al Mawasit",
+      "slug": "al-mawasit-ye1522"
+    },
+    "code": {
+      "id": "YE1522",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.304",
+      "lon": "44.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1511",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المسراخ",
+      "en": "Al Misrakh",
+      "slug": "al-misrakh-ye1511"
+    },
+    "code": {
+      "id": "YE1511",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.514",
+      "lon": "44.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1517",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المظفر",
+      "en": "Al Mudhaffar",
+      "slug": "al-mudhaffar-ye1517"
+    },
+    "code": {
+      "id": "YE1517",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.582",
+      "lon": "43.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1518",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "القاهره",
+      "en": "Al Qahirah",
+      "slug": "al-qahirah-ye1518"
+    },
+    "code": {
+      "id": "YE1518",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.586",
+      "lon": "44.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1515",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الوازعيه",
+      "en": "Al Wazi'yah",
+      "slug": "al-waziyah-ye1515"
+    },
+    "code": {
+      "id": "YE1515",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.181",
+      "lon": "43.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1513",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الصلو",
+      "en": "As Silw",
+      "slug": "as-silw-ye1513"
+    },
+    "code": {
+      "id": "YE1513",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.347",
+      "lon": "44.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1514",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشمايتين",
+      "en": "Ash Shamayatayn",
+      "slug": "ash-shamayatayn-ye1514"
+    },
+    "code": {
+      "id": "YE1514",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.174",
+      "lon": "44.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1520",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "التعزيه",
+      "en": "At Ta'iziyah",
+      "slug": "at-taiziyah-ye1520"
+    },
+    "code": {
+      "id": "YE1520",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.682",
+      "lon": "44.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1506",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "باب المندب",
+      "en": "Dhubab",
+      "slug": "dhubab-ye1506"
+    },
+    "code": {
+      "id": "YE1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.977",
+      "lon": "43.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1512",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "خدير",
+      "en": "Dimnat Khadir",
+      "slug": "dimnat-khadir-ye1512"
+    },
+    "code": {
+      "id": "YE1512",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.441",
+      "lon": "44.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1516",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حيفان",
+      "en": "Hayfan",
+      "slug": "hayfan-ye1516"
+    },
+    "code": {
+      "id": "YE1516",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.291",
+      "lon": "44.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1508",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبل حبشي",
+      "en": "Jabal Habashi",
+      "slug": "jabal-habashi-ye1508"
+    },
+    "code": {
+      "id": "YE1508",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.465",
+      "lon": "43.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1504",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مقبنه",
+      "en": "Maqbanah",
+      "slug": "maqbanah-ye1504"
+    },
+    "code": {
+      "id": "YE1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.622",
+      "lon": "43.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1509",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مشرعة وحدنان",
+      "en": "Mashr'ah Wa Hadnan",
+      "slug": "mashrah-wa-hadnan-ye1509"
+    },
+    "code": {
+      "id": "YE1509",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.541",
+      "lon": "43.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1501",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ماويه",
+      "en": "Mawiyah",
+      "slug": "mawiyah-ye1501"
+    },
+    "code": {
+      "id": "YE1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.613",
+      "lon": "44.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1507",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "موزع",
+      "en": "Mawza'",
+      "slug": "mawza-ye1507"
+    },
+    "code": {
+      "id": "YE1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.368",
+      "lon": "43.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1510",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صبر الموادم",
+      "en": "Sabir Al Mawadim",
+      "slug": "sabir-al-mawadim-ye1510"
+    },
+    "code": {
+      "id": "YE1510",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.53",
+      "lon": "44.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1519",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صاله",
+      "en": "Salah",
+      "slug": "salah-ye1519"
+    },
+    "code": {
+      "id": "YE1519",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.581",
+      "lon": "44.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1523",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "سامع",
+      "en": "Sami'",
+      "slug": "sami-ye1523"
+    },
+    "code": {
+      "id": "YE1523",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.381",
+      "lon": "44.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1503",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شرعب الرونه",
+      "en": "Shar'ab Ar Rawnah",
+      "slug": "sharab-ar-rawnah-ye1503"
+    },
+    "code": {
+      "id": "YE1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.731",
+      "lon": "43.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1502",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شرعب السلام",
+      "en": "Shar'ab As Salam",
+      "slug": "sharab-as-salam-ye1502"
+    },
+    "code": {
+      "id": "YE1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE15",
+        "level": 1,
+        "name": {
+          "local": "تعز",
+          "en": "Ta'iz",
+          "slug": "taiz-ye15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.783",
+      "lon": "43.892"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

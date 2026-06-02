@@ -1,0 +1,362 @@
+[
+  {
+    "id": "YE2404",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "البريقه",
+      "en": "Al Burayqah",
+      "slug": "al-burayqah-ye2404"
+    },
+    "code": {
+      "id": "YE2404",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE24",
+        "level": 1,
+        "name": {
+          "local": "عدن",
+          "en": "Aden",
+          "slug": "aden-ye24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "44.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2403",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المنصوره",
+      "en": "Al Mansurah",
+      "slug": "al-mansurah-ye2403"
+    },
+    "code": {
+      "id": "YE2403",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE24",
+        "level": 1,
+        "name": {
+          "local": "عدن",
+          "en": "Aden",
+          "slug": "aden-ye24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.841",
+      "lon": "44.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2406",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المعلا",
+      "en": "Al Mu'alla",
+      "slug": "al-mualla-ye2406"
+    },
+    "code": {
+      "id": "YE2406",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE24",
+        "level": 1,
+        "name": {
+          "local": "عدن",
+          "en": "Aden",
+          "slug": "aden-ye24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.791",
+      "lon": "45.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2402",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشيخ عثمان",
+      "en": "Ash Shaykh Othman",
+      "slug": "ash-shaykh-othman-ye2402"
+    },
+    "code": {
+      "id": "YE2402",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE24",
+        "level": 1,
+        "name": {
+          "local": "عدن",
+          "en": "Aden",
+          "slug": "aden-ye24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.885",
+      "lon": "45.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2405",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "التواهي",
+      "en": "At Tawahi",
+      "slug": "at-tawahi-ye2405"
+    },
+    "code": {
+      "id": "YE2405",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE24",
+        "level": 1,
+        "name": {
+          "local": "عدن",
+          "en": "Aden",
+          "slug": "aden-ye24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.776",
+      "lon": "44.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2401",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "دار سعد",
+      "en": "Dar Sa'd",
+      "slug": "dar-sad-ye2401"
+    },
+    "code": {
+      "id": "YE2401",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE24",
+        "level": 1,
+        "name": {
+          "local": "عدن",
+          "en": "Aden",
+          "slug": "aden-ye24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.915",
+      "lon": "44.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2408",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "خور مكسر",
+      "en": "Khur Maksar",
+      "slug": "khur-maksar-ye2408"
+    },
+    "code": {
+      "id": "YE2408",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE24",
+        "level": 1,
+        "name": {
+          "local": "عدن",
+          "en": "Aden",
+          "slug": "aden-ye24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.867",
+      "lon": "45.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2407",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صيره",
+      "en": "Kritar - Sirah",
+      "slug": "kritar-sirah-ye2407"
+    },
+    "code": {
+      "id": "YE2407",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE24",
+        "level": 1,
+        "name": {
+          "local": "عدن",
+          "en": "Aden",
+          "slug": "aden-ye24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.772",
+      "lon": "45.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

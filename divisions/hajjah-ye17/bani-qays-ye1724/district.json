@@ -1,0 +1,45 @@
+{
+  "id": "YE1724",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بني قيس الطور",
+    "en": "Bani Qays",
+    "slug": "bani-qays-ye1724"
+  },
+  "code": {
+    "id": "YE1724",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.63",
+    "lon": "43.331"
+  },
+  "metadata": {},
+  "source": {}
+}

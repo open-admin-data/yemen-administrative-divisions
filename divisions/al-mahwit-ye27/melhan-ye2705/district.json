@@ -1,0 +1,45 @@
+{
+  "id": "YE2705",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ملحان",
+    "en": "Melhan",
+    "slug": "melhan-ye2705"
+  },
+  "code": {
+    "id": "YE2705",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE27",
+    "level": 1,
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.323",
+    "lon": "43.324"
+  },
+  "metadata": {},
+  "source": {}
+}

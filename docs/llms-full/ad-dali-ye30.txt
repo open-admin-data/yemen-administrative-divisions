@@ -1,0 +1,54 @@
+# Ad Dali&#39; — Yemen Administrative Divisions
+
+> 9 districts
+> Code: YE30
+> Coordinates: 13.891, 44.79
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الضالع (Ad Dali&#39;)
+
+Code: YE3006, Coordinates: 13.714, 44.763
+
+
+### الازارق (Al Azariq)
+
+Code: YE3008, Coordinates: 13.648, 44.63
+
+
+### الحصين (Al Hasayn)
+
+Code: YE3005, Coordinates: 13.791, 44.808
+
+
+### الحشاء (Al Husha)
+
+Code: YE3009, Coordinates: 13.753, 44.48
+
+
+### الشعيب (Ash Shu&#39;ayb)
+
+Code: YE3004, Coordinates: 13.836, 44.949
+
+
+### دمت (Damt)
+
+Code: YE3002, Coordinates: 14.105, 44.699
+
+
+### جحاف (Jahaf)
+
+Code: YE3007, Coordinates: 13.73, 44.664
+
+
+### جبن (Juban)
+
+Code: YE3001, Coordinates: 14.052, 44.96
+
+
+### قعطبه (Qa&#39;tabah)
+
+Code: YE3003, Coordinates: 13.929, 44.636
+
+

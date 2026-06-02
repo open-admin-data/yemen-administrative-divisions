@@ -1,0 +1,4333 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/ye/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/yemen-administrative-divisions",
+  "data": [
+    {
+      "id": "YE12",
+      "name": {
+        "local": "ابين",
+        "en": "Abyan",
+        "slug": "abyan-ye12"
+      },
+      "code": {
+        "id": "YE12",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1209",
+          "name": {
+            "local": "احور",
+            "en": "Ahwar",
+            "slug": "ahwar-ye1209"
+          },
+          "code": {
+            "id": "YE1209",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1201",
+          "name": {
+            "local": "المحفد",
+            "en": "Al Mahfad",
+            "slug": "al-mahfad-ye1201"
+          },
+          "code": {
+            "id": "YE1201",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1208",
+          "name": {
+            "local": "الوضيع",
+            "en": "Al Wadi'",
+            "slug": "al-wadi-ye1208"
+          },
+          "code": {
+            "id": "YE1208",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1203",
+          "name": {
+            "local": "جيشان",
+            "en": "Jayshan",
+            "slug": "jayshan-ye1203"
+          },
+          "code": {
+            "id": "YE1203",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1211",
+          "name": {
+            "local": "خنفر",
+            "en": "Khanfar",
+            "slug": "khanfar-ye1211"
+          },
+          "code": {
+            "id": "YE1211",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1204",
+          "name": {
+            "local": "لودر",
+            "en": "Lawdar",
+            "slug": "lawdar-ye1204"
+          },
+          "code": {
+            "id": "YE1204",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1202",
+          "name": {
+            "local": "موديه",
+            "en": "Mudiyah",
+            "slug": "mudiyah-ye1202"
+          },
+          "code": {
+            "id": "YE1202",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1206",
+          "name": {
+            "local": "رصد",
+            "en": "Rassd",
+            "slug": "rassd-ye1206"
+          },
+          "code": {
+            "id": "YE1206",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1207",
+          "name": {
+            "local": "سرار",
+            "en": "Sarar",
+            "slug": "sarar-ye1207"
+          },
+          "code": {
+            "id": "YE1207",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1205",
+          "name": {
+            "local": "سباح",
+            "en": "Sibah",
+            "slug": "sibah-ye1205"
+          },
+          "code": {
+            "id": "YE1205",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1210",
+          "name": {
+            "local": "زنجبار",
+            "en": "Zinjibar",
+            "slug": "zinjibar-ye1210"
+          },
+          "code": {
+            "id": "YE1210",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE30",
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      },
+      "code": {
+        "id": "YE30",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE3006",
+          "name": {
+            "local": "الضالع",
+            "en": "Ad Dali'",
+            "slug": "ad-dali-ye3006"
+          },
+          "code": {
+            "id": "YE3006",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3008",
+          "name": {
+            "local": "الازارق",
+            "en": "Al Azariq",
+            "slug": "al-azariq-ye3008"
+          },
+          "code": {
+            "id": "YE3008",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3005",
+          "name": {
+            "local": "الحصين",
+            "en": "Al Hasayn",
+            "slug": "al-hasayn-ye3005"
+          },
+          "code": {
+            "id": "YE3005",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3009",
+          "name": {
+            "local": "الحشاء",
+            "en": "Al Husha",
+            "slug": "al-husha-ye3009"
+          },
+          "code": {
+            "id": "YE3009",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3004",
+          "name": {
+            "local": "الشعيب",
+            "en": "Ash Shu'ayb",
+            "slug": "ash-shuayb-ye3004"
+          },
+          "code": {
+            "id": "YE3004",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3002",
+          "name": {
+            "local": "دمت",
+            "en": "Damt",
+            "slug": "damt-ye3002"
+          },
+          "code": {
+            "id": "YE3002",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3007",
+          "name": {
+            "local": "جحاف",
+            "en": "Jahaf",
+            "slug": "jahaf-ye3007"
+          },
+          "code": {
+            "id": "YE3007",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3001",
+          "name": {
+            "local": "جبن",
+            "en": "Juban",
+            "slug": "juban-ye3001"
+          },
+          "code": {
+            "id": "YE3001",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3003",
+          "name": {
+            "local": "قعطبه",
+            "en": "Qa'tabah",
+            "slug": "qatabah-ye3003"
+          },
+          "code": {
+            "id": "YE3003",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE24",
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      },
+      "code": {
+        "id": "YE24",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2404",
+          "name": {
+            "local": "البريقه",
+            "en": "Al Burayqah",
+            "slug": "al-burayqah-ye2404"
+          },
+          "code": {
+            "id": "YE2404",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2403",
+          "name": {
+            "local": "المنصوره",
+            "en": "Al Mansurah",
+            "slug": "al-mansurah-ye2403"
+          },
+          "code": {
+            "id": "YE2403",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2406",
+          "name": {
+            "local": "المعلا",
+            "en": "Al Mu'alla",
+            "slug": "al-mualla-ye2406"
+          },
+          "code": {
+            "id": "YE2406",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2402",
+          "name": {
+            "local": "الشيخ عثمان",
+            "en": "Ash Shaykh Othman",
+            "slug": "ash-shaykh-othman-ye2402"
+          },
+          "code": {
+            "id": "YE2402",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2405",
+          "name": {
+            "local": "التواهي",
+            "en": "At Tawahi",
+            "slug": "at-tawahi-ye2405"
+          },
+          "code": {
+            "id": "YE2405",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2401",
+          "name": {
+            "local": "دار سعد",
+            "en": "Dar Sa'd",
+            "slug": "dar-sad-ye2401"
+          },
+          "code": {
+            "id": "YE2401",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2408",
+          "name": {
+            "local": "خور مكسر",
+            "en": "Khur Maksar",
+            "slug": "khur-maksar-ye2408"
+          },
+          "code": {
+            "id": "YE2408",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2407",
+          "name": {
+            "local": "صيره",
+            "en": "Kritar - Sirah",
+            "slug": "kritar-sirah-ye2407"
+          },
+          "code": {
+            "id": "YE2407",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE14",
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      },
+      "code": {
+        "id": "YE14",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1416",
+          "name": {
+            "local": "العرش",
+            "en": "Al Arsh",
+            "slug": "al-arsh-ye1416"
+          },
+          "code": {
+            "id": "YE1416",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1410",
+          "name": {
+            "local": "البيضاء",
+            "en": "Al Bayda",
+            "slug": "al-bayda-ye1410"
+          },
+          "code": {
+            "id": "YE1410",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1409",
+          "name": {
+            "local": "مدينة البيضاء",
+            "en": "Al Bayda City",
+            "slug": "al-bayda-city-ye1409"
+          },
+          "code": {
+            "id": "YE1409",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1420",
+          "name": {
+            "local": "الملاجم",
+            "en": "Al Malajim",
+            "slug": "al-malajim-ye1420"
+          },
+          "code": {
+            "id": "YE1420",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1414",
+          "name": {
+            "local": "القريشيه",
+            "en": "Al Quraishyah",
+            "slug": "al-quraishyah-ye1414"
+          },
+          "code": {
+            "id": "YE1414",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1418",
+          "name": {
+            "local": "الرياشيه",
+            "en": "Ar Ryashyyah",
+            "slug": "ar-ryashyyah-ye1418"
+          },
+          "code": {
+            "id": "YE1418",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1411",
+          "name": {
+            "local": "السواديه",
+            "en": "As Sawadiyah",
+            "slug": "as-sawadiyah-ye1411"
+          },
+          "code": {
+            "id": "YE1411",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1404",
+          "name": {
+            "local": "الصومعه",
+            "en": "As Sawma'ah",
+            "slug": "as-sawmaah-ye1404"
+          },
+          "code": {
+            "id": "YE1404",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1419",
+          "name": {
+            "local": "الشريه",
+            "en": "Ash Sharyah",
+            "slug": "ash-sharyah-ye1419"
+          },
+          "code": {
+            "id": "YE1419",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1407",
+          "name": {
+            "local": "الطفه",
+            "en": "At Taffah",
+            "slug": "at-taffah-ye1407"
+          },
+          "code": {
+            "id": "YE1407",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1405",
+          "name": {
+            "local": "الزاهر",
+            "en": "Az Zahir",
+            "slug": "az-zahir-ye1405"
+          },
+          "code": {
+            "id": "YE1405",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1406",
+          "name": {
+            "local": "ذي ناعم",
+            "en": "Dhi Na'im",
+            "slug": "dhi-naim-ye1406"
+          },
+          "code": {
+            "id": "YE1406",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1403",
+          "name": {
+            "local": "مسوره",
+            "en": "Maswarah",
+            "slug": "maswarah-ye1403"
+          },
+          "code": {
+            "id": "YE1403",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1408",
+          "name": {
+            "local": "مكيراس",
+            "en": "Mukayras",
+            "slug": "mukayras-ye1408"
+          },
+          "code": {
+            "id": "YE1408",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1402",
+          "name": {
+            "local": "ناطع",
+            "en": "Nati'",
+            "slug": "nati-ye1402"
+          },
+          "code": {
+            "id": "YE1402",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1401",
+          "name": {
+            "local": "نعمان",
+            "en": "Nu'man",
+            "slug": "numan-ye1401"
+          },
+          "code": {
+            "id": "YE1401",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1413",
+          "name": {
+            "local": "رداع",
+            "en": "Rada'",
+            "slug": "rada-ye1413"
+          },
+          "code": {
+            "id": "YE1413",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1412",
+          "name": {
+            "local": "ردمان",
+            "en": "Radman",
+            "slug": "radman-ye1412"
+          },
+          "code": {
+            "id": "YE1412",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1417",
+          "name": {
+            "local": "صباح",
+            "en": "Sabah",
+            "slug": "sabah-ye1417"
+          },
+          "code": {
+            "id": "YE1417",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1415",
+          "name": {
+            "local": "ولدربيع",
+            "en": "Wald Rabi'",
+            "slug": "wald-rabi-ye1415"
+          },
+          "code": {
+            "id": "YE1415",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE18",
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      },
+      "code": {
+        "id": "YE18",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1809",
+          "name": {
+            "local": "الضحى",
+            "en": "Ad Dohi",
+            "slug": "ad-dohi-ye1809"
+          },
+          "code": {
+            "id": "YE1809",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1814",
+          "name": {
+            "local": "الدريهمي",
+            "en": "Ad Durayhimi",
+            "slug": "ad-durayhimi-ye1814"
+          },
+          "code": {
+            "id": "YE1814",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1823",
+          "name": {
+            "local": "الحالي",
+            "en": "Al Hali",
+            "slug": "al-hali-ye1823"
+          },
+          "code": {
+            "id": "YE1823",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1821",
+          "name": {
+            "local": "الحوك",
+            "en": "Al Hawak",
+            "slug": "al-hawak-ye1821"
+          },
+          "code": {
+            "id": "YE1821",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1811",
+          "name": {
+            "local": "الحجيله",
+            "en": "Al Hujjaylah",
+            "slug": "al-hujjaylah-ye1811"
+          },
+          "code": {
+            "id": "YE1811",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1825",
+          "name": {
+            "local": "الجراحي",
+            "en": "Al Jarrahi",
+            "slug": "al-jarrahi-ye1825"
+          },
+          "code": {
+            "id": "YE1825",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1820",
+          "name": {
+            "local": "الخوخه",
+            "en": "Al Khukhah",
+            "slug": "al-khukhah-ye1820"
+          },
+          "code": {
+            "id": "YE1820",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1816",
+          "name": {
+            "local": "المنصوريه",
+            "en": "Al Mansuriyah",
+            "slug": "al-mansuriyah-ye1816"
+          },
+          "code": {
+            "id": "YE1816",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1813",
+          "name": {
+            "local": "المراوعه",
+            "en": "Al Marawi'ah",
+            "slug": "al-marawiah-ye1813"
+          },
+          "code": {
+            "id": "YE1813",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1808",
+          "name": {
+            "local": "المغلاف",
+            "en": "Al Mighlaf",
+            "slug": "al-mighlaf-ye1808"
+          },
+          "code": {
+            "id": "YE1808",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1822",
+          "name": {
+            "local": "الميناء",
+            "en": "Al Mina",
+            "slug": "al-mina-ye1822"
+          },
+          "code": {
+            "id": "YE1822",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1805",
+          "name": {
+            "local": "المنيره",
+            "en": "Al Munirah",
+            "slug": "al-munirah-ye1805"
+          },
+          "code": {
+            "id": "YE1805",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1806",
+          "name": {
+            "local": "القناوص",
+            "en": "Al Qanawis",
+            "slug": "al-qanawis-ye1806"
+          },
+          "code": {
+            "id": "YE1806",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1802",
+          "name": {
+            "local": "اللحيه",
+            "en": "Alluhayah",
+            "slug": "alluhayah-ye1802"
+          },
+          "code": {
+            "id": "YE1802",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1804",
+          "name": {
+            "local": "الصليف",
+            "en": "As Salif",
+            "slug": "as-salif-ye1804"
+          },
+          "code": {
+            "id": "YE1804",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1815",
+          "name": {
+            "local": "السخنه",
+            "en": "As Sukhnah",
+            "slug": "as-sukhnah-ye1815"
+          },
+          "code": {
+            "id": "YE1815",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1826",
+          "name": {
+            "local": "التحيتا",
+            "en": "At Tuhayta",
+            "slug": "at-tuhayta-ye1826"
+          },
+          "code": {
+            "id": "YE1826",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1807",
+          "name": {
+            "local": "الزيديه",
+            "en": "Az Zaydiah",
+            "slug": "az-zaydiah-ye1807"
+          },
+          "code": {
+            "id": "YE1807",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1801",
+          "name": {
+            "local": "الزهره",
+            "en": "Az Zuhrah",
+            "slug": "az-zuhrah-ye1801"
+          },
+          "code": {
+            "id": "YE1801",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1810",
+          "name": {
+            "local": "باجل",
+            "en": "Bajil",
+            "slug": "bajil-ye1810"
+          },
+          "code": {
+            "id": "YE1810",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1817",
+          "name": {
+            "local": "بيت الفقيه",
+            "en": "Bayt Al Faqih",
+            "slug": "bayt-al-faqih-ye1817"
+          },
+          "code": {
+            "id": "YE1817",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1812",
+          "name": {
+            "local": "برع",
+            "en": "Bura'",
+            "slug": "bura-ye1812"
+          },
+          "code": {
+            "id": "YE1812",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1819",
+          "name": {
+            "local": "حيس",
+            "en": "Hays",
+            "slug": "hays-ye1819"
+          },
+          "code": {
+            "id": "YE1819",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1818",
+          "name": {
+            "local": "جبل راس",
+            "en": "Jabal Ras",
+            "slug": "jabal-ras-ye1818"
+          },
+          "code": {
+            "id": "YE1818",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1803",
+          "name": {
+            "local": "كمران",
+            "en": "Kamaran",
+            "slug": "kamaran-ye1803"
+          },
+          "code": {
+            "id": "YE1803",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1824",
+          "name": {
+            "local": "زبيد",
+            "en": "Zabid",
+            "slug": "zabid-ye1824"
+          },
+          "code": {
+            "id": "YE1824",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE16",
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      },
+      "code": {
+        "id": "YE16",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1608",
+          "name": {
+            "local": "الغيل",
+            "en": "Al Ghayl",
+            "slug": "al-ghayl-ye1608"
+          },
+          "code": {
+            "id": "YE1608",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1605",
+          "name": {
+            "local": "الحزم",
+            "en": "Al Hazm",
+            "slug": "al-hazm-ye1605"
+          },
+          "code": {
+            "id": "YE1605",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1602",
+          "name": {
+            "local": "الحميدات",
+            "en": "Al Humaydat",
+            "slug": "al-humaydat-ye1602"
+          },
+          "code": {
+            "id": "YE1602",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1609",
+          "name": {
+            "local": "الخلق",
+            "en": "Al Khalaq",
+            "slug": "al-khalaq-ye1609"
+          },
+          "code": {
+            "id": "YE1609",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1607",
+          "name": {
+            "local": "المصلوب",
+            "en": "Al Maslub",
+            "slug": "al-maslub-ye1607"
+          },
+          "code": {
+            "id": "YE1607",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1603",
+          "name": {
+            "local": "المطمه",
+            "en": "Al Matammah",
+            "slug": "al-matammah-ye1603"
+          },
+          "code": {
+            "id": "YE1603",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1606",
+          "name": {
+            "local": "المتون",
+            "en": "Al Mutun",
+            "slug": "al-mutun-ye1606"
+          },
+          "code": {
+            "id": "YE1606",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1604",
+          "name": {
+            "local": "الزاهر",
+            "en": "Az Zahir",
+            "slug": "az-zahir-ye1604"
+          },
+          "code": {
+            "id": "YE1604",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1610",
+          "name": {
+            "local": "برط العنان",
+            "en": "Barat Al Anan",
+            "slug": "barat-al-anan-ye1610"
+          },
+          "code": {
+            "id": "YE1610",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1601",
+          "name": {
+            "local": "خب و الشعف",
+            "en": "Khab wa Ash Sha'f",
+            "slug": "khab-wa-ash-shaf-ye1601"
+          },
+          "code": {
+            "id": "YE1601",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1612",
+          "name": {
+            "local": "خراب المراشى",
+            "en": "Kharab Al Marashi",
+            "slug": "kharab-al-marashi-ye1612"
+          },
+          "code": {
+            "id": "YE1612",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1611",
+          "name": {
+            "local": "رجوزه",
+            "en": "Rajuzah",
+            "slug": "rajuzah-ye1611"
+          },
+          "code": {
+            "id": "YE1611",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE28",
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      },
+      "code": {
+        "id": "YE28",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2804",
+          "name": {
+            "local": "الغيظه",
+            "en": "Al Ghaydhah",
+            "slug": "al-ghaydhah-ye2804"
+          },
+          "code": {
+            "id": "YE2804",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2806",
+          "name": {
+            "local": "المسيله",
+            "en": "Al Masilah",
+            "slug": "al-masilah-ye2806"
+          },
+          "code": {
+            "id": "YE2806",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2809",
+          "name": {
+            "local": "حصوين",
+            "en": "Haswin",
+            "slug": "haswin-ye2809"
+          },
+          "code": {
+            "id": "YE2809",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2802",
+          "name": {
+            "local": "حات",
+            "en": "Hat",
+            "slug": "hat-ye2802"
+          },
+          "code": {
+            "id": "YE2802",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2803",
+          "name": {
+            "local": "حوف",
+            "en": "Hawf",
+            "slug": "hawf-ye2803"
+          },
+          "code": {
+            "id": "YE2803",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2805",
+          "name": {
+            "local": "منعر",
+            "en": "Man'ar",
+            "slug": "manar-ye2805"
+          },
+          "code": {
+            "id": "YE2805",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2808",
+          "name": {
+            "local": "قشن",
+            "en": "Qishn",
+            "slug": "qishn-ye2808"
+          },
+          "code": {
+            "id": "YE2808",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2807",
+          "name": {
+            "local": "سيحوت",
+            "en": "Sayhut",
+            "slug": "sayhut-ye2807"
+          },
+          "code": {
+            "id": "YE2807",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2801",
+          "name": {
+            "local": "شحن",
+            "en": "Shahin",
+            "slug": "shahin-ye2801"
+          },
+          "code": {
+            "id": "YE2801",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE27",
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      },
+      "code": {
+        "id": "YE27",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2704",
+          "name": {
+            "local": "الخبت",
+            "en": "Al Khabt",
+            "slug": "al-khabt-ye2704"
+          },
+          "code": {
+            "id": "YE2704",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2709",
+          "name": {
+            "local": "المحويت",
+            "en": "Al Mahwit",
+            "slug": "al-mahwit-ye2709"
+          },
+          "code": {
+            "id": "YE2709",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2708",
+          "name": {
+            "local": "مدينة المحويت",
+            "en": "Al Mahwit City",
+            "slug": "al-mahwit-city-ye2708"
+          },
+          "code": {
+            "id": "YE2708",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2703",
+          "name": {
+            "local": "الرجم",
+            "en": "Ar Rujum",
+            "slug": "ar-rujum-ye2703"
+          },
+          "code": {
+            "id": "YE2703",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2702",
+          "name": {
+            "local": "الطويله",
+            "en": "At Tawilah",
+            "slug": "at-tawilah-ye2702"
+          },
+          "code": {
+            "id": "YE2702",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2707",
+          "name": {
+            "local": "بني سعد",
+            "en": "Bani Sa'd",
+            "slug": "bani-sad-ye2707"
+          },
+          "code": {
+            "id": "YE2707",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2706",
+          "name": {
+            "local": "حفاش",
+            "en": "Hufash",
+            "slug": "hufash-ye2706"
+          },
+          "code": {
+            "id": "YE2706",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2705",
+          "name": {
+            "local": "ملحان",
+            "en": "Melhan",
+            "slug": "melhan-ye2705"
+          },
+          "code": {
+            "id": "YE2705",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2701",
+          "name": {
+            "local": "شبام كوكبان",
+            "en": "Shibam Kawkaban",
+            "slug": "shibam-kawkaban-ye2701"
+          },
+          "code": {
+            "id": "YE2701",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE29",
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      },
+      "code": {
+        "id": "YE29",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2903",
+          "name": {
+            "local": "العشه",
+            "en": "Al Ashah",
+            "slug": "al-ashah-ye2903"
+          },
+          "code": {
+            "id": "YE2903",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2906",
+          "name": {
+            "local": "المدان",
+            "en": "Al Madan",
+            "slug": "al-madan-ye2906"
+          },
+          "code": {
+            "id": "YE2906",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2915",
+          "name": {
+            "local": "عمران",
+            "en": "Amran",
+            "slug": "amran-ye2915"
+          },
+          "code": {
+            "id": "YE2915",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2914",
+          "name": {
+            "local": "السود",
+            "en": "As Sawd",
+            "slug": "as-sawd-ye2914"
+          },
+          "code": {
+            "id": "YE2914",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2913",
+          "name": {
+            "local": "السوده",
+            "en": "As Sudah",
+            "slug": "as-sudah-ye2913"
+          },
+          "code": {
+            "id": "YE2913",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2920",
+          "name": {
+            "local": "بني صريم",
+            "en": "Bani Surim",
+            "slug": "bani-surim-ye2920"
+          },
+          "code": {
+            "id": "YE2920",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2909",
+          "name": {
+            "local": "ذيبين",
+            "en": "Dhibain",
+            "slug": "dhibain-ye2909"
+          },
+          "code": {
+            "id": "YE2909",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2908",
+          "name": {
+            "local": "ظليمة حبور",
+            "en": "Dhulaymat Habur",
+            "slug": "dhulaymat-habur-ye2908"
+          },
+          "code": {
+            "id": "YE2908",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2918",
+          "name": {
+            "local": "عيال سريح",
+            "en": "Eyal Surayh",
+            "slug": "eyal-surayh-ye2918"
+          },
+          "code": {
+            "id": "YE2918",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2901",
+          "name": {
+            "local": "حرف سفيان",
+            "en": "Harf Sufyan",
+            "slug": "harf-sufyan-ye2901"
+          },
+          "code": {
+            "id": "YE2901",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2902",
+          "name": {
+            "local": "حوث",
+            "en": "Huth",
+            "slug": "huth-ye2902"
+          },
+          "code": {
+            "id": "YE2902",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2912",
+          "name": {
+            "local": "جبل عيال يزيد",
+            "en": "Jabal Eyal Yazid",
+            "slug": "jabal-eyal-yazid-ye2912"
+          },
+          "code": {
+            "id": "YE2912",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2919",
+          "name": {
+            "local": "خمر",
+            "en": "Khamir",
+            "slug": "khamir-ye2919"
+          },
+          "code": {
+            "id": "YE2919",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2910",
+          "name": {
+            "local": "خارف",
+            "en": "Kharif",
+            "slug": "kharif-ye2910"
+          },
+          "code": {
+            "id": "YE2910",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2916",
+          "name": {
+            "local": "مسور",
+            "en": "Maswar",
+            "slug": "maswar-ye2916"
+          },
+          "code": {
+            "id": "YE2916",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2904",
+          "name": {
+            "local": "قفلة عذر",
+            "en": "Qaflat Odhar",
+            "slug": "qaflat-odhar-ye2904"
+          },
+          "code": {
+            "id": "YE2904",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2911",
+          "name": {
+            "local": "ريده",
+            "en": "Raydah",
+            "slug": "raydah-ye2911"
+          },
+          "code": {
+            "id": "YE2911",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2905",
+          "name": {
+            "local": "شهاره",
+            "en": "Shaharah",
+            "slug": "shaharah-ye2905"
+          },
+          "code": {
+            "id": "YE2905",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2907",
+          "name": {
+            "local": "صوير",
+            "en": "Suwayr",
+            "slug": "suwayr-ye2907"
+          },
+          "code": {
+            "id": "YE2907",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2917",
+          "name": {
+            "local": "ثلاء",
+            "en": "Thula",
+            "slug": "thula-ye2917"
+          },
+          "code": {
+            "id": "YE2917",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE20",
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      },
+      "code": {
+        "id": "YE20",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2001",
+          "name": {
+            "local": "الحداء",
+            "en": "Al Hada",
+            "slug": "al-hada-ye2001"
+          },
+          "code": {
+            "id": "YE2001",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2012",
+          "name": {
+            "local": "المنار",
+            "en": "Al Manar",
+            "slug": "al-manar-ye2012"
+          },
+          "code": {
+            "id": "YE2012",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2010",
+          "name": {
+            "local": "عنس",
+            "en": "Ans",
+            "slug": "ans-ye2010"
+          },
+          "code": {
+            "id": "YE2010",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2011",
+          "name": {
+            "local": "ضوران انس",
+            "en": "Dawran Anis",
+            "slug": "dawran-anis-ye2011"
+          },
+          "code": {
+            "id": "YE2011",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2008",
+          "name": {
+            "local": "مدينة ذمار",
+            "en": "Dhamar City",
+            "slug": "dhamar-city-ye2008"
+          },
+          "code": {
+            "id": "YE2008",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2003",
+          "name": {
+            "local": "جبل الشرق",
+            "en": "Jabal Ash sharq",
+            "slug": "jabal-ash-sharq-ye2003"
+          },
+          "code": {
+            "id": "YE2003",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2002",
+          "name": {
+            "local": "جهران",
+            "en": "Jahran",
+            "slug": "jahran-ye2002"
+          },
+          "code": {
+            "id": "YE2002",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2004",
+          "name": {
+            "local": "مغرب عنس",
+            "en": "Maghrib Ans",
+            "slug": "maghrib-ans-ye2004"
+          },
+          "code": {
+            "id": "YE2004",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2009",
+          "name": {
+            "local": "ميفعة عنس",
+            "en": "Mayfa'at Ans",
+            "slug": "mayfaat-ans-ye2009"
+          },
+          "code": {
+            "id": "YE2009",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2005",
+          "name": {
+            "local": "عتمه",
+            "en": "Otmah",
+            "slug": "otmah-ye2005"
+          },
+          "code": {
+            "id": "YE2005",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2006",
+          "name": {
+            "local": "وصاب العالي",
+            "en": "Wusab Al Aali",
+            "slug": "wusab-al-aali-ye2006"
+          },
+          "code": {
+            "id": "YE2006",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2007",
+          "name": {
+            "local": "وصاب السافل",
+            "en": "Wusab As Safil",
+            "slug": "wusab-as-safil-ye2007"
+          },
+          "code": {
+            "id": "YE2007",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE19",
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      },
+      "code": {
+        "id": "YE19",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1914",
+          "name": {
+            "local": "الديس",
+            "en": "Ad Dis",
+            "slug": "ad-dis-ye1914"
+          },
+          "code": {
+            "id": "YE1914",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1922",
+          "name": {
+            "local": "الضليعه",
+            "en": "Ad Dulay'ah",
+            "slug": "ad-dulayah-ye1922"
+          },
+          "code": {
+            "id": "YE1922",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1906",
+          "name": {
+            "local": "العبر",
+            "en": "Al Abr",
+            "slug": "al-abr-ye1906"
+          },
+          "code": {
+            "id": "YE1906",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1926",
+          "name": {
+            "local": "المكلا",
+            "en": "Al Mukalla",
+            "slug": "al-mukalla-ye1926"
+          },
+          "code": {
+            "id": "YE1926",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1927",
+          "name": {
+            "local": "مدينة المكلا",
+            "en": "Al Mukalla City",
+            "slug": "al-mukalla-city-ye1927"
+          },
+          "code": {
+            "id": "YE1927",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1903",
+          "name": {
+            "local": "القف",
+            "en": "Al Qaff",
+            "slug": "al-qaff-ye1903"
+          },
+          "code": {
+            "id": "YE1903",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1907",
+          "name": {
+            "local": "القطن",
+            "en": "Al Qatn",
+            "slug": "al-qatn-ye1907"
+          },
+          "code": {
+            "id": "YE1907",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1921",
+          "name": {
+            "local": "عمد",
+            "en": "Amd",
+            "slug": "amd-ye1921"
+          },
+          "code": {
+            "id": "YE1921",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1913",
+          "name": {
+            "local": "الريدة وقصيعر",
+            "en": "Ar Raydah wa Qussay'ar",
+            "slug": "ar-raydah-wa-qussayar-ye1913"
+          },
+          "code": {
+            "id": "YE1913",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1912",
+          "name": {
+            "local": "السوم",
+            "en": "As Sawm",
+            "slug": "as-sawm-ye1912"
+          },
+          "code": {
+            "id": "YE1912",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1915",
+          "name": {
+            "local": "الشحر",
+            "en": "Ash Shihr",
+            "slug": "ash-shihr-ye1915"
+          },
+          "code": {
+            "id": "YE1915",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1925",
+          "name": {
+            "local": "بروم ميفع",
+            "en": "Brum Mayf'ah",
+            "slug": "brum-mayfah-ye1925"
+          },
+          "code": {
+            "id": "YE1925",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1918",
+          "name": {
+            "local": "دوعن",
+            "en": "Daw'an",
+            "slug": "dawan-ye1918"
+          },
+          "code": {
+            "id": "YE1918",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1917",
+          "name": {
+            "local": "غيل باوزير",
+            "en": "Ghayl Bawazir",
+            "slug": "ghayl-bawazir-ye1917"
+          },
+          "code": {
+            "id": "YE1917",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1916",
+          "name": {
+            "local": "غيل بن يمين",
+            "en": "Ghayl bin Yamin",
+            "slug": "ghayl-bin-yamin-ye1916"
+          },
+          "code": {
+            "id": "YE1916",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1924",
+          "name": {
+            "local": "حجر",
+            "en": "Hajar",
+            "slug": "hajar-ye1924"
+          },
+          "code": {
+            "id": "YE1924",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1905",
+          "name": {
+            "local": "حجر الصيعر",
+            "en": "Hajar As Say'ar",
+            "slug": "hajar-as-sayar-ye1905"
+          },
+          "code": {
+            "id": "YE1905",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1928",
+          "name": {
+            "local": "حريضه",
+            "en": "Haridah",
+            "slug": "haridah-ye1928"
+          },
+          "code": {
+            "id": "YE1928",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1920",
+          "name": {
+            "local": "رخيه",
+            "en": "Rakhyah",
+            "slug": "rakhyah-ye1920"
+          },
+          "code": {
+            "id": "YE1920",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1901",
+          "name": {
+            "local": "رماه",
+            "en": "Rumah",
+            "slug": "rumah-ye1901"
+          },
+          "code": {
+            "id": "YE1901",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1909",
+          "name": {
+            "local": "ساه",
+            "en": "Sah",
+            "slug": "sah-ye1909"
+          },
+          "code": {
+            "id": "YE1909",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1910",
+          "name": {
+            "local": "سيئون",
+            "en": "Sayun",
+            "slug": "sayun-ye1910"
+          },
+          "code": {
+            "id": "YE1910",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1908",
+          "name": {
+            "local": "شبام",
+            "en": "Shibam",
+            "slug": "shibam-ye1908"
+          },
+          "code": {
+            "id": "YE1908",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1911",
+          "name": {
+            "local": "تريم",
+            "en": "Tarim",
+            "slug": "tarim-ye1911"
+          },
+          "code": {
+            "id": "YE1911",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1902",
+          "name": {
+            "local": "ثمود",
+            "en": "Thamud",
+            "slug": "thamud-ye1902"
+          },
+          "code": {
+            "id": "YE1902",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1919",
+          "name": {
+            "local": "وادي العين",
+            "en": "Wadi Al Ayn",
+            "slug": "wadi-al-ayn-ye1919"
+          },
+          "code": {
+            "id": "YE1919",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1923",
+          "name": {
+            "local": "يبعث",
+            "en": "Yab'uth",
+            "slug": "yabuth-ye1923"
+          },
+          "code": {
+            "id": "YE1923",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1904",
+          "name": {
+            "local": "زمخ ومنوخ",
+            "en": "Zamakh wa Manwokh",
+            "slug": "zamakh-wa-manwokh-ye1904"
+          },
+          "code": {
+            "id": "YE1904",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE17",
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      },
+      "code": {
+        "id": "YE17",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1704",
+          "name": {
+            "local": "عبس",
+            "en": "Abs",
+            "slug": "abs-ye1704"
+          },
+          "code": {
+            "id": "YE1704",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1714",
+          "name": {
+            "local": "افلح اليمن",
+            "en": "Aflah Al Yaman",
+            "slug": "aflah-al-yaman-ye1714"
+          },
+          "code": {
+            "id": "YE1714",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1710",
+          "name": {
+            "local": "افلح الشام",
+            "en": "Aflah Ash Sham",
+            "slug": "aflah-ash-sham-ye1710"
+          },
+          "code": {
+            "id": "YE1710",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1708",
+          "name": {
+            "local": "الجميمه",
+            "en": "Al Jamimah",
+            "slug": "al-jamimah-ye1708"
+          },
+          "code": {
+            "id": "YE1708",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1717",
+          "name": {
+            "local": "المغربه",
+            "en": "Al Maghrabah",
+            "slug": "al-maghrabah-ye1717"
+          },
+          "code": {
+            "id": "YE1717",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1715",
+          "name": {
+            "local": "المحابشه",
+            "en": "Al Mahabishah",
+            "slug": "al-mahabishah-ye1715"
+          },
+          "code": {
+            "id": "YE1715",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1716",
+          "name": {
+            "local": "المفتاح",
+            "en": "Al Miftah",
+            "slug": "al-miftah-ye1716"
+          },
+          "code": {
+            "id": "YE1716",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1725",
+          "name": {
+            "local": "الشغادره",
+            "en": "Ash Shaghadirah",
+            "slug": "ash-shaghadirah-ye1725"
+          },
+          "code": {
+            "id": "YE1725",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1721",
+          "name": {
+            "local": "الشاهل",
+            "en": "Ash Shahil",
+            "slug": "ash-shahil-ye1721"
+          },
+          "code": {
+            "id": "YE1721",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1712",
+          "name": {
+            "local": "اسلم",
+            "en": "Aslam",
+            "slug": "aslam-ye1712"
+          },
+          "code": {
+            "id": "YE1712",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1701",
+          "name": {
+            "local": "بكيل المير",
+            "en": "Bakil Al Mir",
+            "slug": "bakil-al-mir-ye1701"
+          },
+          "code": {
+            "id": "YE1701",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1727",
+          "name": {
+            "local": "بني العوام",
+            "en": "Bani Al Awam",
+            "slug": "bani-al-awam-ye1727"
+          },
+          "code": {
+            "id": "YE1727",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1724",
+          "name": {
+            "local": "بني قيس الطور",
+            "en": "Bani Qays",
+            "slug": "bani-qays-ye1724"
+          },
+          "code": {
+            "id": "YE1724",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1729",
+          "name": {
+            "local": "حجه",
+            "en": "Hajjah",
+            "slug": "hajjah-ye1729"
+          },
+          "code": {
+            "id": "YE1729",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1728",
+          "name": {
+            "local": "مدينة حجه",
+            "en": "Hajjah City",
+            "slug": "hajjah-city-ye1728"
+          },
+          "code": {
+            "id": "YE1728",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1702",
+          "name": {
+            "local": "حرض",
+            "en": "Harad",
+            "slug": "harad-ye1702"
+          },
+          "code": {
+            "id": "YE1702",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1705",
+          "name": {
+            "local": "حيران",
+            "en": "Hayran",
+            "slug": "hayran-ye1705"
+          },
+          "code": {
+            "id": "YE1705",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1711",
+          "name": {
+            "local": "خيران المحرق",
+            "en": "Khayran Al Muharraq",
+            "slug": "khayran-al-muharraq-ye1711"
+          },
+          "code": {
+            "id": "YE1711",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1722",
+          "name": {
+            "local": "كعيدنه",
+            "en": "Ku'aydinah",
+            "slug": "kuaydinah-ye1722"
+          },
+          "code": {
+            "id": "YE1722",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1718",
+          "name": {
+            "local": "كحلان عفار",
+            "en": "Kuhlan Afar",
+            "slug": "kuhlan-afar-ye1718"
+          },
+          "code": {
+            "id": "YE1718",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1709",
+          "name": {
+            "local": "كحلان الشرف",
+            "en": "Kuhlan Ash Sharaf",
+            "slug": "kuhlan-ash-sharaf-ye1709"
+          },
+          "code": {
+            "id": "YE1709",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1707",
+          "name": {
+            "local": "كشر",
+            "en": "Kushar",
+            "slug": "kushar-ye1707"
+          },
+          "code": {
+            "id": "YE1707",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1720",
+          "name": {
+            "local": "مبين",
+            "en": "Mabyan",
+            "slug": "mabyan-ye1720"
+          },
+          "code": {
+            "id": "YE1720",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1703",
+          "name": {
+            "local": "ميدي",
+            "en": "Midi",
+            "slug": "midi-ye1703"
+          },
+          "code": {
+            "id": "YE1703",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1706",
+          "name": {
+            "local": "مستباء",
+            "en": "Mustaba",
+            "slug": "mustaba-ye1706"
+          },
+          "code": {
+            "id": "YE1706",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1726",
+          "name": {
+            "local": "نجره",
+            "en": "Najrah",
+            "slug": "najrah-ye1726"
+          },
+          "code": {
+            "id": "YE1726",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1713",
+          "name": {
+            "local": "قفل شمر",
+            "en": "Qafl Shammar",
+            "slug": "qafl-shammar-ye1713"
+          },
+          "code": {
+            "id": "YE1713",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1731",
+          "name": {
+            "local": "قاره",
+            "en": "Qarah",
+            "slug": "qarah-ye1731"
+          },
+          "code": {
+            "id": "YE1731",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1719",
+          "name": {
+            "local": "شرس",
+            "en": "Sharas",
+            "slug": "sharas-ye1719"
+          },
+          "code": {
+            "id": "YE1719",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1723",
+          "name": {
+            "local": "وضره",
+            "en": "Wadrah",
+            "slug": "wadrah-ye1723"
+          },
+          "code": {
+            "id": "YE1723",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1730",
+          "name": {
+            "local": "وشحه",
+            "en": "Washhah",
+            "slug": "washhah-ye1730"
+          },
+          "code": {
+            "id": "YE1730",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE11",
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      },
+      "code": {
+        "id": "YE11",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1119",
+          "name": {
+            "local": "الظهار",
+            "en": "Adh Dhihar",
+            "slug": "adh-dhihar-ye1119"
+          },
+          "code": {
+            "id": "YE1119",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1107",
+          "name": {
+            "local": "المخادر",
+            "en": "Al Makhadir",
+            "slug": "al-makhadir-ye1107"
+          },
+          "code": {
+            "id": "YE1107",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1118",
+          "name": {
+            "local": "المشنه",
+            "en": "Al Mashannah",
+            "slug": "al-mashannah-ye1118"
+          },
+          "code": {
+            "id": "YE1118",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1111",
+          "name": {
+            "local": "العدين",
+            "en": "Al Odayn",
+            "slug": "al-odayn-ye1111"
+          },
+          "code": {
+            "id": "YE1111",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1101",
+          "name": {
+            "local": "القفر",
+            "en": "Al Qafr",
+            "slug": "al-qafr-ye1101"
+          },
+          "code": {
+            "id": "YE1101",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1104",
+          "name": {
+            "local": "النادره",
+            "en": "An Nadirah",
+            "slug": "an-nadirah-ye1104"
+          },
+          "code": {
+            "id": "YE1104",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1103",
+          "name": {
+            "local": "الرضمه",
+            "en": "Ar Radmah",
+            "slug": "ar-radmah-ye1103"
+          },
+          "code": {
+            "id": "YE1103",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1114",
+          "name": {
+            "local": "السبره",
+            "en": "As Sabrah",
+            "slug": "as-sabrah-ye1114"
+          },
+          "code": {
+            "id": "YE1114",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1106",
+          "name": {
+            "local": "السده",
+            "en": "As Saddah",
+            "slug": "as-saddah-ye1106"
+          },
+          "code": {
+            "id": "YE1106",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1115",
+          "name": {
+            "local": "السياني",
+            "en": "As Saiyani",
+            "slug": "as-saiyani-ye1115"
+          },
+          "code": {
+            "id": "YE1115",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1105",
+          "name": {
+            "local": "الشعر",
+            "en": "Ash Sha'ir",
+            "slug": "ash-shair-ye1105"
+          },
+          "code": {
+            "id": "YE1105",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1113",
+          "name": {
+            "local": "بعدان",
+            "en": "Ba'dan",
+            "slug": "badan-ye1113"
+          },
+          "code": {
+            "id": "YE1113",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1116",
+          "name": {
+            "local": "ذي السفال",
+            "en": "Dhi As Sufal",
+            "slug": "dhi-as-sufal-ye1116"
+          },
+          "code": {
+            "id": "YE1116",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1110",
+          "name": {
+            "local": "فرع العدين",
+            "en": "Far' Al Odayn",
+            "slug": "far-al-odayn-ye1110"
+          },
+          "code": {
+            "id": "YE1110",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1109",
+          "name": {
+            "local": "حزم العدين",
+            "en": "Hazm Al Odayn",
+            "slug": "hazm-al-odayn-ye1109"
+          },
+          "code": {
+            "id": "YE1109",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1108",
+          "name": {
+            "local": "حبيش",
+            "en": "Hobeish",
+            "slug": "hobeish-ye1108"
+          },
+          "code": {
+            "id": "YE1108",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1120",
+          "name": {
+            "local": "اب",
+            "en": "Ibb",
+            "slug": "ibb-ye1120"
+          },
+          "code": {
+            "id": "YE1120",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1112",
+          "name": {
+            "local": "جبله",
+            "en": "Jiblah",
+            "slug": "jiblah-ye1112"
+          },
+          "code": {
+            "id": "YE1112",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1117",
+          "name": {
+            "local": "مذيخره",
+            "en": "Mudhaykhirah",
+            "slug": "mudhaykhirah-ye1117"
+          },
+          "code": {
+            "id": "YE1117",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1102",
+          "name": {
+            "local": "يريم",
+            "en": "Yarim",
+            "slug": "yarim-ye1102"
+          },
+          "code": {
+            "id": "YE1102",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE25",
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      },
+      "code": {
+        "id": "YE25",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2501",
+          "name": {
+            "local": "الحد",
+            "en": "Al Had",
+            "slug": "al-had-ye2501"
+          },
+          "code": {
+            "id": "YE2501",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2514",
+          "name": {
+            "local": "الحوطه",
+            "en": "Al Hawtah",
+            "slug": "al-hawtah-ye2514"
+          },
+          "code": {
+            "id": "YE2514",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2513",
+          "name": {
+            "local": "المضاربة و العاره",
+            "en": "Al Madaribah Wa Al Aarah",
+            "slug": "al-madaribah-wa-al-aarah-ye2513"
+          },
+          "code": {
+            "id": "YE2513",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2503",
+          "name": {
+            "local": "المفلحي",
+            "en": "Al Maflahi",
+            "slug": "al-maflahi-ye2503"
+          },
+          "code": {
+            "id": "YE2503",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2508",
+          "name": {
+            "local": "الملاح",
+            "en": "Al Malah",
+            "slug": "al-malah-ye2508"
+          },
+          "code": {
+            "id": "YE2508",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2512",
+          "name": {
+            "local": "المقاطره",
+            "en": "Al Maqatirah",
+            "slug": "al-maqatirah-ye2512"
+          },
+          "code": {
+            "id": "YE2512",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2509",
+          "name": {
+            "local": "المسيمير",
+            "en": "Al Musaymir",
+            "slug": "al-musaymir-ye2509"
+          },
+          "code": {
+            "id": "YE2509",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2510",
+          "name": {
+            "local": "القبيطه",
+            "en": "Al Qubaytah",
+            "slug": "al-qubaytah-ye2510"
+          },
+          "code": {
+            "id": "YE2510",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2505",
+          "name": {
+            "local": "حبيل جبر",
+            "en": "Habil Jabr",
+            "slug": "habil-jabr-ye2505"
+          },
+          "code": {
+            "id": "YE2505",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2506",
+          "name": {
+            "local": "حالمين",
+            "en": "Halmin",
+            "slug": "halmin-ye2506"
+          },
+          "code": {
+            "id": "YE2506",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2507",
+          "name": {
+            "local": "ردفان",
+            "en": "Radfan",
+            "slug": "radfan-ye2507"
+          },
+          "code": {
+            "id": "YE2507",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2515",
+          "name": {
+            "local": "تبن",
+            "en": "Tuban",
+            "slug": "tuban-ye2515"
+          },
+          "code": {
+            "id": "YE2515",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2511",
+          "name": {
+            "local": "طور الباحه",
+            "en": "Tur Al Bahah",
+            "slug": "tur-al-bahah-ye2511"
+          },
+          "code": {
+            "id": "YE2511",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2502",
+          "name": {
+            "local": "يافع",
+            "en": "Yafi'",
+            "slug": "yafi-ye2502"
+          },
+          "code": {
+            "id": "YE2502",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2504",
+          "name": {
+            "local": "يهر",
+            "en": "Yahr",
+            "slug": "yahr-ye2504"
+          },
+          "code": {
+            "id": "YE2504",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE26",
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      },
+      "code": {
+        "id": "YE26",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2611",
+          "name": {
+            "local": "العبديه",
+            "en": "Al Abdiyah",
+            "slug": "al-abdiyah-ye2611"
+          },
+          "code": {
+            "id": "YE2611",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2607",
+          "name": {
+            "local": "الجوبه",
+            "en": "Al Jubah",
+            "slug": "al-jubah-ye2607"
+          },
+          "code": {
+            "id": "YE2607",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2605",
+          "name": {
+            "local": "بدبده",
+            "en": "Bidbadah",
+            "slug": "bidbadah-ye2605"
+          },
+          "code": {
+            "id": "YE2605",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2609",
+          "name": {
+            "local": "حريب",
+            "en": "Harib",
+            "slug": "harib-ye2609"
+          },
+          "code": {
+            "id": "YE2609",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2604",
+          "name": {
+            "local": "حريب القرامش",
+            "en": "Harib Al Qaramish",
+            "slug": "harib-al-qaramish-ye2604"
+          },
+          "code": {
+            "id": "YE2604",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2614",
+          "name": {
+            "local": "جبل مراد",
+            "en": "Jabal Murad",
+            "slug": "jabal-murad-ye2614"
+          },
+          "code": {
+            "id": "YE2614",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2613",
+          "name": {
+            "local": "مارب",
+            "en": "Ma'rib",
+            "slug": "marib-ye2613"
+          },
+          "code": {
+            "id": "YE2613",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2612",
+          "name": {
+            "local": "مدينة مارب",
+            "en": "Ma'rib City",
+            "slug": "marib-city-ye2612"
+          },
+          "code": {
+            "id": "YE2612",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2603",
+          "name": {
+            "local": "مدغل الجدعان",
+            "en": "Madghal Al Jid'an",
+            "slug": "madghal-al-jidan-ye2603"
+          },
+          "code": {
+            "id": "YE2603",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2610",
+          "name": {
+            "local": "ماهليه",
+            "en": "Mahliyah",
+            "slug": "mahliyah-ye2610"
+          },
+          "code": {
+            "id": "YE2610",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2601",
+          "name": {
+            "local": "مجزر",
+            "en": "Majzar",
+            "slug": "majzar-ye2601"
+          },
+          "code": {
+            "id": "YE2601",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2602",
+          "name": {
+            "local": "رغوان",
+            "en": "Raghwan",
+            "slug": "raghwan-ye2602"
+          },
+          "code": {
+            "id": "YE2602",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2608",
+          "name": {
+            "local": "رحبه",
+            "en": "Rahabah",
+            "slug": "rahabah-ye2608"
+          },
+          "code": {
+            "id": "YE2608",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2606",
+          "name": {
+            "local": "صرواح",
+            "en": "Sirwah",
+            "slug": "sirwah-ye2606"
+          },
+          "code": {
+            "id": "YE2606",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE31",
+      "name": {
+        "local": "ريمه",
+        "en": "Raymah",
+        "slug": "raymah-ye31"
+      },
+      "code": {
+        "id": "YE31",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE3106",
+          "name": {
+            "local": "الجعفريه",
+            "en": "Al Ja'fariyyah",
+            "slug": "al-jafariyyah-ye3106"
+          },
+          "code": {
+            "id": "YE3106",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3103",
+          "name": {
+            "local": "الجبين",
+            "en": "Al Jabin",
+            "slug": "al-jabin-ye3103"
+          },
+          "code": {
+            "id": "YE3103",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3102",
+          "name": {
+            "local": "السلفيه",
+            "en": "As Salafiyyah",
+            "slug": "as-salafiyyah-ye3102"
+          },
+          "code": {
+            "id": "YE3102",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3101",
+          "name": {
+            "local": "بلاد الطعام",
+            "en": "Bilad Atta'am",
+            "slug": "bilad-attaam-ye3101"
+          },
+          "code": {
+            "id": "YE3101",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3105",
+          "name": {
+            "local": "كسمه",
+            "en": "Kusmah",
+            "slug": "kusmah-ye3105"
+          },
+          "code": {
+            "id": "YE3105",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3104",
+          "name": {
+            "local": "مزهر",
+            "en": "Mazhar",
+            "slug": "mazhar-ye3104"
+          },
+          "code": {
+            "id": "YE3104",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE22",
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      },
+      "code": {
+        "id": "YE22",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2207",
+          "name": {
+            "local": "الظاهر",
+            "en": "Adh Dhahir",
+            "slug": "adh-dhahir-ye2207"
+          },
+          "code": {
+            "id": "YE2207",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2213",
+          "name": {
+            "local": "الحشوه",
+            "en": "Al Hashwah",
+            "slug": "al-hashwah-ye2213"
+          },
+          "code": {
+            "id": "YE2213",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2212",
+          "name": {
+            "local": "الصفراء",
+            "en": "As Safra",
+            "slug": "as-safra-ye2212"
+          },
+          "code": {
+            "id": "YE2212",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2201",
+          "name": {
+            "local": "باقم",
+            "en": "Baqim",
+            "slug": "baqim-ye2201"
+          },
+          "code": {
+            "id": "YE2201",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2204",
+          "name": {
+            "local": "غمر",
+            "en": "Ghamr",
+            "slug": "ghamr-ye2204"
+          },
+          "code": {
+            "id": "YE2204",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2208",
+          "name": {
+            "local": "حيدان",
+            "en": "Haydan",
+            "slug": "haydan-ye2208"
+          },
+          "code": {
+            "id": "YE2208",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2214",
+          "name": {
+            "local": "كتاف والبقع",
+            "en": "Kitaf wa Al Boqa'",
+            "slug": "kitaf-wa-al-boqa-ye2214"
+          },
+          "code": {
+            "id": "YE2214",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2210",
+          "name": {
+            "local": "مجز",
+            "en": "Majz",
+            "slug": "majz-ye2210"
+          },
+          "code": {
+            "id": "YE2210",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2203",
+          "name": {
+            "local": "منبه",
+            "en": "Monabbih",
+            "slug": "monabbih-ye2203"
+          },
+          "code": {
+            "id": "YE2203",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2202",
+          "name": {
+            "local": "قطابر",
+            "en": "Qatabir",
+            "slug": "qatabir-ye2202"
+          },
+          "code": {
+            "id": "YE2202",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2205",
+          "name": {
+            "local": "رازح",
+            "en": "Razih",
+            "slug": "razih-ye2205"
+          },
+          "code": {
+            "id": "YE2205",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2215",
+          "name": {
+            "local": "صعده",
+            "en": "Sa'dah",
+            "slug": "sadah-ye2215"
+          },
+          "code": {
+            "id": "YE2215",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2211",
+          "name": {
+            "local": "سحار",
+            "en": "Sahar",
+            "slug": "sahar-ye2211"
+          },
+          "code": {
+            "id": "YE2211",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2209",
+          "name": {
+            "local": "ساقين",
+            "en": "Saqin",
+            "slug": "saqin-ye2209"
+          },
+          "code": {
+            "id": "YE2209",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2206",
+          "name": {
+            "local": "شداء",
+            "en": "Shada'a",
+            "slug": "shadaa-ye2206"
+          },
+          "code": {
+            "id": "YE2206",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE23",
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      },
+      "code": {
+        "id": "YE23",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2308",
+          "name": {
+            "local": "الحيمة الداخليه",
+            "en": "Al Haymah Ad Dakhiliyah",
+            "slug": "al-haymah-ad-dakhiliyah-ye2308"
+          },
+          "code": {
+            "id": "YE2308",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2309",
+          "name": {
+            "local": "الحيمة الخارجيه",
+            "en": "Al Haymah Al Kharijiyah",
+            "slug": "al-haymah-al-kharijiyah-ye2309"
+          },
+          "code": {
+            "id": "YE2309",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2315",
+          "name": {
+            "local": "الحصن",
+            "en": "Al Hissn",
+            "slug": "al-hissn-ye2315"
+          },
+          "code": {
+            "id": "YE2315",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2302",
+          "name": {
+            "local": "ارحب",
+            "en": "Arhab",
+            "slug": "arhab-ye2302"
+          },
+          "code": {
+            "id": "YE2302",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2313",
+          "name": {
+            "local": "الطيال",
+            "en": "At Tyal",
+            "slug": "at-tyal-ye2313"
+          },
+          "code": {
+            "id": "YE2313",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2314",
+          "name": {
+            "local": "بني ضبيان",
+            "en": "Bani Dabyan",
+            "slug": "bani-dabyan-ye2314"
+          },
+          "code": {
+            "id": "YE2314",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2304",
+          "name": {
+            "local": "بني حشيش",
+            "en": "Bani Hushaysh",
+            "slug": "bani-hushaysh-ye2304"
+          },
+          "code": {
+            "id": "YE2304",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2307",
+          "name": {
+            "local": "بني مطر",
+            "en": "Bani Matar",
+            "slug": "bani-matar-ye2307"
+          },
+          "code": {
+            "id": "YE2307",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2306",
+          "name": {
+            "local": "بلاد الروس",
+            "en": "Bilad Ar Rus",
+            "slug": "bilad-ar-rus-ye2306"
+          },
+          "code": {
+            "id": "YE2306",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2301",
+          "name": {
+            "local": "همدان",
+            "en": "Hamdan",
+            "slug": "hamdan-ye2301"
+          },
+          "code": {
+            "id": "YE2301",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2316",
+          "name": {
+            "local": "جحانه",
+            "en": "Jihanah",
+            "slug": "jihanah-ye2316"
+          },
+          "code": {
+            "id": "YE2316",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2312",
+          "name": {
+            "local": "خولان",
+            "en": "Khawlan",
+            "slug": "khawlan-ye2312"
+          },
+          "code": {
+            "id": "YE2312",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2310",
+          "name": {
+            "local": "مناخه",
+            "en": "Manakhah",
+            "slug": "manakhah-ye2310"
+          },
+          "code": {
+            "id": "YE2310",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2303",
+          "name": {
+            "local": "نهم",
+            "en": "Nihm",
+            "slug": "nihm-ye2303"
+          },
+          "code": {
+            "id": "YE2303",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2311",
+          "name": {
+            "local": "صعفان",
+            "en": "Sa'fan",
+            "slug": "safan-ye2311"
+          },
+          "code": {
+            "id": "YE2311",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2305",
+          "name": {
+            "local": "سنحان وبني بهلول",
+            "en": "Sanhan wa Bani Bahlul",
+            "slug": "sanhan-wa-bani-bahlul-ye2305"
+          },
+          "code": {
+            "id": "YE2305",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE13",
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      },
+      "code": {
+        "id": "YE13",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1306",
+          "name": {
+            "local": "الوحده",
+            "en": "Al Wehdah",
+            "slug": "al-wehdah-ye1306"
+          },
+          "code": {
+            "id": "YE1306",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1305",
+          "name": {
+            "local": "السبعين",
+            "en": "As Sab'in",
+            "slug": "as-sabin-ye1305"
+          },
+          "code": {
+            "id": "YE1305",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1304",
+          "name": {
+            "local": "الصافيه",
+            "en": "As Safiyah",
+            "slug": "as-safiyah-ye1304"
+          },
+          "code": {
+            "id": "YE1304",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1307",
+          "name": {
+            "local": "التحرير",
+            "en": "At Tahrir",
+            "slug": "at-tahrir-ye1307"
+          },
+          "code": {
+            "id": "YE1307",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1309",
+          "name": {
+            "local": "الثوره",
+            "en": "Ath Thawrah",
+            "slug": "ath-thawrah-ye1309"
+          },
+          "code": {
+            "id": "YE1309",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1303",
+          "name": {
+            "local": "ازال",
+            "en": "Azaal",
+            "slug": "azaal-ye1303"
+          },
+          "code": {
+            "id": "YE1303",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1310",
+          "name": {
+            "local": "بني الحارث",
+            "en": "Bani Al Harith",
+            "slug": "bani-al-harith-ye1310"
+          },
+          "code": {
+            "id": "YE1310",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1308",
+          "name": {
+            "local": "معين",
+            "en": "Ma'in",
+            "slug": "main-ye1308"
+          },
+          "code": {
+            "id": "YE1308",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1301",
+          "name": {
+            "local": "صنعاء القديمه",
+            "en": "Old City",
+            "slug": "old-city-ye1301"
+          },
+          "code": {
+            "id": "YE1301",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1319",
+          "name": {
+            "local": "ضواحي الامانة همدان",
+            "en": "Sana'a City Outskirts - Hamdan",
+            "slug": "sanaa-city-outskirts-hamdan-ye1319"
+          },
+          "code": {
+            "id": "YE1319",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1324",
+          "name": {
+            "local": "ضواحي الامانة سنحان وبني بهلول",
+            "en": "Sana'a City Outskirts -Sanhan wa Bani Bahlul",
+            "slug": "sanaa-city-outskirts-sanhan-wa-bani-bahlul-ye1324"
+          },
+          "code": {
+            "id": "YE1324",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1302",
+          "name": {
+            "local": "شعوب",
+            "en": "Shu'ub",
+            "slug": "shuub-ye1302"
+          },
+          "code": {
+            "id": "YE1302",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE21",
+      "name": {
+        "local": "شبوه",
+        "en": "Shabwah",
+        "slug": "shabwah-ye21"
+      },
+      "code": {
+        "id": "YE21",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE2115",
+          "name": {
+            "local": "الروضه",
+            "en": "Ar Rawdah",
+            "slug": "ar-rawdah-ye2115"
+          },
+          "code": {
+            "id": "YE2115",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2104",
+          "name": {
+            "local": "عرماء",
+            "en": "Arma'a",
+            "slug": "armaa-ye2104"
+          },
+          "code": {
+            "id": "YE2104",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2112",
+          "name": {
+            "local": "الصعيد",
+            "en": "As Sa'id",
+            "slug": "as-said-ye2112"
+          },
+          "code": {
+            "id": "YE2112",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2102",
+          "name": {
+            "local": "الطلح",
+            "en": "At Talh",
+            "slug": "at-talh-ye2102"
+          },
+          "code": {
+            "id": "YE2102",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2113",
+          "name": {
+            "local": "عتق",
+            "en": "Ataq",
+            "slug": "ataq-ye2113"
+          },
+          "code": {
+            "id": "YE2113",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2106",
+          "name": {
+            "local": "عين",
+            "en": "Ayn",
+            "slug": "ayn-ye2106"
+          },
+          "code": {
+            "id": "YE2106",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2107",
+          "name": {
+            "local": "بيحان",
+            "en": "Bayhan",
+            "slug": "bayhan-ye2107"
+          },
+          "code": {
+            "id": "YE2107",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2101",
+          "name": {
+            "local": "دهر",
+            "en": "Dahr",
+            "slug": "dahr-ye2101"
+          },
+          "code": {
+            "id": "YE2101",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2114",
+          "name": {
+            "local": "حبان",
+            "en": "Habban",
+            "slug": "habban-ye2114"
+          },
+          "code": {
+            "id": "YE2114",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2111",
+          "name": {
+            "local": "حطيب",
+            "en": "Hatib",
+            "slug": "hatib-ye2111"
+          },
+          "code": {
+            "id": "YE2111",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2103",
+          "name": {
+            "local": "جردان",
+            "en": "Jardan",
+            "slug": "jardan-ye2103"
+          },
+          "code": {
+            "id": "YE2103",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2108",
+          "name": {
+            "local": "مرخة العليا",
+            "en": "Markhah Al Olya",
+            "slug": "markhah-al-olya-ye2108"
+          },
+          "code": {
+            "id": "YE2108",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2109",
+          "name": {
+            "local": "مرخة السفلى",
+            "en": "Markhah As Sufla",
+            "slug": "markhah-as-sufla-ye2109"
+          },
+          "code": {
+            "id": "YE2109",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2116",
+          "name": {
+            "local": "ميفعه",
+            "en": "Mayfa'ah",
+            "slug": "mayfaah-ye2116"
+          },
+          "code": {
+            "id": "YE2116",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2110",
+          "name": {
+            "local": "نصاب",
+            "en": "Nisab",
+            "slug": "nisab-ye2110"
+          },
+          "code": {
+            "id": "YE2110",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2105",
+          "name": {
+            "local": "عسيلان",
+            "en": "Osaylan",
+            "slug": "osaylan-ye2105"
+          },
+          "code": {
+            "id": "YE2105",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE2117",
+          "name": {
+            "local": "رضوم",
+            "en": "Radum",
+            "slug": "radum-ye2117"
+          },
+          "code": {
+            "id": "YE2117",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE32",
+      "name": {
+        "local": "سقطرى",
+        "en": "Socotra",
+        "slug": "socotra-ye32"
+      },
+      "code": {
+        "id": "YE32",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE3201",
+          "name": {
+            "local": "حديبو",
+            "en": "Hadibu",
+            "slug": "hadibu-ye3201"
+          },
+          "code": {
+            "id": "YE3201",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE3202",
+          "name": {
+            "local": "قلنسية وعبد الكوري",
+            "en": "Qalansiyah wa Abd Al Kuri",
+            "slug": "qalansiyah-wa-abd-al-kuri-ye3202"
+          },
+          "code": {
+            "id": "YE3202",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "YE15",
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      },
+      "code": {
+        "id": "YE15",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "YE1521",
+          "name": {
+            "local": "المعافر",
+            "en": "Al Ma'afer",
+            "slug": "al-maafer-ye1521"
+          },
+          "code": {
+            "id": "YE1521",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1505",
+          "name": {
+            "local": "المخاء",
+            "en": "Al Makha",
+            "slug": "al-makha-ye1505"
+          },
+          "code": {
+            "id": "YE1505",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1522",
+          "name": {
+            "local": "المواسط",
+            "en": "Al Mawasit",
+            "slug": "al-mawasit-ye1522"
+          },
+          "code": {
+            "id": "YE1522",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1511",
+          "name": {
+            "local": "المسراخ",
+            "en": "Al Misrakh",
+            "slug": "al-misrakh-ye1511"
+          },
+          "code": {
+            "id": "YE1511",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1517",
+          "name": {
+            "local": "المظفر",
+            "en": "Al Mudhaffar",
+            "slug": "al-mudhaffar-ye1517"
+          },
+          "code": {
+            "id": "YE1517",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1518",
+          "name": {
+            "local": "القاهره",
+            "en": "Al Qahirah",
+            "slug": "al-qahirah-ye1518"
+          },
+          "code": {
+            "id": "YE1518",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1515",
+          "name": {
+            "local": "الوازعيه",
+            "en": "Al Wazi'yah",
+            "slug": "al-waziyah-ye1515"
+          },
+          "code": {
+            "id": "YE1515",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1513",
+          "name": {
+            "local": "الصلو",
+            "en": "As Silw",
+            "slug": "as-silw-ye1513"
+          },
+          "code": {
+            "id": "YE1513",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1514",
+          "name": {
+            "local": "الشمايتين",
+            "en": "Ash Shamayatayn",
+            "slug": "ash-shamayatayn-ye1514"
+          },
+          "code": {
+            "id": "YE1514",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1520",
+          "name": {
+            "local": "التعزيه",
+            "en": "At Ta'iziyah",
+            "slug": "at-taiziyah-ye1520"
+          },
+          "code": {
+            "id": "YE1520",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1506",
+          "name": {
+            "local": "باب المندب",
+            "en": "Dhubab",
+            "slug": "dhubab-ye1506"
+          },
+          "code": {
+            "id": "YE1506",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1512",
+          "name": {
+            "local": "خدير",
+            "en": "Dimnat Khadir",
+            "slug": "dimnat-khadir-ye1512"
+          },
+          "code": {
+            "id": "YE1512",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1516",
+          "name": {
+            "local": "حيفان",
+            "en": "Hayfan",
+            "slug": "hayfan-ye1516"
+          },
+          "code": {
+            "id": "YE1516",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1508",
+          "name": {
+            "local": "جبل حبشي",
+            "en": "Jabal Habashi",
+            "slug": "jabal-habashi-ye1508"
+          },
+          "code": {
+            "id": "YE1508",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1504",
+          "name": {
+            "local": "مقبنه",
+            "en": "Maqbanah",
+            "slug": "maqbanah-ye1504"
+          },
+          "code": {
+            "id": "YE1504",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1509",
+          "name": {
+            "local": "مشرعة وحدنان",
+            "en": "Mashr'ah Wa Hadnan",
+            "slug": "mashrah-wa-hadnan-ye1509"
+          },
+          "code": {
+            "id": "YE1509",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1501",
+          "name": {
+            "local": "ماويه",
+            "en": "Mawiyah",
+            "slug": "mawiyah-ye1501"
+          },
+          "code": {
+            "id": "YE1501",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1507",
+          "name": {
+            "local": "موزع",
+            "en": "Mawza'",
+            "slug": "mawza-ye1507"
+          },
+          "code": {
+            "id": "YE1507",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1510",
+          "name": {
+            "local": "صبر الموادم",
+            "en": "Sabir Al Mawadim",
+            "slug": "sabir-al-mawadim-ye1510"
+          },
+          "code": {
+            "id": "YE1510",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1519",
+          "name": {
+            "local": "صاله",
+            "en": "Salah",
+            "slug": "salah-ye1519"
+          },
+          "code": {
+            "id": "YE1519",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1523",
+          "name": {
+            "local": "سامع",
+            "en": "Sami'",
+            "slug": "sami-ye1523"
+          },
+          "code": {
+            "id": "YE1523",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1503",
+          "name": {
+            "local": "شرعب الرونه",
+            "en": "Shar'ab Ar Rawnah",
+            "slug": "sharab-ar-rawnah-ye1503"
+          },
+          "code": {
+            "id": "YE1503",
+            "iso": null
+          }
+        },
+        {
+          "id": "YE1502",
+          "name": {
+            "local": "شرعب السلام",
+            "en": "Shar'ab As Salam",
+            "slug": "sharab-as-salam-ye1502"
+          },
+          "code": {
+            "id": "YE1502",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

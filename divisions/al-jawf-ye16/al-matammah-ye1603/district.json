@@ -1,0 +1,45 @@
+{
+  "id": "YE1603",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المطمه",
+    "en": "Al Matammah",
+    "slug": "al-matammah-ye1603"
+  },
+  "code": {
+    "id": "YE1603",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.2",
+    "lon": "44.393"
+  },
+  "metadata": {},
+  "source": {}
+}

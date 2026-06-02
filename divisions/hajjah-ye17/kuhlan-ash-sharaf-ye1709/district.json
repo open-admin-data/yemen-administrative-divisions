@@ -1,0 +1,45 @@
+{
+  "id": "YE1709",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "كحلان الشرف",
+    "en": "Kuhlan Ash Sharaf",
+    "slug": "kuhlan-ash-sharaf-ye1709"
+  },
+  "code": {
+    "id": "YE1709",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.026",
+    "lon": "43.468"
+  },
+  "metadata": {},
+  "source": {}
+}

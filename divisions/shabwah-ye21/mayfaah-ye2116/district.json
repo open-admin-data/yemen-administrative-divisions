@@ -1,0 +1,45 @@
+{
+  "id": "YE2116",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ميفعه",
+    "en": "Mayfa'ah",
+    "slug": "mayfaah-ye2116"
+  },
+  "code": {
+    "id": "YE2116",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE21",
+    "level": 1,
+    "name": {
+      "local": "شبوه",
+      "en": "Shabwah",
+      "slug": "shabwah-ye21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE21",
+      "level": 1,
+      "name": {
+        "local": "شبوه",
+        "en": "Shabwah",
+        "slug": "shabwah-ye21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.412",
+    "lon": "47.715"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2011",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ضوران انس",
+    "en": "Dawran Anis",
+    "slug": "dawran-anis-ye2011"
+  },
+  "code": {
+    "id": "YE2011",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE20",
+    "level": 1,
+    "name": {
+      "local": "ذمار",
+      "en": "Dhamar",
+      "slug": "dhamar-ye20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.829",
+    "lon": "44.081"
+  },
+  "metadata": {},
+  "source": {}
+}

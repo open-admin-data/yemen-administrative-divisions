@@ -1,0 +1,45 @@
+{
+  "id": "YE2213",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحشوه",
+    "en": "Al Hashwah",
+    "slug": "al-hashwah-ye2213"
+  },
+  "code": {
+    "id": "YE2213",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE22",
+    "level": 1,
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.916",
+    "lon": "44.259"
+  },
+  "metadata": {},
+  "source": {}
+}

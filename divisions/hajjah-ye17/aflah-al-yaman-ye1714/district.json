@@ -1,0 +1,45 @@
+{
+  "id": "YE1714",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "افلح اليمن",
+    "en": "Aflah Al Yaman",
+    "slug": "aflah-al-yaman-ye1714"
+  },
+  "code": {
+    "id": "YE1714",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.979",
+    "lon": "43.417"
+  },
+  "metadata": {},
+  "source": {}
+}

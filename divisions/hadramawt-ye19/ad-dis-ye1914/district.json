@@ -1,0 +1,45 @@
+{
+  "id": "YE1914",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الديس",
+    "en": "Ad Dis",
+    "slug": "ad-dis-ye1914"
+  },
+  "code": {
+    "id": "YE1914",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.105",
+    "lon": "49.949"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1204",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "لودر",
+    "en": "Lawdar",
+    "slug": "lawdar-ye1204"
+  },
+  "code": {
+    "id": "YE1204",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE12",
+    "level": 1,
+    "name": {
+      "local": "ابين",
+      "en": "Abyan",
+      "slug": "abyan-ye12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE12",
+      "level": 1,
+      "name": {
+        "local": "ابين",
+        "en": "Abyan",
+        "slug": "abyan-ye12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.812",
+    "lon": "45.746"
+  },
+  "metadata": {},
+  "source": {}
+}

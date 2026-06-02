@@ -1,0 +1,542 @@
+[
+  {
+    "id": "YE1608",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الغيل",
+      "en": "Al Ghayl",
+      "slug": "al-ghayl-ye1608"
+    },
+    "code": {
+      "id": "YE1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.092",
+      "lon": "44.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1605",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحزم",
+      "en": "Al Hazm",
+      "slug": "al-hazm-ye1605"
+    },
+    "code": {
+      "id": "YE1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.078",
+      "lon": "45.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1602",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحميدات",
+      "en": "Al Humaydat",
+      "slug": "al-humaydat-ye1602"
+    },
+    "code": {
+      "id": "YE1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.467",
+      "lon": "44.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1609",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الخلق",
+      "en": "Al Khalaq",
+      "slug": "al-khalaq-ye1609"
+    },
+    "code": {
+      "id": "YE1609",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.067",
+      "lon": "44.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1607",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المصلوب",
+      "en": "Al Maslub",
+      "slug": "al-maslub-ye1607"
+    },
+    "code": {
+      "id": "YE1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.094",
+      "lon": "44.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1603",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المطمه",
+      "en": "Al Matammah",
+      "slug": "al-matammah-ye1603"
+    },
+    "code": {
+      "id": "YE1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.2",
+      "lon": "44.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1606",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المتون",
+      "en": "Al Mutun",
+      "slug": "al-mutun-ye1606"
+    },
+    "code": {
+      "id": "YE1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.313",
+      "lon": "44.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1604",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الزاهر",
+      "en": "Az Zahir",
+      "slug": "az-zahir-ye1604"
+    },
+    "code": {
+      "id": "YE1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.331",
+      "lon": "44.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1610",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "برط العنان",
+      "en": "Barat Al Anan",
+      "slug": "barat-al-anan-ye1610"
+    },
+    "code": {
+      "id": "YE1610",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.865",
+      "lon": "44.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1601",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "خب و الشعف",
+      "en": "Khab wa Ash Sha'f",
+      "slug": "khab-wa-ash-shaf-ye1601"
+    },
+    "code": {
+      "id": "YE1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.587",
+      "lon": "45.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1612",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "خراب المراشى",
+      "en": "Kharab Al Marashi",
+      "slug": "kharab-al-marashi-ye1612"
+    },
+    "code": {
+      "id": "YE1612",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.606",
+      "lon": "44.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1611",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "رجوزه",
+      "en": "Rajuzah",
+      "slug": "rajuzah-ye1611"
+    },
+    "code": {
+      "id": "YE1611",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE16",
+        "level": 1,
+        "name": {
+          "local": "الجوف",
+          "en": "Al Jawf",
+          "slug": "al-jawf-ye16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.62",
+      "lon": "44.513"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

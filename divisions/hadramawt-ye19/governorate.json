@@ -1,0 +1,33 @@
+{
+  "id": "YE19",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "حضرموت",
+    "en": "Hadramawt",
+    "slug": "hadramawt-ye19"
+  },
+  "code": {
+    "id": "YE19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.523",
+    "lon": "48.631"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/hadramawt-ye19/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

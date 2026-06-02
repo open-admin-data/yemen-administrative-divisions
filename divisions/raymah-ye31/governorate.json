@@ -1,0 +1,33 @@
+{
+  "id": "YE31",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "ريمه",
+    "en": "Raymah",
+    "slug": "raymah-ye31"
+  },
+  "code": {
+    "id": "YE31",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.656",
+    "lon": "43.689"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/raymah-ye31/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

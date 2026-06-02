@@ -1,0 +1,33 @@
+{
+  "id": "YE17",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "حجه",
+    "en": "Hajjah",
+    "slug": "hajjah-ye17"
+  },
+  "code": {
+    "id": "YE17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.091",
+    "lon": "43.203"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/hajjah-ye17/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

@@ -1,0 +1,54 @@
+# Al Maharah — Yemen Administrative Divisions
+
+> 9 districts
+> Code: YE28
+> Coordinates: 17.049, 52.026
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الغيظه (Al Ghaydhah)
+
+Code: YE2804, Coordinates: 16.264, 52.009
+
+
+### المسيله (Al Masilah)
+
+Code: YE2806, Coordinates: 15.551, 50.638
+
+
+### حصوين (Haswin)
+
+Code: YE2809, Coordinates: 15.726, 51.925
+
+
+### حات (Hat)
+
+Code: YE2802, Coordinates: 17.42, 51.74
+
+
+### حوف (Hawf)
+
+Code: YE2803, Coordinates: 16.701, 52.815
+
+
+### منعر (Man&#39;ar)
+
+Code: YE2805, Coordinates: 16.452, 51.057
+
+
+### قشن (Qishn)
+
+Code: YE2808, Coordinates: 15.673, 51.525
+
+
+### سيحوت (Sayhut)
+
+Code: YE2807, Coordinates: 15.524, 51.232
+
+
+### شحن (Shahin)
+
+Code: YE2801, Coordinates: 17.916, 52.336
+
+

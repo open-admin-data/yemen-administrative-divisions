@@ -1,0 +1,45 @@
+{
+  "id": "YE1401",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "نعمان",
+    "en": "Nu'man",
+    "slug": "numan-ye1401"
+  },
+  "code": {
+    "id": "YE1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.622",
+    "lon": "45.541"
+  },
+  "metadata": {},
+  "source": {}
+}

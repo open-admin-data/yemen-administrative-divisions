@@ -1,0 +1,45 @@
+{
+  "id": "YE2703",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرجم",
+    "en": "Ar Rujum",
+    "slug": "ar-rujum-ye2703"
+  },
+  "code": {
+    "id": "YE2703",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE27",
+    "level": 1,
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.408",
+    "lon": "43.677"
+  },
+  "metadata": {},
+  "source": {}
+}

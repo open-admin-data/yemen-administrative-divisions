@@ -1,0 +1,109 @@
+# Amran — Yemen Administrative Divisions
+
+> 20 districts
+> Code: YE29
+> Coordinates: 16.107, 43.937
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### العشه (Al Ashah)
+
+Code: YE2903, Coordinates: 16.335, 43.839
+
+
+### المدان (Al Madan)
+
+Code: YE2906, Coordinates: 16.232, 43.637
+
+
+### عمران (Amran)
+
+Code: YE2915, Coordinates: 15.693, 43.758
+
+
+### السود (As Sawd)
+
+Code: YE2914, Coordinates: 15.824, 43.767
+
+
+### السوده (As Sudah)
+
+Code: YE2913, Coordinates: 15.968, 43.778
+
+
+### بني صريم (Bani Surim)
+
+Code: YE2920, Coordinates: 16.129, 43.958
+
+
+### ذيبين (Dhibain)
+
+Code: YE2909, Coordinates: 16.011, 44.143
+
+
+### ظليمة حبور (Dhulaymat Habur)
+
+Code: YE2908, Coordinates: 16.038, 43.709
+
+
+### عيال سريح (Eyal Surayh)
+
+Code: YE2918, Coordinates: 15.649, 44.013
+
+
+### حرف سفيان (Harf Sufyan)
+
+Code: YE2901, Coordinates: 16.372, 44.1
+
+
+### حوث (Huth)
+
+Code: YE2902, Coordinates: 16.276, 43.983
+
+
+### جبل عيال يزيد (Jabal Eyal Yazid)
+
+Code: YE2912, Coordinates: 15.77, 43.935
+
+
+### خمر (Khamir)
+
+Code: YE2919, Coordinates: 15.997, 43.934
+
+
+### خارف (Kharif)
+
+Code: YE2910, Coordinates: 15.854, 44.097
+
+
+### مسور (Maswar)
+
+Code: YE2916, Coordinates: 15.597, 43.695
+
+
+### قفلة عذر (Qaflat Odhar)
+
+Code: YE2904, Coordinates: 16.289, 43.715
+
+
+### ريده (Raydah)
+
+Code: YE2911, Coordinates: 15.77, 44.032
+
+
+### شهاره (Shaharah)
+
+Code: YE2905, Coordinates: 16.185, 43.712
+
+
+### صوير (Suwayr)
+
+Code: YE2907, Coordinates: 16.062, 43.63
+
+
+### ثلاء (Thula)
+
+Code: YE2917, Coordinates: 15.59, 43.832
+
+

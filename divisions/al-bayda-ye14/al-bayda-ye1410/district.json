@@ -1,0 +1,45 @@
+{
+  "id": "YE1410",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "البيضاء",
+    "en": "Al Bayda",
+    "slug": "al-bayda-ye1410"
+  },
+  "code": {
+    "id": "YE1410",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.065",
+    "lon": "45.571"
+  },
+  "metadata": {},
+  "source": {}
+}

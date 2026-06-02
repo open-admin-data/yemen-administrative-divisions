@@ -1,0 +1,45 @@
+{
+  "id": "YE1117",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "مذيخره",
+    "en": "Mudhaykhirah",
+    "slug": "mudhaykhirah-ye1117"
+  },
+  "code": {
+    "id": "YE1117",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.859",
+    "lon": "43.974"
+  },
+  "metadata": {},
+  "source": {}
+}

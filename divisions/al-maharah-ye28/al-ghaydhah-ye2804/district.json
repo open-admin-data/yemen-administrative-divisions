@@ -1,0 +1,45 @@
+{
+  "id": "YE2804",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الغيظه",
+    "en": "Al Ghaydhah",
+    "slug": "al-ghaydhah-ye2804"
+  },
+  "code": {
+    "id": "YE2804",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE28",
+    "level": 1,
+    "name": {
+      "local": "المهره",
+      "en": "Al Maharah",
+      "slug": "al-maharah-ye28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.264",
+    "lon": "52.009"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "YE18",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "الحديده",
+    "en": "Al Hodeidah",
+    "slug": "al-hodeidah-ye18"
+  },
+  "code": {
+    "id": "YE18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.782",
+    "lon": "43.218"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/al-hodeidah-ye18/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

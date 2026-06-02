@@ -1,0 +1,149 @@
+# Hadramawt — Yemen Administrative Divisions
+
+> 28 districts
+> Code: YE19
+> Coordinates: 16.523, 48.631
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الديس (Ad Dis)
+
+Code: YE1914, Coordinates: 15.105, 49.949
+
+
+### الضليعه (Ad Dulay&#39;ah)
+
+Code: YE1922, Coordinates: 15.013, 47.923
+
+
+### العبر (Al Abr)
+
+Code: YE1906, Coordinates: 15.923, 47.317
+
+
+### المكلا (Al Mukalla)
+
+Code: YE1926, Coordinates: 14.721, 48.905
+
+
+### مدينة المكلا (Al Mukalla City)
+
+Code: YE1927, Coordinates: 14.533, 49.067
+
+
+### القف (Al Qaff)
+
+Code: YE1903, Coordinates: 17.432, 49.121
+
+
+### القطن (Al Qatn)
+
+Code: YE1907, Coordinates: 15.912, 48.333
+
+
+### عمد (Amd)
+
+Code: YE1921, Coordinates: 15.34, 47.926
+
+
+### الريدة وقصيعر (Ar Raydah wa Qussay&#39;ar)
+
+Code: YE1913, Coordinates: 15.159, 50.399
+
+
+### السوم (As Sawm)
+
+Code: YE1912, Coordinates: 16.023, 49.753
+
+
+### الشحر (Ash Shihr)
+
+Code: YE1915, Coordinates: 14.934, 49.578
+
+
+### بروم ميفع (Brum Mayf&#39;ah)
+
+Code: YE1925, Coordinates: 14.347, 48.764
+
+
+### دوعن (Daw&#39;an)
+
+Code: YE1918, Coordinates: 15.037, 48.374
+
+
+### غيل باوزير (Ghayl Bawazir)
+
+Code: YE1917, Coordinates: 14.882, 49.076
+
+
+### غيل بن يمين (Ghayl bin Yamin)
+
+Code: YE1916, Coordinates: 15.383, 49.481
+
+
+### حجر (Hajar)
+
+Code: YE1924, Coordinates: 14.514, 48.329
+
+
+### حجر الصيعر (Hajar As Say&#39;ar)
+
+Code: YE1905, Coordinates: 16.297, 48.055
+
+
+### حريضه (Haridah)
+
+Code: YE1928, Coordinates: 15.546, 48.156
+
+
+### رخيه (Rakhyah)
+
+Code: YE1920, Coordinates: 15.475, 47.805
+
+
+### رماه (Rumah)
+
+Code: YE1901, Coordinates: 17.826, 50.878
+
+
+### ساه (Sah)
+
+Code: YE1909, Coordinates: 15.508, 48.911
+
+
+### سيئون (Sayun)
+
+Code: YE1910, Coordinates: 16.015, 48.84
+
+
+### شبام (Shibam)
+
+Code: YE1908, Coordinates: 15.881, 48.66
+
+
+### تريم (Tarim)
+
+Code: YE1911, Coordinates: 16.079, 49.05
+
+
+### ثمود (Thamud)
+
+Code: YE1902, Coordinates: 17.641, 50.012
+
+
+### وادي العين (Wadi Al Ayn)
+
+Code: YE1919, Coordinates: 15.44, 48.521
+
+
+### يبعث (Yab&#39;uth)
+
+Code: YE1923, Coordinates: 14.777, 47.741
+
+
+### زمخ ومنوخ (Zamakh wa Manwokh)
+
+Code: YE1904, Coordinates: 17.171, 48.029
+
+

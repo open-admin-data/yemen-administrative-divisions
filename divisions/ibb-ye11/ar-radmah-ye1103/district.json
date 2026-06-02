@@ -1,0 +1,45 @@
+{
+  "id": "YE1103",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرضمه",
+    "en": "Ar Radmah",
+    "slug": "ar-radmah-ye1103"
+  },
+  "code": {
+    "id": "YE1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.21",
+    "lon": "44.553"
+  },
+  "metadata": {},
+  "source": {}
+}

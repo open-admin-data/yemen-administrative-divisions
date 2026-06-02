@@ -1,0 +1,45 @@
+{
+  "id": "YE2501",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحد",
+    "en": "Al Had",
+    "slug": "al-had-ye2501"
+  },
+  "code": {
+    "id": "YE2501",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE25",
+    "level": 1,
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.95",
+    "lon": "45.254"
+  },
+  "metadata": {},
+  "source": {}
+}

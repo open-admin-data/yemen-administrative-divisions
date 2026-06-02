@@ -1,0 +1,45 @@
+{
+  "id": "YE1513",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الصلو",
+    "en": "As Silw",
+    "slug": "as-silw-ye1513"
+  },
+  "code": {
+    "id": "YE1513",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.347",
+    "lon": "44.202"
+  },
+  "metadata": {},
+  "source": {}
+}

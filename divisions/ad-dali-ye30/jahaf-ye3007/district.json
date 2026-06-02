@@ -1,0 +1,45 @@
+{
+  "id": "YE3007",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "جحاف",
+    "en": "Jahaf",
+    "slug": "jahaf-ye3007"
+  },
+  "code": {
+    "id": "YE3007",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE30",
+    "level": 1,
+    "name": {
+      "local": "الضالع",
+      "en": "Ad Dali'",
+      "slug": "ad-dali-ye30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.73",
+    "lon": "44.664"
+  },
+  "metadata": {},
+  "source": {}
+}

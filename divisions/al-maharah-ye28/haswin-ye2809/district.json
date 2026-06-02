@@ -1,0 +1,45 @@
+{
+  "id": "YE2809",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "حصوين",
+    "en": "Haswin",
+    "slug": "haswin-ye2809"
+  },
+  "code": {
+    "id": "YE2809",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE28",
+    "level": 1,
+    "name": {
+      "local": "المهره",
+      "en": "Al Maharah",
+      "slug": "al-maharah-ye28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.726",
+    "lon": "51.925"
+  },
+  "metadata": {},
+  "source": {}
+}

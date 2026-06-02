@@ -1,0 +1,45 @@
+{
+  "id": "YE2311",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "صعفان",
+    "en": "Sa'fan",
+    "slug": "safan-ye2311"
+  },
+  "code": {
+    "id": "YE2311",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.072",
+    "lon": "43.592"
+  },
+  "metadata": {},
+  "source": {}
+}

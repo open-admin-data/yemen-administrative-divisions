@@ -1,0 +1,45 @@
+{
+  "id": "YE1711",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "خيران المحرق",
+    "en": "Khayran Al Muharraq",
+    "slug": "khayran-al-muharraq-ye1711"
+  },
+  "code": {
+    "id": "YE1711",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.074",
+    "lon": "43.38"
+  },
+  "metadata": {},
+  "source": {}
+}

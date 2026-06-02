@@ -1,0 +1,45 @@
+{
+  "id": "YE1925",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بروم ميفع",
+    "en": "Brum Mayf'ah",
+    "slug": "brum-mayfah-ye1925"
+  },
+  "code": {
+    "id": "YE1925",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.347",
+    "lon": "48.764"
+  },
+  "metadata": {},
+  "source": {}
+}

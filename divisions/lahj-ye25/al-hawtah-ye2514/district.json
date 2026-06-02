@@ -1,0 +1,45 @@
+{
+  "id": "YE2514",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحوطه",
+    "en": "Al Hawtah",
+    "slug": "al-hawtah-ye2514"
+  },
+  "code": {
+    "id": "YE2514",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE25",
+    "level": 1,
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.061",
+    "lon": "44.878"
+  },
+  "metadata": {},
+  "source": {}
+}

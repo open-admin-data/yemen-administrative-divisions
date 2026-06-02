@@ -1,0 +1,45 @@
+{
+  "id": "YE1405",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الزاهر",
+    "en": "Az Zahir",
+    "slug": "az-zahir-ye1405"
+  },
+  "code": {
+    "id": "YE1405",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.999",
+    "lon": "45.438"
+  },
+  "metadata": {},
+  "source": {}
+}

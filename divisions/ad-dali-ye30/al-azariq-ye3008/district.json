@@ -1,0 +1,45 @@
+{
+  "id": "YE3008",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الازارق",
+    "en": "Al Azariq",
+    "slug": "al-azariq-ye3008"
+  },
+  "code": {
+    "id": "YE3008",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE30",
+    "level": 1,
+    "name": {
+      "local": "الضالع",
+      "en": "Ad Dali'",
+      "slug": "ad-dali-ye30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.648",
+    "lon": "44.63"
+  },
+  "metadata": {},
+  "source": {}
+}

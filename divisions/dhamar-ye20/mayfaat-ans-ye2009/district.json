@@ -1,0 +1,45 @@
+{
+  "id": "YE2009",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ميفعة عنس",
+    "en": "Mayfa'at Ans",
+    "slug": "mayfaat-ans-ye2009"
+  },
+  "code": {
+    "id": "YE2009",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE20",
+    "level": 1,
+    "name": {
+      "local": "ذمار",
+      "en": "Dhamar",
+      "slug": "dhamar-ye20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.515",
+    "lon": "44.61"
+  },
+  "metadata": {},
+  "source": {}
+}

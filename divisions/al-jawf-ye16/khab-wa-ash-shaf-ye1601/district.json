@@ -1,0 +1,45 @@
+{
+  "id": "YE1601",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "خب و الشعف",
+    "en": "Khab wa Ash Sha'f",
+    "slug": "khab-wa-ash-shaf-ye1601"
+  },
+  "code": {
+    "id": "YE1601",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.587",
+    "lon": "45.846"
+  },
+  "metadata": {},
+  "source": {}
+}

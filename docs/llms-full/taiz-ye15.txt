@@ -1,0 +1,124 @@
+# Ta&#39;iz — Yemen Administrative Divisions
+
+> 23 districts
+> Code: YE15
+> Coordinates: 13.293, 43.785
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### المعافر (Al Ma&#39;afer)
+
+Code: YE1521, Coordinates: 13.376, 43.993
+
+
+### المخاء (Al Makha)
+
+Code: YE1505, Coordinates: 13.522, 43.37
+
+
+### المواسط (Al Mawasit)
+
+Code: YE1522, Coordinates: 13.304, 44.092
+
+
+### المسراخ (Al Misrakh)
+
+Code: YE1511, Coordinates: 13.514, 44.09
+
+
+### المظفر (Al Mudhaffar)
+
+Code: YE1517, Coordinates: 13.582, 43.981
+
+
+### القاهره (Al Qahirah)
+
+Code: YE1518, Coordinates: 13.586, 44.014
+
+
+### الوازعيه (Al Wazi&#39;yah)
+
+Code: YE1515, Coordinates: 13.181, 43.763
+
+
+### الصلو (As Silw)
+
+Code: YE1513, Coordinates: 13.347, 44.202
+
+
+### الشمايتين (Ash Shamayatayn)
+
+Code: YE1514, Coordinates: 13.174, 44.006
+
+
+### التعزيه (At Ta&#39;iziyah)
+
+Code: YE1520, Coordinates: 13.682, 44.068
+
+
+### باب المندب (Dhubab)
+
+Code: YE1506, Coordinates: 12.977, 43.56
+
+
+### خدير (Dimnat Khadir)
+
+Code: YE1512, Coordinates: 13.441, 44.224
+
+
+### حيفان (Hayfan)
+
+Code: YE1516, Coordinates: 13.291, 44.276
+
+
+### جبل حبشي (Jabal Habashi)
+
+Code: YE1508, Coordinates: 13.465, 43.895
+
+
+### مقبنه (Maqbanah)
+
+Code: YE1504, Coordinates: 13.622, 43.686
+
+
+### مشرعة وحدنان (Mashr&#39;ah Wa Hadnan)
+
+Code: YE1509, Coordinates: 13.541, 43.997
+
+
+### ماويه (Mawiyah)
+
+Code: YE1501, Coordinates: 13.613, 44.348
+
+
+### موزع (Mawza&#39;)
+
+Code: YE1507, Coordinates: 13.368, 43.67
+
+
+### صبر الموادم (Sabir Al Mawadim)
+
+Code: YE1510, Coordinates: 13.53, 44.046
+
+
+### صاله (Salah)
+
+Code: YE1519, Coordinates: 13.581, 44.035
+
+
+### سامع (Sami&#39;)
+
+Code: YE1523, Coordinates: 13.381, 44.123
+
+
+### شرعب الرونه (Shar&#39;ab Ar Rawnah)
+
+Code: YE1503, Coordinates: 13.731, 43.827
+
+
+### شرعب السلام (Shar&#39;ab As Salam)
+
+Code: YE1502, Coordinates: 13.783, 43.892
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "YE1909",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ساه",
+    "en": "Sah",
+    "slug": "sah-ye1909"
+  },
+  "code": {
+    "id": "YE1909",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.508",
+    "lon": "48.911"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2313",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الطيال",
+    "en": "At Tyal",
+    "slug": "at-tyal-ye2313"
+  },
+  "code": {
+    "id": "YE2313",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.388",
+    "lon": "44.543"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1611",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "رجوزه",
+    "en": "Rajuzah",
+    "slug": "rajuzah-ye1611"
+  },
+  "code": {
+    "id": "YE1611",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.62",
+    "lon": "44.513"
+  },
+  "metadata": {},
+  "source": {}
+}

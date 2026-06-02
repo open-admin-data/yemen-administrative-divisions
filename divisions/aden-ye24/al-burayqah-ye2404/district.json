@@ -1,0 +1,45 @@
+{
+  "id": "YE2404",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "البريقه",
+    "en": "Al Burayqah",
+    "slug": "al-burayqah-ye2404"
+  },
+  "code": {
+    "id": "YE2404",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE24",
+    "level": 1,
+    "name": {
+      "local": "عدن",
+      "en": "Aden",
+      "slug": "aden-ye24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.796",
+    "lon": "44.771"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "YE26",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "مارب",
+    "en": "Ma'rib",
+    "slug": "marib-ye26"
+  },
+  "code": {
+    "id": "YE26",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.324",
+    "lon": "45.448"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/marib-ye26/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

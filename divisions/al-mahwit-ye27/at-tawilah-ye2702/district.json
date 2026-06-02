@@ -1,0 +1,45 @@
+{
+  "id": "YE2702",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الطويله",
+    "en": "At Tawilah",
+    "slug": "at-tawilah-ye2702"
+  },
+  "code": {
+    "id": "YE2702",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE27",
+    "level": 1,
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.463",
+    "lon": "43.766"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "YE24",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "عدن",
+    "en": "Aden",
+    "slug": "aden-ye24"
+  },
+  "code": {
+    "id": "YE24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.81",
+    "lon": "44.782"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/aden-ye24/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

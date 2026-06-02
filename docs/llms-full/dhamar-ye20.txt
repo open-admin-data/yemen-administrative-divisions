@@ -1,0 +1,69 @@
+# Dhamar — Yemen Administrative Divisions
+
+> 12 districts
+> Code: YE20
+> Coordinates: 14.542, 44.303
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الحداء (Al Hada)
+
+Code: YE2001, Coordinates: 14.809, 44.57
+
+
+### المنار (Al Manar)
+
+Code: YE2012, Coordinates: 14.653, 44.158
+
+
+### عنس (Ans)
+
+Code: YE2010, Coordinates: 14.438, 44.379
+
+
+### ضوران انس (Dawran Anis)
+
+Code: YE2011, Coordinates: 14.829, 44.081
+
+
+### مدينة ذمار (Dhamar City)
+
+Code: YE2008, Coordinates: 14.608, 44.399
+
+
+### جبل الشرق (Jabal Ash sharq)
+
+Code: YE2003, Coordinates: 14.738, 43.92
+
+
+### جهران (Jahran)
+
+Code: YE2002, Coordinates: 14.733, 44.304
+
+
+### مغرب عنس (Maghrib Ans)
+
+Code: YE2004, Coordinates: 14.466, 44.124
+
+
+### ميفعة عنس (Mayfa&#39;at Ans)
+
+Code: YE2009, Coordinates: 14.515, 44.61
+
+
+### عتمه (Otmah)
+
+Code: YE2005, Coordinates: 14.475, 43.945
+
+
+### وصاب العالي (Wusab Al Aali)
+
+Code: YE2006, Coordinates: 14.333, 43.823
+
+
+### وصاب السافل (Wusab As Safil)
+
+Code: YE2007, Coordinates: 14.25, 43.627
+
+

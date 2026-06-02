@@ -1,0 +1,45 @@
+{
+  "id": "YE2312",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "خولان",
+    "en": "Khawlan",
+    "slug": "khawlan-ye2312"
+  },
+  "code": {
+    "id": "YE2312",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.273",
+    "lon": "44.686"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "YE15",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "تعز",
+    "en": "Ta'iz",
+    "slug": "taiz-ye15"
+  },
+  "code": {
+    "id": "YE15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.293",
+    "lon": "43.785"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/taiz-ye15/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

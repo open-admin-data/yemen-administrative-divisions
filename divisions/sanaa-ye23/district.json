@@ -1,0 +1,722 @@
+[
+  {
+    "id": "YE2308",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحيمة الداخليه",
+      "en": "Al Haymah Ad Dakhiliyah",
+      "slug": "al-haymah-ad-dakhiliyah-ye2308"
+    },
+    "code": {
+      "id": "YE2308",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.276",
+      "lon": "43.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2309",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحيمة الخارجيه",
+      "en": "Al Haymah Al Kharijiyah",
+      "slug": "al-haymah-al-kharijiyah-ye2309"
+    },
+    "code": {
+      "id": "YE2309",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.03",
+      "lon": "43.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2315",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحصن",
+      "en": "Al Hissn",
+      "slug": "al-hissn-ye2315"
+    },
+    "code": {
+      "id": "YE2315",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.021",
+      "lon": "44.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2302",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ارحب",
+      "en": "Arhab",
+      "slug": "arhab-ye2302"
+    },
+    "code": {
+      "id": "YE2302",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.804",
+      "lon": "44.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2313",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الطيال",
+      "en": "At Tyal",
+      "slug": "at-tyal-ye2313"
+    },
+    "code": {
+      "id": "YE2313",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.388",
+      "lon": "44.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2314",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بني ضبيان",
+      "en": "Bani Dabyan",
+      "slug": "bani-dabyan-ye2314"
+    },
+    "code": {
+      "id": "YE2314",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.05",
+      "lon": "44.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2304",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بني حشيش",
+      "en": "Bani Hushaysh",
+      "slug": "bani-hushaysh-ye2304"
+    },
+    "code": {
+      "id": "YE2304",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.453",
+      "lon": "44.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2307",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بني مطر",
+      "en": "Bani Matar",
+      "slug": "bani-matar-ye2307"
+    },
+    "code": {
+      "id": "YE2307",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.215",
+      "lon": "44.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2306",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بلاد الروس",
+      "en": "Bilad Ar Rus",
+      "slug": "bilad-ar-rus-ye2306"
+    },
+    "code": {
+      "id": "YE2306",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.036",
+      "lon": "44.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2301",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "همدان",
+      "en": "Hamdan",
+      "slug": "hamdan-ye2301"
+    },
+    "code": {
+      "id": "YE2301",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.48",
+      "lon": "44.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2316",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جحانه",
+      "en": "Jihanah",
+      "slug": "jihanah-ye2316"
+    },
+    "code": {
+      "id": "YE2316",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.194",
+      "lon": "44.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2312",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "خولان",
+      "en": "Khawlan",
+      "slug": "khawlan-ye2312"
+    },
+    "code": {
+      "id": "YE2312",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.273",
+      "lon": "44.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2310",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مناخه",
+      "en": "Manakhah",
+      "slug": "manakhah-ye2310"
+    },
+    "code": {
+      "id": "YE2310",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.071",
+      "lon": "43.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2303",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "نهم",
+      "en": "Nihm",
+      "slug": "nihm-ye2303"
+    },
+    "code": {
+      "id": "YE2303",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.739",
+      "lon": "44.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2311",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صعفان",
+      "en": "Sa'fan",
+      "slug": "safan-ye2311"
+    },
+    "code": {
+      "id": "YE2311",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.072",
+      "lon": "43.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2305",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "سنحان وبني بهلول",
+      "en": "Sanhan wa Bani Bahlul",
+      "slug": "sanhan-wa-bani-bahlul-ye2305"
+    },
+    "code": {
+      "id": "YE2305",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE23",
+        "level": 1,
+        "name": {
+          "local": "صنعاء",
+          "en": "Sana'a",
+          "slug": "sanaa-ye23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.226",
+      "lon": "44.328"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

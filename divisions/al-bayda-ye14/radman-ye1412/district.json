@@ -1,0 +1,45 @@
+{
+  "id": "YE1412",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ردمان",
+    "en": "Radman",
+    "slug": "radman-ye1412"
+  },
+  "code": {
+    "id": "YE1412",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.473",
+    "lon": "45.26"
+  },
+  "metadata": {},
+  "source": {}
+}

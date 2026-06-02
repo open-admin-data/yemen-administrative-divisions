@@ -1,0 +1,45 @@
+{
+  "id": "YE2914",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "السود",
+    "en": "As Sawd",
+    "slug": "as-sawd-ye2914"
+  },
+  "code": {
+    "id": "YE2914",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE29",
+    "level": 1,
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.824",
+    "lon": "43.767"
+  },
+  "metadata": {},
+  "source": {}
+}

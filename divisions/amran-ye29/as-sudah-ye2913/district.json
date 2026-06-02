@@ -1,0 +1,45 @@
+{
+  "id": "YE2913",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "السوده",
+    "en": "As Sudah",
+    "slug": "as-sudah-ye2913"
+  },
+  "code": {
+    "id": "YE2913",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE29",
+    "level": 1,
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.968",
+    "lon": "43.778"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1817",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بيت الفقيه",
+    "en": "Bayt Al Faqih",
+    "slug": "bayt-al-faqih-ye1817"
+  },
+  "code": {
+    "id": "YE1817",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.461",
+    "lon": "43.311"
+  },
+  "metadata": {},
+  "source": {}
+}

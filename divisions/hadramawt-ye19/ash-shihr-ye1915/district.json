@@ -1,0 +1,45 @@
+{
+  "id": "YE1915",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الشحر",
+    "en": "Ash Shihr",
+    "slug": "ash-shihr-ye1915"
+  },
+  "code": {
+    "id": "YE1915",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.934",
+    "lon": "49.578"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2707",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بني سعد",
+    "en": "Bani Sa'd",
+    "slug": "bani-sad-ye2707"
+  },
+  "code": {
+    "id": "YE2707",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE27",
+    "level": 1,
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.235",
+    "lon": "43.489"
+  },
+  "metadata": {},
+  "source": {}
+}

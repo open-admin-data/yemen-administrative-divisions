@@ -1,0 +1,45 @@
+{
+  "id": "YE2402",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الشيخ عثمان",
+    "en": "Ash Shaykh Othman",
+    "slug": "ash-shaykh-othman-ye2402"
+  },
+  "code": {
+    "id": "YE2402",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE24",
+    "level": 1,
+    "name": {
+      "local": "عدن",
+      "en": "Aden",
+      "slug": "aden-ye24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.885",
+    "lon": "45.015"
+  },
+  "metadata": {},
+  "source": {}
+}

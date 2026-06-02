@@ -1,0 +1,45 @@
+{
+  "id": "YE1713",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "قفل شمر",
+    "en": "Qafl Shammar",
+    "slug": "qafl-shammar-ye1713"
+  },
+  "code": {
+    "id": "YE1713",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.907",
+    "lon": "43.359"
+  },
+  "metadata": {},
+  "source": {}
+}

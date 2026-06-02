@@ -1,0 +1,45 @@
+{
+  "id": "YE1523",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "سامع",
+    "en": "Sami'",
+    "slug": "sami-ye1523"
+  },
+  "code": {
+    "id": "YE1523",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.381",
+    "lon": "44.123"
+  },
+  "metadata": {},
+  "source": {}
+}

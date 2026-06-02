@@ -1,0 +1,109 @@
+# Ibb — Yemen Administrative Divisions
+
+> 20 districts
+> Code: YE11
+> Coordinates: 14.084, 44.18
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الظهار (Adh Dhihar)
+
+Code: YE1119, Coordinates: 13.976, 44.161
+
+
+### المخادر (Al Makhadir)
+
+Code: YE1107, Coordinates: 14.141, 44.206
+
+
+### المشنه (Al Mashannah)
+
+Code: YE1118, Coordinates: 13.953, 44.153
+
+
+### العدين (Al Odayn)
+
+Code: YE1111, Coordinates: 13.994, 44.023
+
+
+### القفر (Al Qafr)
+
+Code: YE1101, Coordinates: 14.325, 44.04
+
+
+### النادره (An Nadirah)
+
+Code: YE1104, Coordinates: 14.062, 44.484
+
+
+### الرضمه (Ar Radmah)
+
+Code: YE1103, Coordinates: 14.21, 44.553
+
+
+### السبره (As Sabrah)
+
+Code: YE1114, Coordinates: 13.842, 44.302
+
+
+### السده (As Saddah)
+
+Code: YE1106, Coordinates: 14.167, 44.419
+
+
+### السياني (As Saiyani)
+
+Code: YE1115, Coordinates: 13.823, 44.215
+
+
+### الشعر (Ash Sha&#39;ir)
+
+Code: YE1105, Coordinates: 14.033, 44.368
+
+
+### بعدان (Ba&#39;dan)
+
+Code: YE1113, Coordinates: 13.989, 44.298
+
+
+### ذي السفال (Dhi As Sufal)
+
+Code: YE1116, Coordinates: 13.832, 44.071
+
+
+### فرع العدين (Far&#39; Al Odayn)
+
+Code: YE1110, Coordinates: 13.958, 43.79
+
+
+### حزم العدين (Hazm Al Odayn)
+
+Code: YE1109, Coordinates: 14.112, 43.833
+
+
+### حبيش (Hobeish)
+
+Code: YE1108, Coordinates: 14.118, 44.104
+
+
+### اب (Ibb)
+
+Code: YE1120, Coordinates: 13.992, 44.093
+
+
+### جبله (Jiblah)
+
+Code: YE1112, Coordinates: 13.912, 44.116
+
+
+### مذيخره (Mudhaykhirah)
+
+Code: YE1117, Coordinates: 13.859, 43.974
+
+
+### يريم (Yarim)
+
+Code: YE1102, Coordinates: 14.289, 44.373
+
+

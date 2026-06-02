@@ -1,0 +1,45 @@
+{
+  "id": "YE1610",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "برط العنان",
+    "en": "Barat Al Anan",
+    "slug": "barat-al-anan-ye1610"
+  },
+  "code": {
+    "id": "YE1610",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.865",
+    "lon": "44.5"
+  },
+  "metadata": {},
+  "source": {}
+}

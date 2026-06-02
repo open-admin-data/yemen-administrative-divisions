@@ -1,0 +1,45 @@
+{
+  "id": "YE1807",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الزيديه",
+    "en": "Az Zaydiah",
+    "slug": "az-zaydiah-ye1807"
+  },
+  "code": {
+    "id": "YE1807",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.3",
+    "lon": "43.046"
+  },
+  "metadata": {},
+  "source": {}
+}

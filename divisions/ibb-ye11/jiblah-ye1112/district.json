@@ -1,0 +1,45 @@
+{
+  "id": "YE1112",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "جبله",
+    "en": "Jiblah",
+    "slug": "jiblah-ye1112"
+  },
+  "code": {
+    "id": "YE1112",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.912",
+    "lon": "44.116"
+  },
+  "metadata": {},
+  "source": {}
+}

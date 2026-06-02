@@ -1,0 +1,45 @@
+{
+  "id": "YE2001",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحداء",
+    "en": "Al Hada",
+    "slug": "al-hada-ye2001"
+  },
+  "code": {
+    "id": "YE2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE20",
+    "level": 1,
+    "name": {
+      "local": "ذمار",
+      "en": "Dhamar",
+      "slug": "dhamar-ye20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.809",
+    "lon": "44.57"
+  },
+  "metadata": {},
+  "source": {}
+}

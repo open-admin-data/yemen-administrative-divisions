@@ -1,0 +1,45 @@
+{
+  "id": "YE1502",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "شرعب السلام",
+    "en": "Shar'ab As Salam",
+    "slug": "sharab-as-salam-ye1502"
+  },
+  "code": {
+    "id": "YE1502",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.783",
+    "lon": "43.892"
+  },
+  "metadata": {},
+  "source": {}
+}

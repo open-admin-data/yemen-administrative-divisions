@@ -1,0 +1,94 @@
+# Yemen Administrative Divisions
+
+> Open dataset of Yemen's administrative hierarchy:
+> 22 governorates, 335 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total governorates: 22
+- Total districts: 335
+- Coordinates: included (all levels)
+- Last updated: 2026-06-02
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All governorates (JSON)](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/data/all-governorate.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/data/schema.json)
+
+## Browse by Governorate
+
+- [Abyan](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/abyan-ye12/) — 11 districts
+- [Ad Dali&#39;](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/ad-dali-ye30/) — 9 districts
+- [Aden](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/aden-ye24/) — 8 districts
+- [Al Bayda](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/al-bayda-ye14/) — 20 districts
+- [Al Hodeidah](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/al-hodeidah-ye18/) — 26 districts
+- [Al Jawf](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/al-jawf-ye16/) — 12 districts
+- [Al Maharah](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/al-maharah-ye28/) — 9 districts
+- [Al Mahwit](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/al-mahwit-ye27/) — 9 districts
+- [Amran](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/amran-ye29/) — 20 districts
+- [Dhamar](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/dhamar-ye20/) — 12 districts
+- [Hadramawt](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/hadramawt-ye19/) — 28 districts
+- [Hajjah](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/hajjah-ye17/) — 31 districts
+- [Ibb](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/ibb-ye11/) — 20 districts
+- [Lahj](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/lahj-ye25/) — 15 districts
+- [Ma&#39;rib](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/marib-ye26/) — 14 districts
+- [Raymah](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/raymah-ye31/) — 6 districts
+- [Sa&#39;dah](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/sadah-ye22/) — 15 districts
+- [Sana&#39;a](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/sanaa-ye23/) — 16 districts
+- [Sana&#39;a City](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/sanaa-city-ye13/) — 12 districts
+- [Shabwah](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/shabwah-ye21/) — 17 districts
+- [Socotra](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/socotra-ye32/) — 2 districts
+- [Ta&#39;iz](https://github.com/open-admin-data/yemen-administrative-divisions/tree/main/divisions/taiz-ye15/) — 23 districts
+
+## Per-Governorate Full Data
+
+- [Abyan](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/abyan-ye12.txt)
+- [Ad Dali&#39;](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/ad-dali-ye30.txt)
+- [Aden](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/aden-ye24.txt)
+- [Al Bayda](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/al-bayda-ye14.txt)
+- [Al Hodeidah](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/al-hodeidah-ye18.txt)
+- [Al Jawf](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/al-jawf-ye16.txt)
+- [Al Maharah](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/al-maharah-ye28.txt)
+- [Al Mahwit](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/al-mahwit-ye27.txt)
+- [Amran](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/amran-ye29.txt)
+- [Dhamar](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/dhamar-ye20.txt)
+- [Hadramawt](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/hadramawt-ye19.txt)
+- [Hajjah](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/hajjah-ye17.txt)
+- [Ibb](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/ibb-ye11.txt)
+- [Lahj](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/lahj-ye25.txt)
+- [Ma&#39;rib](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/marib-ye26.txt)
+- [Raymah](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/raymah-ye31.txt)
+- [Sa&#39;dah](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/sadah-ye22.txt)
+- [Sana&#39;a](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/sanaa-ye23.txt)
+- [Sana&#39;a City](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/sanaa-city-ye13.txt)
+- [Shabwah](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/shabwah-ye21.txt)
+- [Socotra](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/socotra-ye32.txt)
+- [Ta&#39;iz](https://raw.githubusercontent.com/open-admin-data/yemen-administrative-divisions/main/docs/llms-full/taiz-ye15.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (governorate), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Yemen Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/yemen-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

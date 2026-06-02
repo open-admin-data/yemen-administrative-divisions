@@ -1,0 +1,45 @@
+{
+  "id": "YE1119",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الظهار",
+    "en": "Adh Dhihar",
+    "slug": "adh-dhihar-ye1119"
+  },
+  "code": {
+    "id": "YE1119",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.976",
+    "lon": "44.161"
+  },
+  "metadata": {},
+  "source": {}
+}

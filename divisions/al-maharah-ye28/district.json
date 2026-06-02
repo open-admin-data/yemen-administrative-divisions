@@ -1,0 +1,407 @@
+[
+  {
+    "id": "YE2804",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الغيظه",
+      "en": "Al Ghaydhah",
+      "slug": "al-ghaydhah-ye2804"
+    },
+    "code": {
+      "id": "YE2804",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.264",
+      "lon": "52.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2806",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المسيله",
+      "en": "Al Masilah",
+      "slug": "al-masilah-ye2806"
+    },
+    "code": {
+      "id": "YE2806",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.551",
+      "lon": "50.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2809",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حصوين",
+      "en": "Haswin",
+      "slug": "haswin-ye2809"
+    },
+    "code": {
+      "id": "YE2809",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.726",
+      "lon": "51.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2802",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حات",
+      "en": "Hat",
+      "slug": "hat-ye2802"
+    },
+    "code": {
+      "id": "YE2802",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.42",
+      "lon": "51.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2803",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حوف",
+      "en": "Hawf",
+      "slug": "hawf-ye2803"
+    },
+    "code": {
+      "id": "YE2803",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.701",
+      "lon": "52.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2805",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "منعر",
+      "en": "Man'ar",
+      "slug": "manar-ye2805"
+    },
+    "code": {
+      "id": "YE2805",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.452",
+      "lon": "51.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2808",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "قشن",
+      "en": "Qishn",
+      "slug": "qishn-ye2808"
+    },
+    "code": {
+      "id": "YE2808",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.673",
+      "lon": "51.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2807",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "سيحوت",
+      "en": "Sayhut",
+      "slug": "sayhut-ye2807"
+    },
+    "code": {
+      "id": "YE2807",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.524",
+      "lon": "51.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2801",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شحن",
+      "en": "Shahin",
+      "slug": "shahin-ye2801"
+    },
+    "code": {
+      "id": "YE2801",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE28",
+        "level": 1,
+        "name": {
+          "local": "المهره",
+          "en": "Al Maharah",
+          "slug": "al-maharah-ye28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.916",
+      "lon": "52.336"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

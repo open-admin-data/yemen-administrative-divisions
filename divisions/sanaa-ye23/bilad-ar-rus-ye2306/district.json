@@ -1,0 +1,45 @@
+{
+  "id": "YE2306",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بلاد الروس",
+    "en": "Bilad Ar Rus",
+    "slug": "bilad-ar-rus-ye2306"
+  },
+  "code": {
+    "id": "YE2306",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.036",
+    "lon": "44.259"
+  },
+  "metadata": {},
+  "source": {}
+}

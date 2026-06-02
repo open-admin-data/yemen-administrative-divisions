@@ -1,0 +1,45 @@
+{
+  "id": "YE1922",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الضليعه",
+    "en": "Ad Dulay'ah",
+    "slug": "ad-dulayah-ye1922"
+  },
+  "code": {
+    "id": "YE1922",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.013",
+    "lon": "47.923"
+  },
+  "metadata": {},
+  "source": {}
+}

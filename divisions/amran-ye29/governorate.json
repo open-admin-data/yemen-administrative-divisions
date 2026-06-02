@@ -1,0 +1,33 @@
+{
+  "id": "YE29",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "عمران",
+    "en": "Amran",
+    "slug": "amran-ye29"
+  },
+  "code": {
+    "id": "YE29",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.107",
+    "lon": "43.937"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/amran-ye29/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

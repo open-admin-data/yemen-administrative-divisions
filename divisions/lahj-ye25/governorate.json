@@ -1,0 +1,33 @@
+{
+  "id": "YE25",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "لحج",
+    "en": "Lahj",
+    "slug": "lahj-ye25"
+  },
+  "code": {
+    "id": "YE25",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.326",
+    "lon": "44.746"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/lahj-ye25/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

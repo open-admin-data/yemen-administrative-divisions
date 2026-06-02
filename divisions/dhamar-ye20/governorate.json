@@ -1,0 +1,33 @@
+{
+  "id": "YE20",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "ذمار",
+    "en": "Dhamar",
+    "slug": "dhamar-ye20"
+  },
+  "code": {
+    "id": "YE20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.542",
+    "lon": "44.303"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/dhamar-ye20/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

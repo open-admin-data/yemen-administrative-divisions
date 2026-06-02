@@ -1,0 +1,45 @@
+{
+  "id": "YE2808",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "قشن",
+    "en": "Qishn",
+    "slug": "qishn-ye2808"
+  },
+  "code": {
+    "id": "YE2808",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE28",
+    "level": 1,
+    "name": {
+      "local": "المهره",
+      "en": "Al Maharah",
+      "slug": "al-maharah-ye28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.673",
+    "lon": "51.525"
+  },
+  "metadata": {},
+  "source": {}
+}

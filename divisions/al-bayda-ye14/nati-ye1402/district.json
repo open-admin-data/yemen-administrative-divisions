@@ -1,0 +1,45 @@
+{
+  "id": "YE1402",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ناطع",
+    "en": "Nati'",
+    "slug": "nati-ye1402"
+  },
+  "code": {
+    "id": "YE1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.537",
+    "lon": "45.588"
+  },
+  "metadata": {},
+  "source": {}
+}

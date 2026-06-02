@@ -1,0 +1,45 @@
+{
+  "id": "YE1303",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ازال",
+    "en": "Azaal",
+    "slug": "azaal-ye1303"
+  },
+  "code": {
+    "id": "YE1303",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE13",
+    "level": 1,
+    "name": {
+      "local": "امانة العاصمه",
+      "en": "Sana'a City",
+      "slug": "sanaa-city-ye13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.356",
+    "lon": "44.242"
+  },
+  "metadata": {},
+  "source": {}
+}

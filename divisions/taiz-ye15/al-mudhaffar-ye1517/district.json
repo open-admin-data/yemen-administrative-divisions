@@ -1,0 +1,45 @@
+{
+  "id": "YE1517",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المظفر",
+    "en": "Al Mudhaffar",
+    "slug": "al-mudhaffar-ye1517"
+  },
+  "code": {
+    "id": "YE1517",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.582",
+    "lon": "43.981"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1708",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الجميمه",
+    "en": "Al Jamimah",
+    "slug": "al-jamimah-ye1708"
+  },
+  "code": {
+    "id": "YE1708",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.031",
+    "lon": "43.556"
+  },
+  "metadata": {},
+  "source": {}
+}

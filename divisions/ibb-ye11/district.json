@@ -1,0 +1,902 @@
+[
+  {
+    "id": "YE1119",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الظهار",
+      "en": "Adh Dhihar",
+      "slug": "adh-dhihar-ye1119"
+    },
+    "code": {
+      "id": "YE1119",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.976",
+      "lon": "44.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1107",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المخادر",
+      "en": "Al Makhadir",
+      "slug": "al-makhadir-ye1107"
+    },
+    "code": {
+      "id": "YE1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.141",
+      "lon": "44.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1118",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المشنه",
+      "en": "Al Mashannah",
+      "slug": "al-mashannah-ye1118"
+    },
+    "code": {
+      "id": "YE1118",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.953",
+      "lon": "44.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1111",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "العدين",
+      "en": "Al Odayn",
+      "slug": "al-odayn-ye1111"
+    },
+    "code": {
+      "id": "YE1111",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.994",
+      "lon": "44.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1101",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "القفر",
+      "en": "Al Qafr",
+      "slug": "al-qafr-ye1101"
+    },
+    "code": {
+      "id": "YE1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.325",
+      "lon": "44.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1104",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "النادره",
+      "en": "An Nadirah",
+      "slug": "an-nadirah-ye1104"
+    },
+    "code": {
+      "id": "YE1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.062",
+      "lon": "44.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1103",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرضمه",
+      "en": "Ar Radmah",
+      "slug": "ar-radmah-ye1103"
+    },
+    "code": {
+      "id": "YE1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.21",
+      "lon": "44.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1114",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السبره",
+      "en": "As Sabrah",
+      "slug": "as-sabrah-ye1114"
+    },
+    "code": {
+      "id": "YE1114",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.842",
+      "lon": "44.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1106",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السده",
+      "en": "As Saddah",
+      "slug": "as-saddah-ye1106"
+    },
+    "code": {
+      "id": "YE1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.167",
+      "lon": "44.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1115",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السياني",
+      "en": "As Saiyani",
+      "slug": "as-saiyani-ye1115"
+    },
+    "code": {
+      "id": "YE1115",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.823",
+      "lon": "44.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1105",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشعر",
+      "en": "Ash Sha'ir",
+      "slug": "ash-shair-ye1105"
+    },
+    "code": {
+      "id": "YE1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.033",
+      "lon": "44.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1113",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بعدان",
+      "en": "Ba'dan",
+      "slug": "badan-ye1113"
+    },
+    "code": {
+      "id": "YE1113",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.989",
+      "lon": "44.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1116",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ذي السفال",
+      "en": "Dhi As Sufal",
+      "slug": "dhi-as-sufal-ye1116"
+    },
+    "code": {
+      "id": "YE1116",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.832",
+      "lon": "44.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1110",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "فرع العدين",
+      "en": "Far' Al Odayn",
+      "slug": "far-al-odayn-ye1110"
+    },
+    "code": {
+      "id": "YE1110",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.958",
+      "lon": "43.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1109",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حزم العدين",
+      "en": "Hazm Al Odayn",
+      "slug": "hazm-al-odayn-ye1109"
+    },
+    "code": {
+      "id": "YE1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.112",
+      "lon": "43.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1108",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حبيش",
+      "en": "Hobeish",
+      "slug": "hobeish-ye1108"
+    },
+    "code": {
+      "id": "YE1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.118",
+      "lon": "44.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1120",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye1120"
+    },
+    "code": {
+      "id": "YE1120",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.992",
+      "lon": "44.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1112",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبله",
+      "en": "Jiblah",
+      "slug": "jiblah-ye1112"
+    },
+    "code": {
+      "id": "YE1112",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.912",
+      "lon": "44.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1117",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مذيخره",
+      "en": "Mudhaykhirah",
+      "slug": "mudhaykhirah-ye1117"
+    },
+    "code": {
+      "id": "YE1117",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.859",
+      "lon": "43.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1102",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "يريم",
+      "en": "Yarim",
+      "slug": "yarim-ye1102"
+    },
+    "code": {
+      "id": "YE1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE11",
+        "level": 1,
+        "name": {
+          "local": "اب",
+          "en": "Ibb",
+          "slug": "ibb-ye11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.289",
+      "lon": "44.373"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

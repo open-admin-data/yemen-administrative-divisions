@@ -1,0 +1,45 @@
+{
+  "id": "YE1518",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "القاهره",
+    "en": "Al Qahirah",
+    "slug": "al-qahirah-ye1518"
+  },
+  "code": {
+    "id": "YE1518",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.586",
+    "lon": "44.014"
+  },
+  "metadata": {},
+  "source": {}
+}

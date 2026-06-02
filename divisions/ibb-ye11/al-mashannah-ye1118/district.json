@@ -1,0 +1,45 @@
+{
+  "id": "YE1118",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المشنه",
+    "en": "Al Mashannah",
+    "slug": "al-mashannah-ye1118"
+  },
+  "code": {
+    "id": "YE1118",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.953",
+    "lon": "44.153"
+  },
+  "metadata": {},
+  "source": {}
+}

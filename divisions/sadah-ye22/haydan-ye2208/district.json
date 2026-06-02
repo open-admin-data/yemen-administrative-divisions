@@ -1,0 +1,45 @@
+{
+  "id": "YE2208",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "حيدان",
+    "en": "Haydan",
+    "slug": "haydan-ye2208"
+  },
+  "code": {
+    "id": "YE2208",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE22",
+    "level": 1,
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.723",
+    "lon": "43.409"
+  },
+  "metadata": {},
+  "source": {}
+}

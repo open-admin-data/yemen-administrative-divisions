@@ -1,0 +1,45 @@
+{
+  "id": "YE2117",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "رضوم",
+    "en": "Radum",
+    "slug": "radum-ye2117"
+  },
+  "code": {
+    "id": "YE2117",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE21",
+    "level": 1,
+    "name": {
+      "local": "شبوه",
+      "en": "Shabwah",
+      "slug": "shabwah-ye21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE21",
+      "level": 1,
+      "name": {
+        "local": "شبوه",
+        "en": "Shabwah",
+        "slug": "shabwah-ye21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.978",
+    "lon": "47.527"
+  },
+  "metadata": {},
+  "source": {}
+}

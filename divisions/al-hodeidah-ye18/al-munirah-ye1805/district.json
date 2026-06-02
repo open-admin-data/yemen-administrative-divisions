@@ -1,0 +1,45 @@
+{
+  "id": "YE1805",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المنيره",
+    "en": "Al Munirah",
+    "slug": "al-munirah-ye1805"
+  },
+  "code": {
+    "id": "YE1805",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.353",
+    "lon": "42.884"
+  },
+  "metadata": {},
+  "source": {}
+}

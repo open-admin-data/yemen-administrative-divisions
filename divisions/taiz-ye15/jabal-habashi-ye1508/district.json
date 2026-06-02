@@ -1,0 +1,45 @@
+{
+  "id": "YE1508",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "جبل حبشي",
+    "en": "Jabal Habashi",
+    "slug": "jabal-habashi-ye1508"
+  },
+  "code": {
+    "id": "YE1508",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.465",
+    "lon": "43.895"
+  },
+  "metadata": {},
+  "source": {}
+}

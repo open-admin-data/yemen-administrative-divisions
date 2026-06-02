@@ -1,0 +1,33 @@
+{
+  "id": "YE16",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "الجوف",
+    "en": "Al Jawf",
+    "slug": "al-jawf-ye16"
+  },
+  "code": {
+    "id": "YE16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.594",
+    "lon": "45.594"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/al-jawf-ye16/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

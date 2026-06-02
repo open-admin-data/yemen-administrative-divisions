@@ -1,0 +1,89 @@
+# Sana&#39;a — Yemen Administrative Divisions
+
+> 16 districts
+> Code: YE23
+> Coordinates: 15.404, 44.462
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الحيمة الداخليه (Al Haymah Ad Dakhiliyah)
+
+Code: YE2308, Coordinates: 15.276, 43.834
+
+
+### الحيمة الخارجيه (Al Haymah Al Kharijiyah)
+
+Code: YE2309, Coordinates: 15.03, 43.887
+
+
+### الحصن (Al Hissn)
+
+Code: YE2315, Coordinates: 15.021, 44.503
+
+
+### ارحب (Arhab)
+
+Code: YE2302, Coordinates: 15.804, 44.289
+
+
+### الطيال (At Tyal)
+
+Code: YE2313, Coordinates: 15.388, 44.543
+
+
+### بني ضبيان (Bani Dabyan)
+
+Code: YE2314, Coordinates: 15.05, 44.818
+
+
+### بني حشيش (Bani Hushaysh)
+
+Code: YE2304, Coordinates: 15.453, 44.351
+
+
+### بني مطر (Bani Matar)
+
+Code: YE2307, Coordinates: 15.215, 44.085
+
+
+### بلاد الروس (Bilad Ar Rus)
+
+Code: YE2306, Coordinates: 15.036, 44.259
+
+
+### همدان (Hamdan)
+
+Code: YE2301, Coordinates: 15.48, 44.053
+
+
+### جحانه (Jihanah)
+
+Code: YE2316, Coordinates: 15.194, 44.509
+
+
+### خولان (Khawlan)
+
+Code: YE2312, Coordinates: 15.273, 44.686
+
+
+### مناخه (Manakhah)
+
+Code: YE2310, Coordinates: 15.071, 43.731
+
+
+### نهم (Nihm)
+
+Code: YE2303, Coordinates: 15.739, 44.548
+
+
+### صعفان (Sa&#39;fan)
+
+Code: YE2311, Coordinates: 15.072, 43.592
+
+
+### سنحان وبني بهلول (Sanhan wa Bani Bahlul)
+
+Code: YE2305, Coordinates: 15.226, 44.328
+
+

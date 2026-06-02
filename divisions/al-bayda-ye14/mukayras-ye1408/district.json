@@ -1,0 +1,45 @@
+{
+  "id": "YE1408",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "مكيراس",
+    "en": "Mukayras",
+    "slug": "mukayras-ye1408"
+  },
+  "code": {
+    "id": "YE1408",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.026",
+    "lon": "45.868"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "YE3006",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الضالع",
+      "en": "Ad Dali'",
+      "slug": "ad-dali-ye3006"
+    },
+    "code": {
+      "id": "YE3006",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.714",
+      "lon": "44.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE3008",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الازارق",
+      "en": "Al Azariq",
+      "slug": "al-azariq-ye3008"
+    },
+    "code": {
+      "id": "YE3008",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.648",
+      "lon": "44.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE3005",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحصين",
+      "en": "Al Hasayn",
+      "slug": "al-hasayn-ye3005"
+    },
+    "code": {
+      "id": "YE3005",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.791",
+      "lon": "44.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE3009",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحشاء",
+      "en": "Al Husha",
+      "slug": "al-husha-ye3009"
+    },
+    "code": {
+      "id": "YE3009",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.753",
+      "lon": "44.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE3004",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشعيب",
+      "en": "Ash Shu'ayb",
+      "slug": "ash-shuayb-ye3004"
+    },
+    "code": {
+      "id": "YE3004",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.836",
+      "lon": "44.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE3002",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "دمت",
+      "en": "Damt",
+      "slug": "damt-ye3002"
+    },
+    "code": {
+      "id": "YE3002",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.105",
+      "lon": "44.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE3007",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جحاف",
+      "en": "Jahaf",
+      "slug": "jahaf-ye3007"
+    },
+    "code": {
+      "id": "YE3007",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.73",
+      "lon": "44.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE3001",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبن",
+      "en": "Juban",
+      "slug": "juban-ye3001"
+    },
+    "code": {
+      "id": "YE3001",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.052",
+      "lon": "44.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE3003",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "قعطبه",
+      "en": "Qa'tabah",
+      "slug": "qatabah-ye3003"
+    },
+    "code": {
+      "id": "YE3003",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE30",
+        "level": 1,
+        "name": {
+          "local": "الضالع",
+          "en": "Ad Dali'",
+          "slug": "ad-dali-ye30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.929",
+      "lon": "44.636"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

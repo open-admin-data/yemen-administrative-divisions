@@ -1,0 +1,45 @@
+{
+  "id": "YE2012",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المنار",
+    "en": "Al Manar",
+    "slug": "al-manar-ye2012"
+  },
+  "code": {
+    "id": "YE2012",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE20",
+    "level": 1,
+    "name": {
+      "local": "ذمار",
+      "en": "Dhamar",
+      "slug": "dhamar-ye20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.653",
+    "lon": "44.158"
+  },
+  "metadata": {},
+  "source": {}
+}

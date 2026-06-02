@@ -1,0 +1,677 @@
+[
+  {
+    "id": "YE2501",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحد",
+      "en": "Al Had",
+      "slug": "al-had-ye2501"
+    },
+    "code": {
+      "id": "YE2501",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.95",
+      "lon": "45.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2514",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحوطه",
+      "en": "Al Hawtah",
+      "slug": "al-hawtah-ye2514"
+    },
+    "code": {
+      "id": "YE2514",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.061",
+      "lon": "44.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2513",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المضاربة و العاره",
+      "en": "Al Madaribah Wa Al Aarah",
+      "slug": "al-madaribah-wa-al-aarah-ye2513"
+    },
+    "code": {
+      "id": "YE2513",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.869",
+      "lon": "43.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2503",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المفلحي",
+      "en": "Al Maflahi",
+      "slug": "al-maflahi-ye2503"
+    },
+    "code": {
+      "id": "YE2503",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.784",
+      "lon": "45.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2508",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الملاح",
+      "en": "Al Malah",
+      "slug": "al-malah-ye2508"
+    },
+    "code": {
+      "id": "YE2508",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.379",
+      "lon": "44.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2512",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المقاطره",
+      "en": "Al Maqatirah",
+      "slug": "al-maqatirah-ye2512"
+    },
+    "code": {
+      "id": "YE2512",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.129",
+      "lon": "44.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2509",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المسيمير",
+      "en": "Al Musaymir",
+      "slug": "al-musaymir-ye2509"
+    },
+    "code": {
+      "id": "YE2509",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.431",
+      "lon": "44.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2510",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "القبيطه",
+      "en": "Al Qubaytah",
+      "slug": "al-qubaytah-ye2510"
+    },
+    "code": {
+      "id": "YE2510",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.329",
+      "lon": "44.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2505",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حبيل جبر",
+      "en": "Habil Jabr",
+      "slug": "habil-jabr-ye2505"
+    },
+    "code": {
+      "id": "YE2505",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.601",
+      "lon": "45.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2506",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حالمين",
+      "en": "Halmin",
+      "slug": "halmin-ye2506"
+    },
+    "code": {
+      "id": "YE2506",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.696",
+      "lon": "44.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2507",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ردفان",
+      "en": "Radfan",
+      "slug": "radfan-ye2507"
+    },
+    "code": {
+      "id": "YE2507",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.489",
+      "lon": "45.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2515",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "تبن",
+      "en": "Tuban",
+      "slug": "tuban-ye2515"
+    },
+    "code": {
+      "id": "YE2515",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.085",
+      "lon": "44.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2511",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "طور الباحه",
+      "en": "Tur Al Bahah",
+      "slug": "tur-al-bahah-ye2511"
+    },
+    "code": {
+      "id": "YE2511",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.001",
+      "lon": "44.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2502",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "يافع",
+      "en": "Yafi'",
+      "slug": "yafi-ye2502"
+    },
+    "code": {
+      "id": "YE2502",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.861",
+      "lon": "45.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2504",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "يهر",
+      "en": "Yahr",
+      "slug": "yahr-ye2504"
+    },
+    "code": {
+      "id": "YE2504",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE25",
+        "level": 1,
+        "name": {
+          "local": "لحج",
+          "en": "Lahj",
+          "slug": "lahj-ye25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.722",
+      "lon": "45.152"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

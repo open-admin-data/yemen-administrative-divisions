@@ -1,0 +1,45 @@
+{
+  "id": "YE1720",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "مبين",
+    "en": "Mabyan",
+    "slug": "mabyan-ye1720"
+  },
+  "code": {
+    "id": "YE1720",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.755",
+    "lon": "43.551"
+  },
+  "metadata": {},
+  "source": {}
+}

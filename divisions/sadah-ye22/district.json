@@ -1,0 +1,677 @@
+[
+  {
+    "id": "YE2207",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الظاهر",
+      "en": "Adh Dhahir",
+      "slug": "adh-dhahir-ye2207"
+    },
+    "code": {
+      "id": "YE2207",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.739",
+      "lon": "43.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2213",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحشوه",
+      "en": "Al Hashwah",
+      "slug": "al-hashwah-ye2213"
+    },
+    "code": {
+      "id": "YE2213",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.916",
+      "lon": "44.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2212",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الصفراء",
+      "en": "As Safra",
+      "slug": "as-safra-ye2212"
+    },
+    "code": {
+      "id": "YE2212",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.994",
+      "lon": "43.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2201",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "باقم",
+      "en": "Baqim",
+      "slug": "baqim-ye2201"
+    },
+    "code": {
+      "id": "YE2201",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.392",
+      "lon": "43.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2204",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "غمر",
+      "en": "Ghamr",
+      "slug": "ghamr-ye2204"
+    },
+    "code": {
+      "id": "YE2204",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.976",
+      "lon": "43.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2208",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حيدان",
+      "en": "Haydan",
+      "slug": "haydan-ye2208"
+    },
+    "code": {
+      "id": "YE2208",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.723",
+      "lon": "43.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2214",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "كتاف والبقع",
+      "en": "Kitaf wa Al Boqa'",
+      "slug": "kitaf-wa-al-boqa-ye2214"
+    },
+    "code": {
+      "id": "YE2214",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.088",
+      "lon": "44.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2210",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مجز",
+      "en": "Majz",
+      "slug": "majz-ye2210"
+    },
+    "code": {
+      "id": "YE2210",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.146",
+      "lon": "43.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2203",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "منبه",
+      "en": "Monabbih",
+      "slug": "monabbih-ye2203"
+    },
+    "code": {
+      "id": "YE2203",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.169",
+      "lon": "43.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2202",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "قطابر",
+      "en": "Qatabir",
+      "slug": "qatabir-ye2202"
+    },
+    "code": {
+      "id": "YE2202",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.33",
+      "lon": "43.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2205",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "رازح",
+      "en": "Razih",
+      "slug": "razih-ye2205"
+    },
+    "code": {
+      "id": "YE2205",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.925",
+      "lon": "43.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2215",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye2215"
+    },
+    "code": {
+      "id": "YE2215",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.929",
+      "lon": "43.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2211",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "سحار",
+      "en": "Sahar",
+      "slug": "sahar-ye2211"
+    },
+    "code": {
+      "id": "YE2211",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.931",
+      "lon": "43.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2209",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ساقين",
+      "en": "Saqin",
+      "slug": "saqin-ye2209"
+    },
+    "code": {
+      "id": "YE2209",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.797",
+      "lon": "43.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2206",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شداء",
+      "en": "Shada'a",
+      "slug": "shadaa-ye2206"
+    },
+    "code": {
+      "id": "YE2206",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE22",
+        "level": 1,
+        "name": {
+          "local": "صعده",
+          "en": "Sa'dah",
+          "slug": "sadah-ye22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.885",
+      "lon": "43.191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

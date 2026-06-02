@@ -1,0 +1,69 @@
+# Sana&#39;a City — Yemen Administrative Divisions
+
+> 12 districts
+> Code: YE13
+> Coordinates: 15.409, 44.176
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الوحده (Al Wehdah)
+
+Code: YE1306, Coordinates: 15.335, 44.188
+
+
+### السبعين (As Sab&#39;in)
+
+Code: YE1305, Coordinates: 15.306, 44.203
+
+
+### الصافيه (As Safiyah)
+
+Code: YE1304, Coordinates: 15.343, 44.246
+
+
+### التحرير (At Tahrir)
+
+Code: YE1307, Coordinates: 15.354, 44.2
+
+
+### الثوره (Ath Thawrah)
+
+Code: YE1309, Coordinates: 15.391, 44.193
+
+
+### ازال (Azaal)
+
+Code: YE1303, Coordinates: 15.356, 44.242
+
+
+### بني الحارث (Bani Al Harith)
+
+Code: YE1310, Coordinates: 15.509, 44.247
+
+
+### معين (Ma&#39;in)
+
+Code: YE1308, Coordinates: 15.379, 44.162
+
+
+### صنعاء القديمه (Old City)
+
+Code: YE1301, Coordinates: 15.355, 44.215
+
+
+### ضواحي الامانة همدان (Sana&#39;a City Outskirts - Hamdan)
+
+Code: YE1319, Coordinates: 15.413, 44.137
+
+
+### ضواحي الامانة سنحان وبني بهلول (Sana&#39;a City Outskirts -Sanhan wa Bani Bahlul)
+
+Code: YE1324, Coordinates: 15.268, 44.247
+
+
+### شعوب (Shu&#39;ub)
+
+Code: YE1302, Coordinates: 15.386, 44.228
+
+

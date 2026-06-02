@@ -1,0 +1,45 @@
+{
+  "id": "YE1102",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "يريم",
+    "en": "Yarim",
+    "slug": "yarim-ye1102"
+  },
+  "code": {
+    "id": "YE1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.289",
+    "lon": "44.373"
+  },
+  "metadata": {},
+  "source": {}
+}

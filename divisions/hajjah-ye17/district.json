@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "YE1704",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "عبس",
+      "en": "Abs",
+      "slug": "abs-ye1704"
+    },
+    "code": {
+      "id": "YE1704",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.018",
+      "lon": "43.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1714",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "افلح اليمن",
+      "en": "Aflah Al Yaman",
+      "slug": "aflah-al-yaman-ye1714"
+    },
+    "code": {
+      "id": "YE1714",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.979",
+      "lon": "43.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1710",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "افلح الشام",
+      "en": "Aflah Ash Sham",
+      "slug": "aflah-ash-sham-ye1710"
+    },
+    "code": {
+      "id": "YE1710",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.053",
+      "lon": "43.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1708",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الجميمه",
+      "en": "Al Jamimah",
+      "slug": "al-jamimah-ye1708"
+    },
+    "code": {
+      "id": "YE1708",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.031",
+      "lon": "43.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1717",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المغربه",
+      "en": "Al Maghrabah",
+      "slug": "al-maghrabah-ye1717"
+    },
+    "code": {
+      "id": "YE1717",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.902",
+      "lon": "43.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1715",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المحابشه",
+      "en": "Al Mahabishah",
+      "slug": "al-mahabishah-ye1715"
+    },
+    "code": {
+      "id": "YE1715",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.924",
+      "lon": "43.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1716",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المفتاح",
+      "en": "Al Miftah",
+      "slug": "al-miftah-ye1716"
+    },
+    "code": {
+      "id": "YE1716",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.962",
+      "lon": "43.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1725",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشغادره",
+      "en": "Ash Shaghadirah",
+      "slug": "ash-shaghadirah-ye1725"
+    },
+    "code": {
+      "id": "YE1725",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.607",
+      "lon": "43.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1721",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشاهل",
+      "en": "Ash Shahil",
+      "slug": "ash-shahil-ye1721"
+    },
+    "code": {
+      "id": "YE1721",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.855",
+      "lon": "43.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1712",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "اسلم",
+      "en": "Aslam",
+      "slug": "aslam-ye1712"
+    },
+    "code": {
+      "id": "YE1712",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.058",
+      "lon": "43.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1701",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بكيل المير",
+      "en": "Bakil Al Mir",
+      "slug": "bakil-al-mir-ye1701"
+    },
+    "code": {
+      "id": "YE1701",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.509",
+      "lon": "43.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1727",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بني العوام",
+      "en": "Bani Al Awam",
+      "slug": "bani-al-awam-ye1727"
+    },
+    "code": {
+      "id": "YE1727",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.581",
+      "lon": "43.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1724",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بني قيس الطور",
+      "en": "Bani Qays",
+      "slug": "bani-qays-ye1724"
+    },
+    "code": {
+      "id": "YE1724",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.63",
+      "lon": "43.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1729",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye1729"
+    },
+    "code": {
+      "id": "YE1729",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.675",
+      "lon": "43.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1728",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مدينة حجه",
+      "en": "Hajjah City",
+      "slug": "hajjah-city-ye1728"
+    },
+    "code": {
+      "id": "YE1728",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.684",
+      "lon": "43.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1702",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حرض",
+      "en": "Harad",
+      "slug": "harad-ye1702"
+    },
+    "code": {
+      "id": "YE1702",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.477",
+      "lon": "43.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1705",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حيران",
+      "en": "Hayran",
+      "slug": "hayran-ye1705"
+    },
+    "code": {
+      "id": "YE1705",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.255",
+      "lon": "43.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1711",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "خيران المحرق",
+      "en": "Khayran Al Muharraq",
+      "slug": "khayran-al-muharraq-ye1711"
+    },
+    "code": {
+      "id": "YE1711",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.074",
+      "lon": "43.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1722",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "كعيدنه",
+      "en": "Ku'aydinah",
+      "slug": "kuaydinah-ye1722"
+    },
+    "code": {
+      "id": "YE1722",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.819",
+      "lon": "43.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1718",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "كحلان عفار",
+      "en": "Kuhlan Afar",
+      "slug": "kuhlan-afar-ye1718"
+    },
+    "code": {
+      "id": "YE1718",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.758",
+      "lon": "43.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1709",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "كحلان الشرف",
+      "en": "Kuhlan Ash Sharaf",
+      "slug": "kuhlan-ash-sharaf-ye1709"
+    },
+    "code": {
+      "id": "YE1709",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.026",
+      "lon": "43.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1707",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "كشر",
+      "en": "Kushar",
+      "slug": "kushar-ye1707"
+    },
+    "code": {
+      "id": "YE1707",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.172",
+      "lon": "43.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1720",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مبين",
+      "en": "Mabyan",
+      "slug": "mabyan-ye1720"
+    },
+    "code": {
+      "id": "YE1720",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.755",
+      "lon": "43.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1703",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ميدي",
+      "en": "Midi",
+      "slug": "midi-ye1703"
+    },
+    "code": {
+      "id": "YE1703",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.178",
+      "lon": "42.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1706",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مستباء",
+      "en": "Mustaba",
+      "slug": "mustaba-ye1706"
+    },
+    "code": {
+      "id": "YE1706",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.274",
+      "lon": "43.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1726",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "نجره",
+      "en": "Najrah",
+      "slug": "najrah-ye1726"
+    },
+    "code": {
+      "id": "YE1726",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.647",
+      "lon": "43.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1713",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "قفل شمر",
+      "en": "Qafl Shammar",
+      "slug": "qafl-shammar-ye1713"
+    },
+    "code": {
+      "id": "YE1713",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.907",
+      "lon": "43.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1731",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "قاره",
+      "en": "Qarah",
+      "slug": "qarah-ye1731"
+    },
+    "code": {
+      "id": "YE1731",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.353",
+      "lon": "43.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1719",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شرس",
+      "en": "Sharas",
+      "slug": "sharas-ye1719"
+    },
+    "code": {
+      "id": "YE1719",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.731",
+      "lon": "43.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1723",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "وضره",
+      "en": "Wadrah",
+      "slug": "wadrah-ye1723"
+    },
+    "code": {
+      "id": "YE1723",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.714",
+      "lon": "43.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1730",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "وشحه",
+      "en": "Washhah",
+      "slug": "washhah-ye1730"
+    },
+    "code": {
+      "id": "YE1730",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE17",
+        "level": 1,
+        "name": {
+          "local": "حجه",
+          "en": "Hajjah",
+          "slug": "hajjah-ye17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.336",
+      "lon": "43.386"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

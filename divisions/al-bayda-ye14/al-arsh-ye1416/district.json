@@ -1,0 +1,45 @@
+{
+  "id": "YE1416",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "العرش",
+    "en": "Al Arsh",
+    "slug": "al-arsh-ye1416"
+  },
+  "code": {
+    "id": "YE1416",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.359",
+    "lon": "44.764"
+  },
+  "metadata": {},
+  "source": {}
+}

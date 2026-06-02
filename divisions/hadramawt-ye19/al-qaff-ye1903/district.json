@@ -1,0 +1,45 @@
+{
+  "id": "YE1903",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "القف",
+    "en": "Al Qaff",
+    "slug": "al-qaff-ye1903"
+  },
+  "code": {
+    "id": "YE1903",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.432",
+    "lon": "49.121"
+  },
+  "metadata": {},
+  "source": {}
+}

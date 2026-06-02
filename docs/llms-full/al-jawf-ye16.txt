@@ -1,0 +1,69 @@
+# Al Jawf — Yemen Administrative Divisions
+
+> 12 districts
+> Code: YE16
+> Coordinates: 16.594, 45.594
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الغيل (Al Ghayl)
+
+Code: YE1608, Coordinates: 16.092, 44.699
+
+
+### الحزم (Al Hazm)
+
+Code: YE1605, Coordinates: 16.078, 45.031
+
+
+### الحميدات (Al Humaydat)
+
+Code: YE1602, Coordinates: 16.467, 44.397
+
+
+### الخلق (Al Khalaq)
+
+Code: YE1609, Coordinates: 16.067, 44.799
+
+
+### المصلوب (Al Maslub)
+
+Code: YE1607, Coordinates: 16.094, 44.555
+
+
+### المطمه (Al Matammah)
+
+Code: YE1603, Coordinates: 16.2, 44.393
+
+
+### المتون (Al Mutun)
+
+Code: YE1606, Coordinates: 16.313, 44.616
+
+
+### الزاهر (Az Zahir)
+
+Code: YE1604, Coordinates: 16.331, 44.515
+
+
+### برط العنان (Barat Al Anan)
+
+Code: YE1610, Coordinates: 16.865, 44.5
+
+
+### خب و الشعف (Khab wa Ash Sha&#39;f)
+
+Code: YE1601, Coordinates: 16.587, 45.846
+
+
+### خراب المراشى (Kharab Al Marashi)
+
+Code: YE1612, Coordinates: 16.606, 44.273
+
+
+### رجوزه (Rajuzah)
+
+Code: YE1611, Coordinates: 16.62, 44.513
+
+

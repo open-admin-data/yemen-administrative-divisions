@@ -1,0 +1,45 @@
+{
+  "id": "YE1418",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرياشيه",
+    "en": "Ar Ryashyyah",
+    "slug": "ar-ryashyyah-ye1418"
+  },
+  "code": {
+    "id": "YE1418",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.241",
+    "lon": "44.799"
+  },
+  "metadata": {},
+  "source": {}
+}

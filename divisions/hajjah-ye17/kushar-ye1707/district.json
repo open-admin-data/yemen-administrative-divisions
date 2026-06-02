@@ -1,0 +1,45 @@
+{
+  "id": "YE1707",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "كشر",
+    "en": "Kushar",
+    "slug": "kushar-ye1707"
+  },
+  "code": {
+    "id": "YE1707",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.172",
+    "lon": "43.471"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+# Aden — Yemen Administrative Divisions
+
+> 8 districts
+> Code: YE24
+> Coordinates: 12.81, 44.782
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### البريقه (Al Burayqah)
+
+Code: YE2404, Coordinates: 12.796, 44.771
+
+
+### المنصوره (Al Mansurah)
+
+Code: YE2403, Coordinates: 12.841, 44.97
+
+
+### المعلا (Al Mu&#39;alla)
+
+Code: YE2406, Coordinates: 12.791, 45.013
+
+
+### الشيخ عثمان (Ash Shaykh Othman)
+
+Code: YE2402, Coordinates: 12.885, 45.015
+
+
+### التواهي (At Tawahi)
+
+Code: YE2405, Coordinates: 12.776, 44.994
+
+
+### دار سعد (Dar Sa&#39;d)
+
+Code: YE2401, Coordinates: 12.915, 44.969
+
+
+### خور مكسر (Khur Maksar)
+
+Code: YE2408, Coordinates: 12.867, 45.048
+
+
+### صيره (Kritar - Sirah)
+
+Code: YE2407, Coordinates: 12.772, 45.027
+
+

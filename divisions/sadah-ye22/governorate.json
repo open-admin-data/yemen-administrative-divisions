@@ -1,0 +1,33 @@
+{
+  "id": "YE22",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "صعده",
+    "en": "Sa'dah",
+    "slug": "sadah-ye22"
+  },
+  "code": {
+    "id": "YE22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.082",
+    "lon": "43.863"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/sadah-ye22/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

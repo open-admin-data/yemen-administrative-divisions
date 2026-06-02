@@ -1,0 +1,45 @@
+{
+  "id": "YE3106",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الجعفريه",
+    "en": "Al Ja'fariyyah",
+    "slug": "al-jafariyyah-ye3106"
+  },
+  "code": {
+    "id": "YE3106",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE31",
+    "level": 1,
+    "name": {
+      "local": "ريمه",
+      "en": "Raymah",
+      "slug": "raymah-ye31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE31",
+      "level": 1,
+      "name": {
+        "local": "ريمه",
+        "en": "Raymah",
+        "slug": "raymah-ye31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.515",
+    "lon": "43.571"
+  },
+  "metadata": {},
+  "source": {}
+}

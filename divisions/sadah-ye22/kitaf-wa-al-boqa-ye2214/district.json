@@ -1,0 +1,45 @@
+{
+  "id": "YE2214",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "كتاف والبقع",
+    "en": "Kitaf wa Al Boqa'",
+    "slug": "kitaf-wa-al-boqa-ye2214"
+  },
+  "code": {
+    "id": "YE2214",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE22",
+    "level": 1,
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.088",
+    "lon": "44.214"
+  },
+  "metadata": {},
+  "source": {}
+}

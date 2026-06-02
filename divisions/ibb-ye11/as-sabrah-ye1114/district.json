@@ -1,0 +1,45 @@
+{
+  "id": "YE1114",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "السبره",
+    "en": "As Sabrah",
+    "slug": "as-sabrah-ye1114"
+  },
+  "code": {
+    "id": "YE1114",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.842",
+    "lon": "44.302"
+  },
+  "metadata": {},
+  "source": {}
+}

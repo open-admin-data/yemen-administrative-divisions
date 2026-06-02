@@ -1,0 +1,45 @@
+{
+  "id": "YE1309",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الثوره",
+    "en": "Ath Thawrah",
+    "slug": "ath-thawrah-ye1309"
+  },
+  "code": {
+    "id": "YE1309",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE13",
+    "level": 1,
+    "name": {
+      "local": "امانة العاصمه",
+      "en": "Sana'a City",
+      "slug": "sanaa-city-ye13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.391",
+    "lon": "44.193"
+  },
+  "metadata": {},
+  "source": {}
+}

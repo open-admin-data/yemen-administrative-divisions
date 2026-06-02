@@ -1,0 +1,84 @@
+# Sa&#39;dah — Yemen Administrative Divisions
+
+> 15 districts
+> Code: YE22
+> Coordinates: 17.082, 43.863
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الظاهر (Adh Dhahir)
+
+Code: YE2207, Coordinates: 16.739, 43.259
+
+
+### الحشوه (Al Hashwah)
+
+Code: YE2213, Coordinates: 16.916, 44.259
+
+
+### الصفراء (As Safra)
+
+Code: YE2212, Coordinates: 16.994, 43.828
+
+
+### باقم (Baqim)
+
+Code: YE2201, Coordinates: 17.392, 43.498
+
+
+### غمر (Ghamr)
+
+Code: YE2204, Coordinates: 16.976, 43.344
+
+
+### حيدان (Haydan)
+
+Code: YE2208, Coordinates: 16.723, 43.409
+
+
+### كتاف والبقع (Kitaf wa Al Boqa&#39;)
+
+Code: YE2214, Coordinates: 17.088, 44.214
+
+
+### مجز (Majz)
+
+Code: YE2210, Coordinates: 17.146, 43.516
+
+
+### منبه (Monabbih)
+
+Code: YE2203, Coordinates: 17.169, 43.242
+
+
+### قطابر (Qatabir)
+
+Code: YE2202, Coordinates: 17.33, 43.354
+
+
+### رازح (Razih)
+
+Code: YE2205, Coordinates: 16.925, 43.261
+
+
+### صعده (Sa&#39;dah)
+
+Code: YE2215, Coordinates: 16.929, 43.757
+
+
+### سحار (Sahar)
+
+Code: YE2211, Coordinates: 16.931, 43.624
+
+
+### ساقين (Saqin)
+
+Code: YE2209, Coordinates: 16.797, 43.507
+
+
+### شداء (Shada&#39;a)
+
+Code: YE2206, Coordinates: 16.885, 43.191
+
+

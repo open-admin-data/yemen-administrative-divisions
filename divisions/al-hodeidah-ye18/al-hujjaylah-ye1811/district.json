@@ -1,0 +1,45 @@
+{
+  "id": "YE1811",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحجيله",
+    "en": "Al Hujjaylah",
+    "slug": "al-hujjaylah-ye1811"
+  },
+  "code": {
+    "id": "YE1811",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.988",
+    "lon": "43.588"
+  },
+  "metadata": {},
+  "source": {}
+}

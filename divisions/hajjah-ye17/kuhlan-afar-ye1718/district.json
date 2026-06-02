@@ -1,0 +1,45 @@
+{
+  "id": "YE1718",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "كحلان عفار",
+    "en": "Kuhlan Afar",
+    "slug": "kuhlan-afar-ye1718"
+  },
+  "code": {
+    "id": "YE1718",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.758",
+    "lon": "43.685"
+  },
+  "metadata": {},
+  "source": {}
+}

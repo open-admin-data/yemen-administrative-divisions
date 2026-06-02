@@ -1,0 +1,45 @@
+{
+  "id": "YE2601",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "مجزر",
+    "en": "Majzar",
+    "slug": "majzar-ye2601"
+  },
+  "code": {
+    "id": "YE2601",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE26",
+    "level": 1,
+    "name": {
+      "local": "مارب",
+      "en": "Ma'rib",
+      "slug": "marib-ye26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.792",
+    "lon": "44.826"
+  },
+  "metadata": {},
+  "source": {}
+}

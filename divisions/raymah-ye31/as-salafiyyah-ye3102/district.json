@@ -1,0 +1,45 @@
+{
+  "id": "YE3102",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "السلفيه",
+    "en": "As Salafiyyah",
+    "slug": "as-salafiyyah-ye3102"
+  },
+  "code": {
+    "id": "YE3102",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE31",
+    "level": 1,
+    "name": {
+      "local": "ريمه",
+      "en": "Raymah",
+      "slug": "raymah-ye31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE31",
+      "level": 1,
+      "name": {
+        "local": "ريمه",
+        "en": "Raymah",
+        "slug": "raymah-ye31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.695",
+    "lon": "43.817"
+  },
+  "metadata": {},
+  "source": {}
+}

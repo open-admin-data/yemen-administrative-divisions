@@ -1,0 +1,45 @@
+{
+  "id": "YE1211",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "خنفر",
+    "en": "Khanfar",
+    "slug": "khanfar-ye1211"
+  },
+  "code": {
+    "id": "YE1211",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE12",
+    "level": 1,
+    "name": {
+      "local": "ابين",
+      "en": "Abyan",
+      "slug": "abyan-ye12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE12",
+      "level": 1,
+      "name": {
+        "local": "ابين",
+        "en": "Abyan",
+        "slug": "abyan-ye12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.334",
+    "lon": "45.394"
+  },
+  "metadata": {},
+  "source": {}
+}

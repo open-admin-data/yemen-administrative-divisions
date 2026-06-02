@@ -1,0 +1,84 @@
+# Lahj — Yemen Administrative Divisions
+
+> 15 districts
+> Code: YE25
+> Coordinates: 13.326, 44.746
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الحد (Al Had)
+
+Code: YE2501, Coordinates: 13.95, 45.254
+
+
+### الحوطه (Al Hawtah)
+
+Code: YE2514, Coordinates: 13.061, 44.878
+
+
+### المضاربة و العاره (Al Madaribah Wa Al Aarah)
+
+Code: YE2513, Coordinates: 12.869, 43.97
+
+
+### المفلحي (Al Maflahi)
+
+Code: YE2503, Coordinates: 13.784, 45.139
+
+
+### الملاح (Al Malah)
+
+Code: YE2508, Coordinates: 13.379, 44.941
+
+
+### المقاطره (Al Maqatirah)
+
+Code: YE2512, Coordinates: 13.129, 44.172
+
+
+### المسيمير (Al Musaymir)
+
+Code: YE2509, Coordinates: 13.431, 44.644
+
+
+### القبيطه (Al Qubaytah)
+
+Code: YE2510, Coordinates: 13.329, 44.491
+
+
+### حبيل جبر (Habil Jabr)
+
+Code: YE2505, Coordinates: 13.601, 45.062
+
+
+### حالمين (Halmin)
+
+Code: YE2506, Coordinates: 13.696, 44.909
+
+
+### ردفان (Radfan)
+
+Code: YE2507, Coordinates: 13.489, 45.005
+
+
+### تبن (Tuban)
+
+Code: YE2515, Coordinates: 13.085, 44.909
+
+
+### طور الباحه (Tur Al Bahah)
+
+Code: YE2511, Coordinates: 13.001, 44.48
+
+
+### يافع (Yafi&#39;)
+
+Code: YE2502, Coordinates: 13.861, 45.231
+
+
+### يهر (Yahr)
+
+Code: YE2504, Coordinates: 13.722, 45.152
+
+

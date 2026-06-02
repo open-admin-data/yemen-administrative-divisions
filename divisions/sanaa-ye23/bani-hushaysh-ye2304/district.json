@@ -1,0 +1,45 @@
+{
+  "id": "YE2304",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بني حشيش",
+    "en": "Bani Hushaysh",
+    "slug": "bani-hushaysh-ye2304"
+  },
+  "code": {
+    "id": "YE2304",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.453",
+    "lon": "44.351"
+  },
+  "metadata": {},
+  "source": {}
+}

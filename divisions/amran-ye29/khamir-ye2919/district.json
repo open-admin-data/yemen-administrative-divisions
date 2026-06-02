@@ -1,0 +1,45 @@
+{
+  "id": "YE2919",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "خمر",
+    "en": "Khamir",
+    "slug": "khamir-ye2919"
+  },
+  "code": {
+    "id": "YE2919",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE29",
+    "level": 1,
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.997",
+    "lon": "43.934"
+  },
+  "metadata": {},
+  "source": {}
+}

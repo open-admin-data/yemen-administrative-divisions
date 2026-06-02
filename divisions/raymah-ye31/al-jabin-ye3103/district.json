@@ -1,0 +1,45 @@
+{
+  "id": "YE3103",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الجبين",
+    "en": "Al Jabin",
+    "slug": "al-jabin-ye3103"
+  },
+  "code": {
+    "id": "YE3103",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE31",
+    "level": 1,
+    "name": {
+      "local": "ريمه",
+      "en": "Raymah",
+      "slug": "raymah-ye31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE31",
+      "level": 1,
+      "name": {
+        "local": "ريمه",
+        "en": "Raymah",
+        "slug": "raymah-ye31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.691",
+    "lon": "43.617"
+  },
+  "metadata": {},
+  "source": {}
+}

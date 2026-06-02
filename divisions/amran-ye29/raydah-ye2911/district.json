@@ -1,0 +1,45 @@
+{
+  "id": "YE2911",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ريده",
+    "en": "Raydah",
+    "slug": "raydah-ye2911"
+  },
+  "code": {
+    "id": "YE2911",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE29",
+    "level": 1,
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.77",
+    "lon": "44.032"
+  },
+  "metadata": {},
+  "source": {}
+}

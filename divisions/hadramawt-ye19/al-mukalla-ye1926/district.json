@@ -1,0 +1,45 @@
+{
+  "id": "YE1926",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المكلا",
+    "en": "Al Mukalla",
+    "slug": "al-mukalla-ye1926"
+  },
+  "code": {
+    "id": "YE1926",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.721",
+    "lon": "48.905"
+  },
+  "metadata": {},
+  "source": {}
+}

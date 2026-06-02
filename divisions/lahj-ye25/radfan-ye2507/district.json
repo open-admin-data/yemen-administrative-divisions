@@ -1,0 +1,45 @@
+{
+  "id": "YE2507",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ردفان",
+    "en": "Radfan",
+    "slug": "radfan-ye2507"
+  },
+  "code": {
+    "id": "YE2507",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE25",
+    "level": 1,
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.489",
+    "lon": "45.005"
+  },
+  "metadata": {},
+  "source": {}
+}

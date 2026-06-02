@@ -1,0 +1,33 @@
+{
+  "id": "YE14",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "البيضاء",
+    "en": "Al Bayda",
+    "slug": "al-bayda-ye14"
+  },
+  "code": {
+    "id": "YE14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.326",
+    "lon": "45.28"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/al-bayda-ye14/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

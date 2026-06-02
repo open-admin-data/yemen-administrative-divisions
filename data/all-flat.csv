@@ -1,0 +1,24 @@
+# Data from Open Admin Data (https://openadmindata.org/ye/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/yemen-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.governorate,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+YE11,1,محافظة,Governorate,اب,Ibb,ibb-ye11,YE11,,,,,,20,,14.084,44.18,https://openadmindata.org/ye/governorates/ibb-ye11/
+YE12,1,محافظة,Governorate,ابين,Abyan,abyan-ye12,YE12,,,,,,11,,13.631,46.237,https://openadmindata.org/ye/governorates/abyan-ye12/
+YE13,1,محافظة,Governorate,امانة العاصمه,Sana'a City,sanaa-city-ye13,YE13,,,,,,12,,15.409,44.176,https://openadmindata.org/ye/governorates/sanaa-city-ye13/
+YE14,1,محافظة,Governorate,البيضاء,Al Bayda,al-bayda-ye14,YE14,,,,,,20,,14.326,45.28,https://openadmindata.org/ye/governorates/al-bayda-ye14/
+YE15,1,محافظة,Governorate,تعز,Ta'iz,taiz-ye15,YE15,,,,,,23,,13.293,43.785,https://openadmindata.org/ye/governorates/taiz-ye15/
+YE16,1,محافظة,Governorate,الجوف,Al Jawf,al-jawf-ye16,YE16,,,,,,12,,16.594,45.594,https://openadmindata.org/ye/governorates/al-jawf-ye16/
+YE17,1,محافظة,Governorate,حجه,Hajjah,hajjah-ye17,YE17,,,,,,31,,16.091,43.203,https://openadmindata.org/ye/governorates/hajjah-ye17/
+YE18,1,محافظة,Governorate,الحديده,Al Hodeidah,al-hodeidah-ye18,YE18,,,,,,26,,14.782,43.218,https://openadmindata.org/ye/governorates/al-hodeidah-ye18/
+YE19,1,محافظة,Governorate,حضرموت,Hadramawt,hadramawt-ye19,YE19,,,,,,28,,16.523,48.631,https://openadmindata.org/ye/governorates/hadramawt-ye19/
+YE20,1,محافظة,Governorate,ذمار,Dhamar,dhamar-ye20,YE20,,,,,,12,,14.542,44.303,https://openadmindata.org/ye/governorates/dhamar-ye20/
+YE21,1,محافظة,Governorate,شبوه,Shabwah,shabwah-ye21,YE21,,,,,,17,,14.661,46.656,https://openadmindata.org/ye/governorates/shabwah-ye21/
+YE22,1,محافظة,Governorate,صعده,Sa'dah,sadah-ye22,YE22,,,,,,15,,17.082,43.863,https://openadmindata.org/ye/governorates/sadah-ye22/
+YE23,1,محافظة,Governorate,صنعاء,Sana'a,sanaa-ye23,YE23,,,,,,16,,15.404,44.462,https://openadmindata.org/ye/governorates/sanaa-ye23/
+YE24,1,محافظة,Governorate,عدن,Aden,aden-ye24,YE24,,,,,,8,,12.81,44.782,https://openadmindata.org/ye/governorates/aden-ye24/
+YE25,1,محافظة,Governorate,لحج,Lahj,lahj-ye25,YE25,,,,,,15,,13.326,44.746,https://openadmindata.org/ye/governorates/lahj-ye25/
+YE26,1,محافظة,Governorate,مارب,Ma'rib,marib-ye26,YE26,,,,,,14,,15.324,45.448,https://openadmindata.org/ye/governorates/marib-ye26/
+YE27,1,محافظة,Governorate,المحويت,Al Mahwit,al-mahwit-ye27,YE27,,,,,,9,,15.314,43.502,https://openadmindata.org/ye/governorates/al-mahwit-ye27/
+YE28,1,محافظة,Governorate,المهره,Al Maharah,al-maharah-ye28,YE28,,,,,,9,,17.049,52.026,https://openadmindata.org/ye/governorates/al-maharah-ye28/
+YE29,1,محافظة,Governorate,عمران,Amran,amran-ye29,YE29,,,,,,20,,16.107,43.937,https://openadmindata.org/ye/governorates/amran-ye29/
+YE30,1,محافظة,Governorate,الضالع,Ad Dali',ad-dali-ye30,YE30,,,,,,9,,13.891,44.79,https://openadmindata.org/ye/governorates/ad-dali-ye30/
+YE31,1,محافظة,Governorate,ريمه,Raymah,raymah-ye31,YE31,,,,,,6,,14.656,43.689,https://openadmindata.org/ye/governorates/raymah-ye31/
+YE32,1,محافظة,Governorate,سقطرى,Socotra,socotra-ye32,YE32,,,,,,2,,12.505,53.895,https://openadmindata.org/ye/governorates/socotra-ye32/

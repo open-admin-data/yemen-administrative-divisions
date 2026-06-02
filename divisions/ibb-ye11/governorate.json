@@ -1,0 +1,33 @@
+{
+  "id": "YE11",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "اب",
+    "en": "Ibb",
+    "slug": "ibb-ye11"
+  },
+  "code": {
+    "id": "YE11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.084",
+    "lon": "44.18"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/ibb-ye11/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

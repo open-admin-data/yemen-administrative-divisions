@@ -1,0 +1,45 @@
+{
+  "id": "YE2509",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المسيمير",
+    "en": "Al Musaymir",
+    "slug": "al-musaymir-ye2509"
+  },
+  "code": {
+    "id": "YE2509",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE25",
+    "level": 1,
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.431",
+    "lon": "44.644"
+  },
+  "metadata": {},
+  "source": {}
+}

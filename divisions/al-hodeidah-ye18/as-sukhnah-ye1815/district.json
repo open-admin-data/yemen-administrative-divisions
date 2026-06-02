@@ -1,0 +1,45 @@
+{
+  "id": "YE1815",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "السخنه",
+    "en": "As Sukhnah",
+    "slug": "as-sukhnah-ye1815"
+  },
+  "code": {
+    "id": "YE1815",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.745",
+    "lon": "43.339"
+  },
+  "metadata": {},
+  "source": {}
+}

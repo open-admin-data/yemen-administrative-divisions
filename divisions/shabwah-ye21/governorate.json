@@ -1,0 +1,33 @@
+{
+  "id": "YE21",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "شبوه",
+    "en": "Shabwah",
+    "slug": "shabwah-ye21"
+  },
+  "code": {
+    "id": "YE21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.661",
+    "lon": "46.656"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/shabwah-ye21/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

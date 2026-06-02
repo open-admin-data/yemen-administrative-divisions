@@ -1,0 +1,45 @@
+{
+  "id": "YE1521",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المعافر",
+    "en": "Al Ma'afer",
+    "slug": "al-maafer-ye1521"
+  },
+  "code": {
+    "id": "YE1521",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.376",
+    "lon": "43.993"
+  },
+  "metadata": {},
+  "source": {}
+}

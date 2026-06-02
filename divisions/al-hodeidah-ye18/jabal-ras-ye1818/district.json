@@ -1,0 +1,45 @@
+{
+  "id": "YE1818",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "جبل راس",
+    "en": "Jabal Ras",
+    "slug": "jabal-ras-ye1818"
+  },
+  "code": {
+    "id": "YE1818",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.03",
+    "lon": "43.637"
+  },
+  "metadata": {},
+  "source": {}
+}

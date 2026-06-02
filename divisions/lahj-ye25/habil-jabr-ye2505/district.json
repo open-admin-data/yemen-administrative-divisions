@@ -1,0 +1,45 @@
+{
+  "id": "YE2505",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "حبيل جبر",
+    "en": "Habil Jabr",
+    "slug": "habil-jabr-ye2505"
+  },
+  "code": {
+    "id": "YE2505",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE25",
+    "level": 1,
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.601",
+    "lon": "45.062"
+  },
+  "metadata": {},
+  "source": {}
+}

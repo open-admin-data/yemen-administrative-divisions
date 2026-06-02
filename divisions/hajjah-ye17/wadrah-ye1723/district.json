@@ -1,0 +1,45 @@
+{
+  "id": "YE1723",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "وضره",
+    "en": "Wadrah",
+    "slug": "wadrah-ye1723"
+  },
+  "code": {
+    "id": "YE1723",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.714",
+    "lon": "43.468"
+  },
+  "metadata": {},
+  "source": {}
+}

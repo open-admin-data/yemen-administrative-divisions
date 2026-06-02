@@ -1,0 +1,542 @@
+[
+  {
+    "id": "YE2001",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحداء",
+      "en": "Al Hada",
+      "slug": "al-hada-ye2001"
+    },
+    "code": {
+      "id": "YE2001",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.809",
+      "lon": "44.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2012",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المنار",
+      "en": "Al Manar",
+      "slug": "al-manar-ye2012"
+    },
+    "code": {
+      "id": "YE2012",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.653",
+      "lon": "44.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2010",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "عنس",
+      "en": "Ans",
+      "slug": "ans-ye2010"
+    },
+    "code": {
+      "id": "YE2010",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.438",
+      "lon": "44.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2011",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضوران انس",
+      "en": "Dawran Anis",
+      "slug": "dawran-anis-ye2011"
+    },
+    "code": {
+      "id": "YE2011",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.829",
+      "lon": "44.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2008",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مدينة ذمار",
+      "en": "Dhamar City",
+      "slug": "dhamar-city-ye2008"
+    },
+    "code": {
+      "id": "YE2008",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.608",
+      "lon": "44.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2003",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبل الشرق",
+      "en": "Jabal Ash sharq",
+      "slug": "jabal-ash-sharq-ye2003"
+    },
+    "code": {
+      "id": "YE2003",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.738",
+      "lon": "43.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2002",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جهران",
+      "en": "Jahran",
+      "slug": "jahran-ye2002"
+    },
+    "code": {
+      "id": "YE2002",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.733",
+      "lon": "44.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2004",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مغرب عنس",
+      "en": "Maghrib Ans",
+      "slug": "maghrib-ans-ye2004"
+    },
+    "code": {
+      "id": "YE2004",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.466",
+      "lon": "44.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2009",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ميفعة عنس",
+      "en": "Mayfa'at Ans",
+      "slug": "mayfaat-ans-ye2009"
+    },
+    "code": {
+      "id": "YE2009",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.515",
+      "lon": "44.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2005",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "عتمه",
+      "en": "Otmah",
+      "slug": "otmah-ye2005"
+    },
+    "code": {
+      "id": "YE2005",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.475",
+      "lon": "43.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2006",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "وصاب العالي",
+      "en": "Wusab Al Aali",
+      "slug": "wusab-al-aali-ye2006"
+    },
+    "code": {
+      "id": "YE2006",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.333",
+      "lon": "43.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2007",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "وصاب السافل",
+      "en": "Wusab As Safil",
+      "slug": "wusab-as-safil-ye2007"
+    },
+    "code": {
+      "id": "YE2007",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE20",
+        "level": 1,
+        "name": {
+          "local": "ذمار",
+          "en": "Dhamar",
+          "slug": "dhamar-ye20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.25",
+      "lon": "43.627"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

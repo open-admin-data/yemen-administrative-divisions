@@ -1,0 +1,45 @@
+{
+  "id": "YE2307",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بني مطر",
+    "en": "Bani Matar",
+    "slug": "bani-matar-ye2307"
+  },
+  "code": {
+    "id": "YE2307",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.215",
+    "lon": "44.085"
+  },
+  "metadata": {},
+  "source": {}
+}

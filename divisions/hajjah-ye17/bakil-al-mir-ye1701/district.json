@@ -1,0 +1,45 @@
+{
+  "id": "YE1701",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بكيل المير",
+    "en": "Bakil Al Mir",
+    "slug": "bakil-al-mir-ye1701"
+  },
+  "code": {
+    "id": "YE1701",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.509",
+    "lon": "43.345"
+  },
+  "metadata": {},
+  "source": {}
+}

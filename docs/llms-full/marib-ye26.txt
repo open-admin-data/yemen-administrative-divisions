@@ -1,0 +1,79 @@
+# Ma&#39;rib — Yemen Administrative Divisions
+
+> 14 districts
+> Code: YE26
+> Coordinates: 15.324, 45.448
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### العبديه (Al Abdiyah)
+
+Code: YE2611, Coordinates: 14.717, 45.398
+
+
+### الجوبه (Al Jubah)
+
+Code: YE2607, Coordinates: 15.14, 45.283
+
+
+### بدبده (Bidbadah)
+
+Code: YE2605, Coordinates: 15.405, 44.747
+
+
+### حريب (Harib)
+
+Code: YE2609, Coordinates: 14.919, 45.379
+
+
+### حريب القرامش (Harib Al Qaramish)
+
+Code: YE2604, Coordinates: 15.467, 44.622
+
+
+### جبل مراد (Jabal Murad)
+
+Code: YE2614, Coordinates: 15.045, 45.192
+
+
+### مارب (Ma&#39;rib)
+
+Code: YE2613, Coordinates: 15.637, 45.771
+
+
+### مدينة مارب (Ma&#39;rib City)
+
+Code: YE2612, Coordinates: 15.424, 45.298
+
+
+### مدغل الجدعان (Madghal Al Jid&#39;an)
+
+Code: YE2603, Coordinates: 15.629, 45.044
+
+
+### ماهليه (Mahliyah)
+
+Code: YE2610, Coordinates: 14.667, 45.177
+
+
+### مجزر (Majzar)
+
+Code: YE2601, Coordinates: 15.792, 44.826
+
+
+### رغوان (Raghwan)
+
+Code: YE2602, Coordinates: 15.774, 45.067
+
+
+### رحبه (Rahabah)
+
+Code: YE2608, Coordinates: 14.957, 45.102
+
+
+### صرواح (Sirwah)
+
+Code: YE2606, Coordinates: 15.441, 45.019
+
+

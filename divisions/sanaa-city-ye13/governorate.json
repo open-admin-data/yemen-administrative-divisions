@@ -1,0 +1,33 @@
+{
+  "id": "YE13",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "امانة العاصمه",
+    "en": "Sana'a City",
+    "slug": "sanaa-city-ye13"
+  },
+  "code": {
+    "id": "YE13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.409",
+    "lon": "44.176"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/sanaa-city-ye13/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1107",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المخادر",
+    "en": "Al Makhadir",
+    "slug": "al-makhadir-ye1107"
+  },
+  "code": {
+    "id": "YE1107",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.141",
+    "lon": "44.206"
+  },
+  "metadata": {},
+  "source": {}
+}

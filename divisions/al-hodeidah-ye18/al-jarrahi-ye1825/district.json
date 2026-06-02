@@ -1,0 +1,45 @@
+{
+  "id": "YE1825",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الجراحي",
+    "en": "Al Jarrahi",
+    "slug": "al-jarrahi-ye1825"
+  },
+  "code": {
+    "id": "YE1825",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.103",
+    "lon": "43.378"
+  },
+  "metadata": {},
+  "source": {}
+}

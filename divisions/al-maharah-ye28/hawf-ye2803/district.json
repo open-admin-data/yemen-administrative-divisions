@@ -1,0 +1,45 @@
+{
+  "id": "YE2803",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "حوف",
+    "en": "Hawf",
+    "slug": "hawf-ye2803"
+  },
+  "code": {
+    "id": "YE2803",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE28",
+    "level": 1,
+    "name": {
+      "local": "المهره",
+      "en": "Al Maharah",
+      "slug": "al-maharah-ye28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE28",
+      "level": 1,
+      "name": {
+        "local": "المهره",
+        "en": "Al Maharah",
+        "slug": "al-maharah-ye28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.701",
+    "lon": "52.815"
+  },
+  "metadata": {},
+  "source": {}
+}

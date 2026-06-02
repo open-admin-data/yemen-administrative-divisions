@@ -1,0 +1,45 @@
+{
+  "id": "YE1607",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المصلوب",
+    "en": "Al Maslub",
+    "slug": "al-maslub-ye1607"
+  },
+  "code": {
+    "id": "YE1607",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.094",
+    "lon": "44.555"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2204",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "غمر",
+    "en": "Ghamr",
+    "slug": "ghamr-ye2204"
+  },
+  "code": {
+    "id": "YE2204",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE22",
+    "level": 1,
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.976",
+    "lon": "43.344"
+  },
+  "metadata": {},
+  "source": {}
+}

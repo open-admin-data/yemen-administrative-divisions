@@ -1,0 +1,45 @@
+{
+  "id": "YE1731",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "قاره",
+    "en": "Qarah",
+    "slug": "qarah-ye1731"
+  },
+  "code": {
+    "id": "YE1731",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.353",
+    "lon": "43.476"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1706",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "مستباء",
+    "en": "Mustaba",
+    "slug": "mustaba-ye1706"
+  },
+  "code": {
+    "id": "YE1706",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.274",
+    "lon": "43.253"
+  },
+  "metadata": {},
+  "source": {}
+}

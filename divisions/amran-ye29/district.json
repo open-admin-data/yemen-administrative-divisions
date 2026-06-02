@@ -1,0 +1,902 @@
+[
+  {
+    "id": "YE2903",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "العشه",
+      "en": "Al Ashah",
+      "slug": "al-ashah-ye2903"
+    },
+    "code": {
+      "id": "YE2903",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.335",
+      "lon": "43.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2906",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المدان",
+      "en": "Al Madan",
+      "slug": "al-madan-ye2906"
+    },
+    "code": {
+      "id": "YE2906",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.232",
+      "lon": "43.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2915",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye2915"
+    },
+    "code": {
+      "id": "YE2915",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.693",
+      "lon": "43.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2914",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السود",
+      "en": "As Sawd",
+      "slug": "as-sawd-ye2914"
+    },
+    "code": {
+      "id": "YE2914",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.824",
+      "lon": "43.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2913",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السوده",
+      "en": "As Sudah",
+      "slug": "as-sudah-ye2913"
+    },
+    "code": {
+      "id": "YE2913",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.968",
+      "lon": "43.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2920",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بني صريم",
+      "en": "Bani Surim",
+      "slug": "bani-surim-ye2920"
+    },
+    "code": {
+      "id": "YE2920",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.129",
+      "lon": "43.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2909",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ذيبين",
+      "en": "Dhibain",
+      "slug": "dhibain-ye2909"
+    },
+    "code": {
+      "id": "YE2909",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.011",
+      "lon": "44.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2908",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ظليمة حبور",
+      "en": "Dhulaymat Habur",
+      "slug": "dhulaymat-habur-ye2908"
+    },
+    "code": {
+      "id": "YE2908",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.038",
+      "lon": "43.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2918",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "عيال سريح",
+      "en": "Eyal Surayh",
+      "slug": "eyal-surayh-ye2918"
+    },
+    "code": {
+      "id": "YE2918",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.649",
+      "lon": "44.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2901",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حرف سفيان",
+      "en": "Harf Sufyan",
+      "slug": "harf-sufyan-ye2901"
+    },
+    "code": {
+      "id": "YE2901",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.372",
+      "lon": "44.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2902",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حوث",
+      "en": "Huth",
+      "slug": "huth-ye2902"
+    },
+    "code": {
+      "id": "YE2902",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.276",
+      "lon": "43.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2912",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبل عيال يزيد",
+      "en": "Jabal Eyal Yazid",
+      "slug": "jabal-eyal-yazid-ye2912"
+    },
+    "code": {
+      "id": "YE2912",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.77",
+      "lon": "43.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2919",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "خمر",
+      "en": "Khamir",
+      "slug": "khamir-ye2919"
+    },
+    "code": {
+      "id": "YE2919",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.997",
+      "lon": "43.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2910",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "خارف",
+      "en": "Kharif",
+      "slug": "kharif-ye2910"
+    },
+    "code": {
+      "id": "YE2910",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.854",
+      "lon": "44.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2916",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مسور",
+      "en": "Maswar",
+      "slug": "maswar-ye2916"
+    },
+    "code": {
+      "id": "YE2916",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.597",
+      "lon": "43.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2904",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "قفلة عذر",
+      "en": "Qaflat Odhar",
+      "slug": "qaflat-odhar-ye2904"
+    },
+    "code": {
+      "id": "YE2904",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.289",
+      "lon": "43.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2911",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ريده",
+      "en": "Raydah",
+      "slug": "raydah-ye2911"
+    },
+    "code": {
+      "id": "YE2911",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.77",
+      "lon": "44.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2905",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شهاره",
+      "en": "Shaharah",
+      "slug": "shaharah-ye2905"
+    },
+    "code": {
+      "id": "YE2905",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.185",
+      "lon": "43.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2907",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صوير",
+      "en": "Suwayr",
+      "slug": "suwayr-ye2907"
+    },
+    "code": {
+      "id": "YE2907",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.062",
+      "lon": "43.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2917",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ثلاء",
+      "en": "Thula",
+      "slug": "thula-ye2917"
+    },
+    "code": {
+      "id": "YE2917",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE29",
+        "level": 1,
+        "name": {
+          "local": "عمران",
+          "en": "Amran",
+          "slug": "amran-ye29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.59",
+      "lon": "43.832"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

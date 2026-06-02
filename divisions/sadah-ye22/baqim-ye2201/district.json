@@ -1,0 +1,45 @@
+{
+  "id": "YE2201",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "باقم",
+    "en": "Baqim",
+    "slug": "baqim-ye2201"
+  },
+  "code": {
+    "id": "YE2201",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE22",
+    "level": 1,
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.392",
+    "lon": "43.498"
+  },
+  "metadata": {},
+  "source": {}
+}

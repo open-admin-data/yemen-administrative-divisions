@@ -1,0 +1,45 @@
+{
+  "id": "YE2704",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الخبت",
+    "en": "Al Khabt",
+    "slug": "al-khabt-ye2704"
+  },
+  "code": {
+    "id": "YE2704",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE27",
+    "level": 1,
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.487",
+    "lon": "43.363"
+  },
+  "metadata": {},
+  "source": {}
+}

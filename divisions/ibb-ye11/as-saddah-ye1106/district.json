@@ -1,0 +1,45 @@
+{
+  "id": "YE1106",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "السده",
+    "en": "As Saddah",
+    "slug": "as-saddah-ye1106"
+  },
+  "code": {
+    "id": "YE1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.167",
+    "lon": "44.419"
+  },
+  "metadata": {},
+  "source": {}
+}

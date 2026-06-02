@@ -1,0 +1,45 @@
+{
+  "id": "YE2105",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "عسيلان",
+    "en": "Osaylan",
+    "slug": "osaylan-ye2105"
+  },
+  "code": {
+    "id": "YE2105",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE21",
+    "level": 1,
+    "name": {
+      "local": "شبوه",
+      "en": "Shabwah",
+      "slug": "shabwah-ye21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE21",
+      "level": 1,
+      "name": {
+        "local": "شبوه",
+        "en": "Shabwah",
+        "slug": "shabwah-ye21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.119",
+    "lon": "45.994"
+  },
+  "metadata": {},
+  "source": {}
+}

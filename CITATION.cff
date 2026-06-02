@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Yemen Administrative Divisions Dataset"
+version: "2026.06"
+date-released: "2026-06-02"
+url: "https://github.com/open-admin-data/yemen-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/yemen-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - yemen
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Yemen's administrative hierarchy:
+  22 governorates, 335 districts.
+  Bilingual with coordinates and postal codes where available.

@@ -1,0 +1,45 @@
+{
+  "id": "YE2408",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "خور مكسر",
+    "en": "Khur Maksar",
+    "slug": "khur-maksar-ye2408"
+  },
+  "code": {
+    "id": "YE2408",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE24",
+    "level": 1,
+    "name": {
+      "local": "عدن",
+      "en": "Aden",
+      "slug": "aden-ye24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.867",
+    "lon": "45.048"
+  },
+  "metadata": {},
+  "source": {}
+}

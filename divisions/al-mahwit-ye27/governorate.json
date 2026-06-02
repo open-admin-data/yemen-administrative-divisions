@@ -1,0 +1,33 @@
+{
+  "id": "YE27",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "المحويت",
+    "en": "Al Mahwit",
+    "slug": "al-mahwit-ye27"
+  },
+  "code": {
+    "id": "YE27",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.314",
+    "lon": "43.502"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/al-mahwit-ye27/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

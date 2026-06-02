@@ -1,0 +1,45 @@
+{
+  "id": "YE1115",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "السياني",
+    "en": "As Saiyani",
+    "slug": "as-saiyani-ye1115"
+  },
+  "code": {
+    "id": "YE1115",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.823",
+    "lon": "44.215"
+  },
+  "metadata": {},
+  "source": {}
+}

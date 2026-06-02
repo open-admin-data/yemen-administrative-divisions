@@ -1,0 +1,45 @@
+{
+  "id": "YE1512",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "خدير",
+    "en": "Dimnat Khadir",
+    "slug": "dimnat-khadir-ye1512"
+  },
+  "code": {
+    "id": "YE1512",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.441",
+    "lon": "44.224"
+  },
+  "metadata": {},
+  "source": {}
+}

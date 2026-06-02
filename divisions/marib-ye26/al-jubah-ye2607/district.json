@@ -1,0 +1,45 @@
+{
+  "id": "YE2607",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الجوبه",
+    "en": "Al Jubah",
+    "slug": "al-jubah-ye2607"
+  },
+  "code": {
+    "id": "YE2607",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE26",
+    "level": 1,
+    "name": {
+      "local": "مارب",
+      "en": "Ma'rib",
+      "slug": "marib-ye26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.14",
+    "lon": "45.283"
+  },
+  "metadata": {},
+  "source": {}
+}

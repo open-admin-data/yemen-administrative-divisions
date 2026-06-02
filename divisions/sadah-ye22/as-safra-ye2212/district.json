@@ -1,0 +1,45 @@
+{
+  "id": "YE2212",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الصفراء",
+    "en": "As Safra",
+    "slug": "as-safra-ye2212"
+  },
+  "code": {
+    "id": "YE2212",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE22",
+    "level": 1,
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.994",
+    "lon": "43.828"
+  },
+  "metadata": {},
+  "source": {}
+}

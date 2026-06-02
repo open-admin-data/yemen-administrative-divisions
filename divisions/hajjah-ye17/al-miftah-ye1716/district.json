@@ -1,0 +1,45 @@
+{
+  "id": "YE1716",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المفتاح",
+    "en": "Al Miftah",
+    "slug": "al-miftah-ye1716"
+  },
+  "code": {
+    "id": "YE1716",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.962",
+    "lon": "43.516"
+  },
+  "metadata": {},
+  "source": {}
+}

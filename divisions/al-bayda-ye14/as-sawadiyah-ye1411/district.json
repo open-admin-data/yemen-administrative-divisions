@@ -1,0 +1,45 @@
+{
+  "id": "YE1411",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "السواديه",
+    "en": "As Sawadiyah",
+    "slug": "as-sawadiyah-ye1411"
+  },
+  "code": {
+    "id": "YE1411",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.525",
+    "lon": "45.389"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE3201",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "حديبو",
+    "en": "Hadibu",
+    "slug": "hadibu-ye3201"
+  },
+  "code": {
+    "id": "YE3201",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE32",
+    "level": 1,
+    "name": {
+      "local": "سقطرى",
+      "en": "Socotra",
+      "slug": "socotra-ye32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE32",
+      "level": 1,
+      "name": {
+        "local": "سقطرى",
+        "en": "Socotra",
+        "slug": "socotra-ye32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.498",
+    "lon": "54.086"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2004",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "مغرب عنس",
+    "en": "Maghrib Ans",
+    "slug": "maghrib-ans-ye2004"
+  },
+  "code": {
+    "id": "YE2004",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE20",
+    "level": 1,
+    "name": {
+      "local": "ذمار",
+      "en": "Dhamar",
+      "slug": "dhamar-ye20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.466",
+    "lon": "44.124"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1415",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ولدربيع",
+    "en": "Wald Rabi'",
+    "slug": "wald-rabi-ye1415"
+  },
+  "code": {
+    "id": "YE1415",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE14",
+    "level": 1,
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.64",
+    "lon": "45.024"
+  },
+  "metadata": {},
+  "source": {}
+}

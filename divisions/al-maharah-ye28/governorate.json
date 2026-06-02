@@ -1,0 +1,33 @@
+{
+  "id": "YE28",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "المهره",
+    "en": "Al Maharah",
+    "slug": "al-maharah-ye28"
+  },
+  "code": {
+    "id": "YE28",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.049",
+    "lon": "52.026"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/al-maharah-ye28/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

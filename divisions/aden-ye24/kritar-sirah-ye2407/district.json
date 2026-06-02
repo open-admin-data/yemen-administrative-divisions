@@ -1,0 +1,45 @@
+{
+  "id": "YE2407",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "صيره",
+    "en": "Kritar - Sirah",
+    "slug": "kritar-sirah-ye2407"
+  },
+  "code": {
+    "id": "YE2407",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE24",
+    "level": 1,
+    "name": {
+      "local": "عدن",
+      "en": "Aden",
+      "slug": "aden-ye24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.772",
+    "lon": "45.027"
+  },
+  "metadata": {},
+  "source": {}
+}

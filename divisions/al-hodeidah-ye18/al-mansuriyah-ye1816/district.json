@@ -1,0 +1,45 @@
+{
+  "id": "YE1816",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المنصوريه",
+    "en": "Al Mansuriyah",
+    "slug": "al-mansuriyah-ye1816"
+  },
+  "code": {
+    "id": "YE1816",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.684",
+    "lon": "43.375"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "YE12",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "ابين",
+    "en": "Abyan",
+    "slug": "abyan-ye12"
+  },
+  "code": {
+    "id": "YE12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.631",
+    "lon": "46.237"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/abyan-ye12/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

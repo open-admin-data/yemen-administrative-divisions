@@ -1,0 +1,139 @@
+# Al Hodeidah — Yemen Administrative Divisions
+
+> 26 districts
+> Code: YE18
+> Coordinates: 14.782, 43.218
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### الضحى (Ad Dohi)
+
+Code: YE1809, Coordinates: 15.221, 43.143
+
+
+### الدريهمي (Ad Durayhimi)
+
+Code: YE1814, Coordinates: 14.6, 43.118
+
+
+### الحالي (Al Hali)
+
+Code: YE1823, Coordinates: 14.788, 42.993
+
+
+### الحوك (Al Hawak)
+
+Code: YE1821, Coordinates: 14.751, 42.969
+
+
+### الحجيله (Al Hujjaylah)
+
+Code: YE1811, Coordinates: 14.988, 43.588
+
+
+### الجراحي (Al Jarrahi)
+
+Code: YE1825, Coordinates: 14.103, 43.378
+
+
+### الخوخه (Al Khukhah)
+
+Code: YE1820, Coordinates: 13.812, 43.355
+
+
+### المنصوريه (Al Mansuriyah)
+
+Code: YE1816, Coordinates: 14.684, 43.375
+
+
+### المراوعه (Al Marawi&#39;ah)
+
+Code: YE1813, Coordinates: 14.843, 43.163
+
+
+### المغلاف (Al Mighlaf)
+
+Code: YE1808, Coordinates: 15.31, 43.188
+
+
+### الميناء (Al Mina)
+
+Code: YE1822, Coordinates: 14.945, 42.918
+
+
+### المنيره (Al Munirah)
+
+Code: YE1805, Coordinates: 15.353, 42.884
+
+
+### القناوص (Al Qanawis)
+
+Code: YE1806, Coordinates: 15.46, 43.134
+
+
+### اللحيه (Alluhayah)
+
+Code: YE1802, Coordinates: 15.641, 42.886
+
+
+### الصليف (As Salif)
+
+Code: YE1804, Coordinates: 15.273, 42.712
+
+
+### السخنه (As Sukhnah)
+
+Code: YE1815, Coordinates: 14.745, 43.339
+
+
+### التحيتا (At Tuhayta)
+
+Code: YE1826, Coordinates: 14.087, 43.193
+
+
+### الزيديه (Az Zaydiah)
+
+Code: YE1807, Coordinates: 15.3, 43.046
+
+
+### الزهره (Az Zuhrah)
+
+Code: YE1801, Coordinates: 15.723, 43.069
+
+
+### باجل (Bajil)
+
+Code: YE1810, Coordinates: 15.041, 43.183
+
+
+### بيت الفقيه (Bayt Al Faqih)
+
+Code: YE1817, Coordinates: 14.461, 43.311
+
+
+### برع (Bura&#39;)
+
+Code: YE1812, Coordinates: 14.907, 43.473
+
+
+### حيس (Hays)
+
+Code: YE1819, Coordinates: 13.93, 43.504
+
+
+### جبل راس (Jabal Ras)
+
+Code: YE1818, Coordinates: 14.03, 43.637
+
+
+### كمران (Kamaran)
+
+Code: YE1803, Coordinates: 15.36, 42.591
+
+
+### زبيد (Zabid)
+
+Code: YE1824, Coordinates: 14.273, 43.299
+
+

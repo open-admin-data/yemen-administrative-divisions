@@ -1,0 +1,45 @@
+{
+  "id": "YE3002",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "دمت",
+    "en": "Damt",
+    "slug": "damt-ye3002"
+  },
+  "code": {
+    "id": "YE3002",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE30",
+    "level": 1,
+    "name": {
+      "local": "الضالع",
+      "en": "Ad Dali'",
+      "slug": "ad-dali-ye30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.105",
+    "lon": "44.699"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "YE1416",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "العرش",
+      "en": "Al Arsh",
+      "slug": "al-arsh-ye1416"
+    },
+    "code": {
+      "id": "YE1416",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.359",
+      "lon": "44.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1410",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye1410"
+    },
+    "code": {
+      "id": "YE1410",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.065",
+      "lon": "45.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1409",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مدينة البيضاء",
+      "en": "Al Bayda City",
+      "slug": "al-bayda-city-ye1409"
+    },
+    "code": {
+      "id": "YE1409",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.983",
+      "lon": "45.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1420",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الملاجم",
+      "en": "Al Malajim",
+      "slug": "al-malajim-ye1420"
+    },
+    "code": {
+      "id": "YE1420",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.328",
+      "lon": "45.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1414",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "القريشيه",
+      "en": "Al Quraishyah",
+      "slug": "al-quraishyah-ye1414"
+    },
+    "code": {
+      "id": "YE1414",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.605",
+      "lon": "44.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1418",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرياشيه",
+      "en": "Ar Ryashyyah",
+      "slug": "ar-ryashyyah-ye1418"
+    },
+    "code": {
+      "id": "YE1418",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.241",
+      "lon": "44.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1411",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السواديه",
+      "en": "As Sawadiyah",
+      "slug": "as-sawadiyah-ye1411"
+    },
+    "code": {
+      "id": "YE1411",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.525",
+      "lon": "45.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1404",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الصومعه",
+      "en": "As Sawma'ah",
+      "slug": "as-sawmaah-ye1404"
+    },
+    "code": {
+      "id": "YE1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.177",
+      "lon": "45.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1419",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشريه",
+      "en": "Ash Sharyah",
+      "slug": "ash-sharyah-ye1419"
+    },
+    "code": {
+      "id": "YE1419",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.284",
+      "lon": "45.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1407",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الطفه",
+      "en": "At Taffah",
+      "slug": "at-taffah-ye1407"
+    },
+    "code": {
+      "id": "YE1407",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.162",
+      "lon": "45.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1405",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الزاهر",
+      "en": "Az Zahir",
+      "slug": "az-zahir-ye1405"
+    },
+    "code": {
+      "id": "YE1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.999",
+      "lon": "45.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1406",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ذي ناعم",
+      "en": "Dhi Na'im",
+      "slug": "dhi-naim-ye1406"
+    },
+    "code": {
+      "id": "YE1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.109",
+      "lon": "45.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1403",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مسوره",
+      "en": "Maswarah",
+      "slug": "maswarah-ye1403"
+    },
+    "code": {
+      "id": "YE1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.409",
+      "lon": "45.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1408",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مكيراس",
+      "en": "Mukayras",
+      "slug": "mukayras-ye1408"
+    },
+    "code": {
+      "id": "YE1408",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.026",
+      "lon": "45.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1402",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ناطع",
+      "en": "Nati'",
+      "slug": "nati-ye1402"
+    },
+    "code": {
+      "id": "YE1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.537",
+      "lon": "45.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1401",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "نعمان",
+      "en": "Nu'man",
+      "slug": "numan-ye1401"
+    },
+    "code": {
+      "id": "YE1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.622",
+      "lon": "45.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1413",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "رداع",
+      "en": "Rada'",
+      "slug": "rada-ye1413"
+    },
+    "code": {
+      "id": "YE1413",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.33",
+      "lon": "44.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1412",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ردمان",
+      "en": "Radman",
+      "slug": "radman-ye1412"
+    },
+    "code": {
+      "id": "YE1412",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.473",
+      "lon": "45.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1417",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صباح",
+      "en": "Sabah",
+      "slug": "sabah-ye1417"
+    },
+    "code": {
+      "id": "YE1417",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.271",
+      "lon": "44.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1415",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ولدربيع",
+      "en": "Wald Rabi'",
+      "slug": "wald-rabi-ye1415"
+    },
+    "code": {
+      "id": "YE1415",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE14",
+      "level": 1,
+      "name": {
+        "local": "البيضاء",
+        "en": "Al Bayda",
+        "slug": "al-bayda-ye14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE14",
+        "level": 1,
+        "name": {
+          "local": "البيضاء",
+          "en": "Al Bayda",
+          "slug": "al-bayda-ye14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.64",
+      "lon": "45.024"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "YE1608",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الغيل",
+    "en": "Al Ghayl",
+    "slug": "al-ghayl-ye1608"
+  },
+  "code": {
+    "id": "YE1608",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.092",
+    "lon": "44.699"
+  },
+  "metadata": {},
+  "source": {}
+}

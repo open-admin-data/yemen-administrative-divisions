@@ -1,0 +1,45 @@
+{
+  "id": "YE1602",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحميدات",
+    "en": "Al Humaydat",
+    "slug": "al-humaydat-ye1602"
+  },
+  "code": {
+    "id": "YE1602",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE16",
+    "level": 1,
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE16",
+      "level": 1,
+      "name": {
+        "local": "الجوف",
+        "en": "Al Jawf",
+        "slug": "al-jawf-ye16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.467",
+    "lon": "44.397"
+  },
+  "metadata": {},
+  "source": {}
+}

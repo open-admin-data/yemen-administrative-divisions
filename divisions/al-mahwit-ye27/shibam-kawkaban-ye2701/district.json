@@ -1,0 +1,45 @@
+{
+  "id": "YE2701",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "شبام كوكبان",
+    "en": "Shibam Kawkaban",
+    "slug": "shibam-kawkaban-ye2701"
+  },
+  "code": {
+    "id": "YE2701",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE27",
+    "level": 1,
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.475",
+    "lon": "43.85"
+  },
+  "metadata": {},
+  "source": {}
+}

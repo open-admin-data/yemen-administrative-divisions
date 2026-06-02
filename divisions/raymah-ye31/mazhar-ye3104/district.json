@@ -1,0 +1,45 @@
+{
+  "id": "YE3104",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "مزهر",
+    "en": "Mazhar",
+    "slug": "mazhar-ye3104"
+  },
+  "code": {
+    "id": "YE3104",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE31",
+    "level": 1,
+    "name": {
+      "local": "ريمه",
+      "en": "Raymah",
+      "slug": "raymah-ye31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE31",
+      "level": 1,
+      "name": {
+        "local": "ريمه",
+        "en": "Raymah",
+        "slug": "raymah-ye31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.568",
+    "lon": "43.746"
+  },
+  "metadata": {},
+  "source": {}
+}

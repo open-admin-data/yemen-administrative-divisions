@@ -1,0 +1,45 @@
+{
+  "id": "YE1710",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "افلح الشام",
+    "en": "Aflah Ash Sham",
+    "slug": "aflah-ash-sham-ye1710"
+  },
+  "code": {
+    "id": "YE1710",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.053",
+    "lon": "43.419"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2112",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الصعيد",
+    "en": "As Sa'id",
+    "slug": "as-said-ye2112"
+  },
+  "code": {
+    "id": "YE2112",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE21",
+    "level": 1,
+    "name": {
+      "local": "شبوه",
+      "en": "Shabwah",
+      "slug": "shabwah-ye21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE21",
+      "level": 1,
+      "name": {
+        "local": "شبوه",
+        "en": "Shabwah",
+        "slug": "shabwah-ye21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.28",
+    "lon": "46.858"
+  },
+  "metadata": {},
+  "source": {}
+}

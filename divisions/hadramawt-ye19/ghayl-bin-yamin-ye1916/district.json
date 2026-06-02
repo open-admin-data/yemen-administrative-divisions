@@ -1,0 +1,45 @@
+{
+  "id": "YE1916",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "غيل بن يمين",
+    "en": "Ghayl bin Yamin",
+    "slug": "ghayl-bin-yamin-ye1916"
+  },
+  "code": {
+    "id": "YE1916",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.383",
+    "lon": "49.481"
+  },
+  "metadata": {},
+  "source": {}
+}

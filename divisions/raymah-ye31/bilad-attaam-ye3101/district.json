@@ -1,0 +1,45 @@
+{
+  "id": "YE3101",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بلاد الطعام",
+    "en": "Bilad Atta'am",
+    "slug": "bilad-attaam-ye3101"
+  },
+  "code": {
+    "id": "YE3101",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE31",
+    "level": 1,
+    "name": {
+      "local": "ريمه",
+      "en": "Raymah",
+      "slug": "raymah-ye31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE31",
+      "level": 1,
+      "name": {
+        "local": "ريمه",
+        "en": "Raymah",
+        "slug": "raymah-ye31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.837",
+    "lon": "43.615"
+  },
+  "metadata": {},
+  "source": {}
+}

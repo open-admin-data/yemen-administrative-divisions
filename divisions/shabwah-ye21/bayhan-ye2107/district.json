@@ -1,0 +1,45 @@
+{
+  "id": "YE2107",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بيحان",
+    "en": "Bayhan",
+    "slug": "bayhan-ye2107"
+  },
+  "code": {
+    "id": "YE2107",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE21",
+    "level": 1,
+    "name": {
+      "local": "شبوه",
+      "en": "Shabwah",
+      "slug": "shabwah-ye21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE21",
+      "level": 1,
+      "name": {
+        "local": "شبوه",
+        "en": "Shabwah",
+        "slug": "shabwah-ye21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.756",
+    "lon": "45.713"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2203",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "منبه",
+    "en": "Monabbih",
+    "slug": "monabbih-ye2203"
+  },
+  "code": {
+    "id": "YE2203",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE22",
+    "level": 1,
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.169",
+    "lon": "43.242"
+  },
+  "metadata": {},
+  "source": {}
+}

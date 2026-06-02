@@ -1,0 +1,45 @@
+{
+  "id": "YE1820",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الخوخه",
+    "en": "Al Khukhah",
+    "slug": "al-khukhah-ye1820"
+  },
+  "code": {
+    "id": "YE1820",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.812",
+    "lon": "43.355"
+  },
+  "metadata": {},
+  "source": {}
+}

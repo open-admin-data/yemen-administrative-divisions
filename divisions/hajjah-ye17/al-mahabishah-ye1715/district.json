@@ -1,0 +1,45 @@
+{
+  "id": "YE1715",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المحابشه",
+    "en": "Al Mahabishah",
+    "slug": "al-mahabishah-ye1715"
+  },
+  "code": {
+    "id": "YE1715",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.924",
+    "lon": "43.467"
+  },
+  "metadata": {},
+  "source": {}
+}

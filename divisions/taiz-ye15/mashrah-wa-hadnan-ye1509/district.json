@@ -1,0 +1,45 @@
+{
+  "id": "YE1509",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "مشرعة وحدنان",
+    "en": "Mashr'ah Wa Hadnan",
+    "slug": "mashrah-wa-hadnan-ye1509"
+  },
+  "code": {
+    "id": "YE1509",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.541",
+    "lon": "43.997"
+  },
+  "metadata": {},
+  "source": {}
+}

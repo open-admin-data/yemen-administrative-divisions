@@ -1,0 +1,542 @@
+[
+  {
+    "id": "YE1306",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الوحده",
+      "en": "Al Wehdah",
+      "slug": "al-wehdah-ye1306"
+    },
+    "code": {
+      "id": "YE1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.335",
+      "lon": "44.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1305",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السبعين",
+      "en": "As Sab'in",
+      "slug": "as-sabin-ye1305"
+    },
+    "code": {
+      "id": "YE1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.306",
+      "lon": "44.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1304",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الصافيه",
+      "en": "As Safiyah",
+      "slug": "as-safiyah-ye1304"
+    },
+    "code": {
+      "id": "YE1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.343",
+      "lon": "44.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1307",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "التحرير",
+      "en": "At Tahrir",
+      "slug": "at-tahrir-ye1307"
+    },
+    "code": {
+      "id": "YE1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.354",
+      "lon": "44.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1309",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الثوره",
+      "en": "Ath Thawrah",
+      "slug": "ath-thawrah-ye1309"
+    },
+    "code": {
+      "id": "YE1309",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.391",
+      "lon": "44.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1303",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ازال",
+      "en": "Azaal",
+      "slug": "azaal-ye1303"
+    },
+    "code": {
+      "id": "YE1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.356",
+      "lon": "44.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1310",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بني الحارث",
+      "en": "Bani Al Harith",
+      "slug": "bani-al-harith-ye1310"
+    },
+    "code": {
+      "id": "YE1310",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.509",
+      "lon": "44.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1308",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "معين",
+      "en": "Ma'in",
+      "slug": "main-ye1308"
+    },
+    "code": {
+      "id": "YE1308",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.379",
+      "lon": "44.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1301",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صنعاء القديمه",
+      "en": "Old City",
+      "slug": "old-city-ye1301"
+    },
+    "code": {
+      "id": "YE1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.355",
+      "lon": "44.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1319",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضواحي الامانة همدان",
+      "en": "Sana'a City Outskirts - Hamdan",
+      "slug": "sanaa-city-outskirts-hamdan-ye1319"
+    },
+    "code": {
+      "id": "YE1319",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.413",
+      "lon": "44.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1324",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ضواحي الامانة سنحان وبني بهلول",
+      "en": "Sana'a City Outskirts -Sanhan wa Bani Bahlul",
+      "slug": "sanaa-city-outskirts-sanhan-wa-bani-bahlul-ye1324"
+    },
+    "code": {
+      "id": "YE1324",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.268",
+      "lon": "44.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1302",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شعوب",
+      "en": "Shu'ub",
+      "slug": "shuub-ye1302"
+    },
+    "code": {
+      "id": "YE1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE13",
+        "level": 1,
+        "name": {
+          "local": "امانة العاصمه",
+          "en": "Sana'a City",
+          "slug": "sanaa-city-ye13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.386",
+      "lon": "44.228"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

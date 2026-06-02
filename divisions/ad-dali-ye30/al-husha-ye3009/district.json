@@ -1,0 +1,45 @@
+{
+  "id": "YE3009",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحشاء",
+    "en": "Al Husha",
+    "slug": "al-husha-ye3009"
+  },
+  "code": {
+    "id": "YE3009",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE30",
+    "level": 1,
+    "name": {
+      "local": "الضالع",
+      "en": "Ad Dali'",
+      "slug": "ad-dali-ye30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.753",
+    "lon": "44.48"
+  },
+  "metadata": {},
+  "source": {}
+}

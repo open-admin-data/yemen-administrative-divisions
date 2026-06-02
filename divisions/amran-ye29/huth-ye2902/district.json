@@ -1,0 +1,45 @@
+{
+  "id": "YE2902",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "حوث",
+    "en": "Huth",
+    "slug": "huth-ye2902"
+  },
+  "code": {
+    "id": "YE2902",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE29",
+    "level": 1,
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.276",
+    "lon": "43.983"
+  },
+  "metadata": {},
+  "source": {}
+}

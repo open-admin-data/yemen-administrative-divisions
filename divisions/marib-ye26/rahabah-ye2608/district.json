@@ -1,0 +1,45 @@
+{
+  "id": "YE2608",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "رحبه",
+    "en": "Rahabah",
+    "slug": "rahabah-ye2608"
+  },
+  "code": {
+    "id": "YE2608",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE26",
+    "level": 1,
+    "name": {
+      "local": "مارب",
+      "en": "Ma'rib",
+      "slug": "marib-ye26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.957",
+    "lon": "45.102"
+  },
+  "metadata": {},
+  "source": {}
+}

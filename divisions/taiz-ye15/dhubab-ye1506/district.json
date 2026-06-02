@@ -1,0 +1,45 @@
+{
+  "id": "YE1506",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "باب المندب",
+    "en": "Dhubab",
+    "slug": "dhubab-ye1506"
+  },
+  "code": {
+    "id": "YE1506",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.977",
+    "lon": "43.56"
+  },
+  "metadata": {},
+  "source": {}
+}

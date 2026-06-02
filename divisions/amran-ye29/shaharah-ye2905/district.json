@@ -1,0 +1,45 @@
+{
+  "id": "YE2905",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "شهاره",
+    "en": "Shaharah",
+    "slug": "shaharah-ye2905"
+  },
+  "code": {
+    "id": "YE2905",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE29",
+    "level": 1,
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.185",
+    "lon": "43.712"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "YE1914",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الديس",
+      "en": "Ad Dis",
+      "slug": "ad-dis-ye1914"
+    },
+    "code": {
+      "id": "YE1914",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.105",
+      "lon": "49.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1922",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الضليعه",
+      "en": "Ad Dulay'ah",
+      "slug": "ad-dulayah-ye1922"
+    },
+    "code": {
+      "id": "YE1922",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.013",
+      "lon": "47.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1906",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "العبر",
+      "en": "Al Abr",
+      "slug": "al-abr-ye1906"
+    },
+    "code": {
+      "id": "YE1906",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.923",
+      "lon": "47.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1926",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المكلا",
+      "en": "Al Mukalla",
+      "slug": "al-mukalla-ye1926"
+    },
+    "code": {
+      "id": "YE1926",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.721",
+      "lon": "48.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1927",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مدينة المكلا",
+      "en": "Al Mukalla City",
+      "slug": "al-mukalla-city-ye1927"
+    },
+    "code": {
+      "id": "YE1927",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.533",
+      "lon": "49.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1903",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "القف",
+      "en": "Al Qaff",
+      "slug": "al-qaff-ye1903"
+    },
+    "code": {
+      "id": "YE1903",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.432",
+      "lon": "49.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1907",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "القطن",
+      "en": "Al Qatn",
+      "slug": "al-qatn-ye1907"
+    },
+    "code": {
+      "id": "YE1907",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.912",
+      "lon": "48.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1921",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "عمد",
+      "en": "Amd",
+      "slug": "amd-ye1921"
+    },
+    "code": {
+      "id": "YE1921",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.34",
+      "lon": "47.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1913",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الريدة وقصيعر",
+      "en": "Ar Raydah wa Qussay'ar",
+      "slug": "ar-raydah-wa-qussayar-ye1913"
+    },
+    "code": {
+      "id": "YE1913",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.159",
+      "lon": "50.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1912",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "السوم",
+      "en": "As Sawm",
+      "slug": "as-sawm-ye1912"
+    },
+    "code": {
+      "id": "YE1912",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.023",
+      "lon": "49.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1915",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشحر",
+      "en": "Ash Shihr",
+      "slug": "ash-shihr-ye1915"
+    },
+    "code": {
+      "id": "YE1915",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.934",
+      "lon": "49.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1925",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بروم ميفع",
+      "en": "Brum Mayf'ah",
+      "slug": "brum-mayfah-ye1925"
+    },
+    "code": {
+      "id": "YE1925",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.347",
+      "lon": "48.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1918",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "دوعن",
+      "en": "Daw'an",
+      "slug": "dawan-ye1918"
+    },
+    "code": {
+      "id": "YE1918",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.037",
+      "lon": "48.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1917",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "غيل باوزير",
+      "en": "Ghayl Bawazir",
+      "slug": "ghayl-bawazir-ye1917"
+    },
+    "code": {
+      "id": "YE1917",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.882",
+      "lon": "49.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1916",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "غيل بن يمين",
+      "en": "Ghayl bin Yamin",
+      "slug": "ghayl-bin-yamin-ye1916"
+    },
+    "code": {
+      "id": "YE1916",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.383",
+      "lon": "49.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1924",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حجر",
+      "en": "Hajar",
+      "slug": "hajar-ye1924"
+    },
+    "code": {
+      "id": "YE1924",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.514",
+      "lon": "48.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1905",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حجر الصيعر",
+      "en": "Hajar As Say'ar",
+      "slug": "hajar-as-sayar-ye1905"
+    },
+    "code": {
+      "id": "YE1905",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.297",
+      "lon": "48.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1928",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حريضه",
+      "en": "Haridah",
+      "slug": "haridah-ye1928"
+    },
+    "code": {
+      "id": "YE1928",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.546",
+      "lon": "48.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1920",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "رخيه",
+      "en": "Rakhyah",
+      "slug": "rakhyah-ye1920"
+    },
+    "code": {
+      "id": "YE1920",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.475",
+      "lon": "47.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1901",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "رماه",
+      "en": "Rumah",
+      "slug": "rumah-ye1901"
+    },
+    "code": {
+      "id": "YE1901",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.826",
+      "lon": "50.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1909",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ساه",
+      "en": "Sah",
+      "slug": "sah-ye1909"
+    },
+    "code": {
+      "id": "YE1909",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.508",
+      "lon": "48.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1910",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "سيئون",
+      "en": "Sayun",
+      "slug": "sayun-ye1910"
+    },
+    "code": {
+      "id": "YE1910",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.015",
+      "lon": "48.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1908",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شبام",
+      "en": "Shibam",
+      "slug": "shibam-ye1908"
+    },
+    "code": {
+      "id": "YE1908",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.881",
+      "lon": "48.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1911",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "تريم",
+      "en": "Tarim",
+      "slug": "tarim-ye1911"
+    },
+    "code": {
+      "id": "YE1911",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.079",
+      "lon": "49.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1902",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ثمود",
+      "en": "Thamud",
+      "slug": "thamud-ye1902"
+    },
+    "code": {
+      "id": "YE1902",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.641",
+      "lon": "50.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1919",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "وادي العين",
+      "en": "Wadi Al Ayn",
+      "slug": "wadi-al-ayn-ye1919"
+    },
+    "code": {
+      "id": "YE1919",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.44",
+      "lon": "48.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1923",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "يبعث",
+      "en": "Yab'uth",
+      "slug": "yabuth-ye1923"
+    },
+    "code": {
+      "id": "YE1923",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.777",
+      "lon": "47.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE1904",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "زمخ ومنوخ",
+      "en": "Zamakh wa Manwokh",
+      "slug": "zamakh-wa-manwokh-ye1904"
+    },
+    "code": {
+      "id": "YE1904",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE19",
+        "level": 1,
+        "name": {
+          "local": "حضرموت",
+          "en": "Hadramawt",
+          "slug": "hadramawt-ye19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.171",
+      "lon": "48.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

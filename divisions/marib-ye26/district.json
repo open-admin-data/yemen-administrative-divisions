@@ -1,0 +1,632 @@
+[
+  {
+    "id": "YE2611",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "العبديه",
+      "en": "Al Abdiyah",
+      "slug": "al-abdiyah-ye2611"
+    },
+    "code": {
+      "id": "YE2611",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.717",
+      "lon": "45.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2607",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الجوبه",
+      "en": "Al Jubah",
+      "slug": "al-jubah-ye2607"
+    },
+    "code": {
+      "id": "YE2607",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.14",
+      "lon": "45.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2605",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بدبده",
+      "en": "Bidbadah",
+      "slug": "bidbadah-ye2605"
+    },
+    "code": {
+      "id": "YE2605",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.405",
+      "lon": "44.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2609",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حريب",
+      "en": "Harib",
+      "slug": "harib-ye2609"
+    },
+    "code": {
+      "id": "YE2609",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.919",
+      "lon": "45.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2604",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حريب القرامش",
+      "en": "Harib Al Qaramish",
+      "slug": "harib-al-qaramish-ye2604"
+    },
+    "code": {
+      "id": "YE2604",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.467",
+      "lon": "44.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2614",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبل مراد",
+      "en": "Jabal Murad",
+      "slug": "jabal-murad-ye2614"
+    },
+    "code": {
+      "id": "YE2614",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.045",
+      "lon": "45.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2613",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مارب",
+      "en": "Ma'rib",
+      "slug": "marib-ye2613"
+    },
+    "code": {
+      "id": "YE2613",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.637",
+      "lon": "45.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2612",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مدينة مارب",
+      "en": "Ma'rib City",
+      "slug": "marib-city-ye2612"
+    },
+    "code": {
+      "id": "YE2612",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.424",
+      "lon": "45.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2603",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مدغل الجدعان",
+      "en": "Madghal Al Jid'an",
+      "slug": "madghal-al-jidan-ye2603"
+    },
+    "code": {
+      "id": "YE2603",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.629",
+      "lon": "45.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2610",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ماهليه",
+      "en": "Mahliyah",
+      "slug": "mahliyah-ye2610"
+    },
+    "code": {
+      "id": "YE2610",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.667",
+      "lon": "45.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2601",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مجزر",
+      "en": "Majzar",
+      "slug": "majzar-ye2601"
+    },
+    "code": {
+      "id": "YE2601",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.792",
+      "lon": "44.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2602",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "رغوان",
+      "en": "Raghwan",
+      "slug": "raghwan-ye2602"
+    },
+    "code": {
+      "id": "YE2602",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.774",
+      "lon": "45.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2608",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "رحبه",
+      "en": "Rahabah",
+      "slug": "rahabah-ye2608"
+    },
+    "code": {
+      "id": "YE2608",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.957",
+      "lon": "45.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2606",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "صرواح",
+      "en": "Sirwah",
+      "slug": "sirwah-ye2606"
+    },
+    "code": {
+      "id": "YE2606",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE26",
+      "level": 1,
+      "name": {
+        "local": "مارب",
+        "en": "Ma'rib",
+        "slug": "marib-ye26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE26",
+        "level": 1,
+        "name": {
+          "local": "مارب",
+          "en": "Ma'rib",
+          "slug": "marib-ye26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.441",
+      "lon": "45.019"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

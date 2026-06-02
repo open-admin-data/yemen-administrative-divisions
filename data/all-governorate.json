@@ -1,0 +1,728 @@
+[
+  {
+    "id": "YE12",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "ابين",
+      "en": "Abyan",
+      "slug": "abyan-ye12"
+    },
+    "code": {
+      "id": "YE12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.631",
+      "lon": "46.237"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/abyan-ye12/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE30",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الضالع",
+      "en": "Ad Dali'",
+      "slug": "ad-dali-ye30"
+    },
+    "code": {
+      "id": "YE30",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.891",
+      "lon": "44.79"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/ad-dali-ye30/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE24",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "عدن",
+      "en": "Aden",
+      "slug": "aden-ye24"
+    },
+    "code": {
+      "id": "YE24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.81",
+      "lon": "44.782"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/aden-ye24/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE14",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "البيضاء",
+      "en": "Al Bayda",
+      "slug": "al-bayda-ye14"
+    },
+    "code": {
+      "id": "YE14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.326",
+      "lon": "45.28"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/al-bayda-ye14/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE18",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    },
+    "code": {
+      "id": "YE18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.782",
+      "lon": "43.218"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/al-hodeidah-ye18/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE16",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الجوف",
+      "en": "Al Jawf",
+      "slug": "al-jawf-ye16"
+    },
+    "code": {
+      "id": "YE16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.594",
+      "lon": "45.594"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/al-jawf-ye16/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE28",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "المهره",
+      "en": "Al Maharah",
+      "slug": "al-maharah-ye28"
+    },
+    "code": {
+      "id": "YE28",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.049",
+      "lon": "52.026"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/al-maharah-ye28/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE27",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye27"
+    },
+    "code": {
+      "id": "YE27",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.314",
+      "lon": "43.502"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/al-mahwit-ye27/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE29",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    },
+    "code": {
+      "id": "YE29",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.107",
+      "lon": "43.937"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/amran-ye29/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE20",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "ذمار",
+      "en": "Dhamar",
+      "slug": "dhamar-ye20"
+    },
+    "code": {
+      "id": "YE20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.542",
+      "lon": "44.303"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/dhamar-ye20/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE19",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    },
+    "code": {
+      "id": "YE19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.523",
+      "lon": "48.631"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/hadramawt-ye19/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE17",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    },
+    "code": {
+      "id": "YE17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.091",
+      "lon": "43.203"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/hajjah-ye17/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE11",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    },
+    "code": {
+      "id": "YE11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.084",
+      "lon": "44.18"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/ibb-ye11/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE25",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    },
+    "code": {
+      "id": "YE25",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.326",
+      "lon": "44.746"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/lahj-ye25/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE26",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "مارب",
+      "en": "Ma'rib",
+      "slug": "marib-ye26"
+    },
+    "code": {
+      "id": "YE26",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.324",
+      "lon": "45.448"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/marib-ye26/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE31",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "ريمه",
+      "en": "Raymah",
+      "slug": "raymah-ye31"
+    },
+    "code": {
+      "id": "YE31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.656",
+      "lon": "43.689"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/raymah-ye31/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE22",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    },
+    "code": {
+      "id": "YE22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.082",
+      "lon": "43.863"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/sadah-ye22/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE23",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    },
+    "code": {
+      "id": "YE23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.404",
+      "lon": "44.462"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/sanaa-ye23/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE13",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "امانة العاصمه",
+      "en": "Sana'a City",
+      "slug": "sanaa-city-ye13"
+    },
+    "code": {
+      "id": "YE13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.409",
+      "lon": "44.176"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/sanaa-city-ye13/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE21",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "شبوه",
+      "en": "Shabwah",
+      "slug": "shabwah-ye21"
+    },
+    "code": {
+      "id": "YE21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.661",
+      "lon": "46.656"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/shabwah-ye21/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE32",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "سقطرى",
+      "en": "Socotra",
+      "slug": "socotra-ye32"
+    },
+    "code": {
+      "id": "YE32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.505",
+      "lon": "53.895"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/socotra-ye32/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  },
+  {
+    "id": "YE15",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    },
+    "code": {
+      "id": "YE15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.293",
+      "lon": "43.785"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ye/governorates/taiz-ye15/",
+      "api": "https://openadmindata.org/api/ye/"
+    }
+  }
+]

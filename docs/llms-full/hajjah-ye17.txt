@@ -1,0 +1,164 @@
+# Hajjah — Yemen Administrative Divisions
+
+> 31 districts
+> Code: YE17
+> Coordinates: 16.091, 43.203
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### عبس (Abs)
+
+Code: YE1704, Coordinates: 16.018, 43.105
+
+
+### افلح اليمن (Aflah Al Yaman)
+
+Code: YE1714, Coordinates: 15.979, 43.417
+
+
+### افلح الشام (Aflah Ash Sham)
+
+Code: YE1710, Coordinates: 16.053, 43.419
+
+
+### الجميمه (Al Jamimah)
+
+Code: YE1708, Coordinates: 16.031, 43.556
+
+
+### المغربه (Al Maghrabah)
+
+Code: YE1717, Coordinates: 15.902, 43.618
+
+
+### المحابشه (Al Mahabishah)
+
+Code: YE1715, Coordinates: 15.924, 43.467
+
+
+### المفتاح (Al Miftah)
+
+Code: YE1716, Coordinates: 15.962, 43.516
+
+
+### الشغادره (Ash Shaghadirah)
+
+Code: YE1725, Coordinates: 15.607, 43.507
+
+
+### الشاهل (Ash Shahil)
+
+Code: YE1721, Coordinates: 15.855, 43.451
+
+
+### اسلم (Aslam)
+
+Code: YE1712, Coordinates: 16.058, 43.286
+
+
+### بكيل المير (Bakil Al Mir)
+
+Code: YE1701, Coordinates: 16.509, 43.345
+
+
+### بني العوام (Bani Al Awam)
+
+Code: YE1727, Coordinates: 15.581, 43.614
+
+
+### بني قيس الطور (Bani Qays)
+
+Code: YE1724, Coordinates: 15.63, 43.331
+
+
+### حجه (Hajjah)
+
+Code: YE1729, Coordinates: 15.675, 43.472
+
+
+### مدينة حجه (Hajjah City)
+
+Code: YE1728, Coordinates: 15.684, 43.593
+
+
+### حرض (Harad)
+
+Code: YE1702, Coordinates: 16.477, 43.105
+
+
+### حيران (Hayran)
+
+Code: YE1705, Coordinates: 16.255, 43.061
+
+
+### خيران المحرق (Khayran Al Muharraq)
+
+Code: YE1711, Coordinates: 16.074, 43.38
+
+
+### كعيدنه (Ku&#39;aydinah)
+
+Code: YE1722, Coordinates: 15.819, 43.326
+
+
+### كحلان عفار (Kuhlan Afar)
+
+Code: YE1718, Coordinates: 15.758, 43.685
+
+
+### كحلان الشرف (Kuhlan Ash Sharaf)
+
+Code: YE1709, Coordinates: 16.026, 43.468
+
+
+### كشر (Kushar)
+
+Code: YE1707, Coordinates: 16.172, 43.471
+
+
+### مبين (Mabyan)
+
+Code: YE1720, Coordinates: 15.755, 43.551
+
+
+### ميدي (Midi)
+
+Code: YE1703, Coordinates: 16.178, 42.895
+
+
+### مستباء (Mustaba)
+
+Code: YE1706, Coordinates: 16.274, 43.253
+
+
+### نجره (Najrah)
+
+Code: YE1726, Coordinates: 15.647, 43.547
+
+
+### قفل شمر (Qafl Shammar)
+
+Code: YE1713, Coordinates: 15.907, 43.359
+
+
+### قاره (Qarah)
+
+Code: YE1731, Coordinates: 16.353, 43.476
+
+
+### شرس (Sharas)
+
+Code: YE1719, Coordinates: 15.731, 43.64
+
+
+### وضره (Wadrah)
+
+Code: YE1723, Coordinates: 15.714, 43.468
+
+
+### وشحه (Washhah)
+
+Code: YE1730, Coordinates: 16.336, 43.386
+
+

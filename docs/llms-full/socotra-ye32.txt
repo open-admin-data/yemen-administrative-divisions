@@ -1,0 +1,19 @@
+# Socotra — Yemen Administrative Divisions
+
+> 2 districts
+> Code: YE32
+> Coordinates: 12.505, 53.895
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### حديبو (Hadibu)
+
+Code: YE3201, Coordinates: 12.498, 54.086
+
+
+### قلنسية وعبد الكوري (Qalansiyah wa Abd Al Kuri)
+
+Code: YE3202, Coordinates: 12.534, 53.546
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "YE3005",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحصين",
+    "en": "Al Hasayn",
+    "slug": "al-hasayn-ye3005"
+  },
+  "code": {
+    "id": "YE3005",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE30",
+    "level": 1,
+    "name": {
+      "local": "الضالع",
+      "en": "Ad Dali'",
+      "slug": "ad-dali-ye30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE30",
+      "level": 1,
+      "name": {
+        "local": "الضالع",
+        "en": "Ad Dali'",
+        "slug": "ad-dali-ye30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.791",
+    "lon": "44.808"
+  },
+  "metadata": {},
+  "source": {}
+}

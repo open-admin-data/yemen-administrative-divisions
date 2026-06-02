@@ -1,0 +1,45 @@
+{
+  "id": "YE1307",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "التحرير",
+    "en": "At Tahrir",
+    "slug": "at-tahrir-ye1307"
+  },
+  "code": {
+    "id": "YE1307",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE13",
+    "level": 1,
+    "name": {
+      "local": "امانة العاصمه",
+      "en": "Sana'a City",
+      "slug": "sanaa-city-ye13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.354",
+    "lon": "44.2"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2512",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المقاطره",
+    "en": "Al Maqatirah",
+    "slug": "al-maqatirah-ye2512"
+  },
+  "code": {
+    "id": "YE2512",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE25",
+    "level": 1,
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.129",
+    "lon": "44.172"
+  },
+  "metadata": {},
+  "source": {}
+}

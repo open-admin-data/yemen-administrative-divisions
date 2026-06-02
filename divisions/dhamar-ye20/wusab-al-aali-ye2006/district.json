@@ -1,0 +1,45 @@
+{
+  "id": "YE2006",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "وصاب العالي",
+    "en": "Wusab Al Aali",
+    "slug": "wusab-al-aali-ye2006"
+  },
+  "code": {
+    "id": "YE2006",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE20",
+    "level": 1,
+    "name": {
+      "local": "ذمار",
+      "en": "Dhamar",
+      "slug": "dhamar-ye20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE20",
+      "level": 1,
+      "name": {
+        "local": "ذمار",
+        "en": "Dhamar",
+        "slug": "dhamar-ye20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.333",
+    "lon": "43.823"
+  },
+  "metadata": {},
+  "source": {}
+}

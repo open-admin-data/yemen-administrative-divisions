@@ -1,0 +1,45 @@
+{
+  "id": "YE2709",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المحويت",
+    "en": "Al Mahwit",
+    "slug": "al-mahwit-ye2709"
+  },
+  "code": {
+    "id": "YE2709",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE27",
+    "level": 1,
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.411",
+    "lon": "43.561"
+  },
+  "metadata": {},
+  "source": {}
+}

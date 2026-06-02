@@ -1,0 +1,45 @@
+{
+  "id": "YE1808",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المغلاف",
+    "en": "Al Mighlaf",
+    "slug": "al-mighlaf-ye1808"
+  },
+  "code": {
+    "id": "YE1808",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE18",
+    "level": 1,
+    "name": {
+      "local": "الحديده",
+      "en": "Al Hodeidah",
+      "slug": "al-hodeidah-ye18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE18",
+      "level": 1,
+      "name": {
+        "local": "الحديده",
+        "en": "Al Hodeidah",
+        "slug": "al-hodeidah-ye18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.31",
+    "lon": "43.188"
+  },
+  "metadata": {},
+  "source": {}
+}

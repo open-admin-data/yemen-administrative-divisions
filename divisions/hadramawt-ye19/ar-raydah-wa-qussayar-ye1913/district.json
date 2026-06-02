@@ -1,0 +1,45 @@
+{
+  "id": "YE1913",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الريدة وقصيعر",
+    "en": "Ar Raydah wa Qussay'ar",
+    "slug": "ar-raydah-wa-qussayar-ye1913"
+  },
+  "code": {
+    "id": "YE1913",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.159",
+    "lon": "50.399"
+  },
+  "metadata": {},
+  "source": {}
+}

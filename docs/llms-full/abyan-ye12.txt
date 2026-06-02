@@ -1,0 +1,64 @@
+# Abyan — Yemen Administrative Divisions
+
+> 11 districts
+> Code: YE12
+> Coordinates: 13.631, 46.237
+> Last updated: 2026-06-02. License: CC-BY-4.0.
+
+## Districts
+
+### احور (Ahwar)
+
+Code: YE1209, Coordinates: 13.683, 46.783
+
+
+### المحفد (Al Mahfad)
+
+Code: YE1201, Coordinates: 14.01, 46.792
+
+
+### الوضيع (Al Wadi&#39;)
+
+Code: YE1208, Coordinates: 13.686, 46.067
+
+
+### جيشان (Jayshan)
+
+Code: YE1203, Coordinates: 14.169, 46.182
+
+
+### خنفر (Khanfar)
+
+Code: YE1211, Coordinates: 13.334, 45.394
+
+
+### لودر (Lawdar)
+
+Code: YE1204, Coordinates: 13.812, 45.746
+
+
+### موديه (Mudiyah)
+
+Code: YE1202, Coordinates: 13.949, 46.202
+
+
+### رصد (Rassd)
+
+Code: YE1206, Coordinates: 13.725, 45.319
+
+
+### سرار (Sarar)
+
+Code: YE1207, Coordinates: 13.58, 45.389
+
+
+### سباح (Sibah)
+
+Code: YE1205, Coordinates: 13.814, 45.423
+
+
+### زنجبار (Zinjibar)
+
+Code: YE1210, Coordinates: 13.143, 45.411
+
+

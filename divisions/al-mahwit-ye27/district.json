@@ -1,0 +1,407 @@
+[
+  {
+    "id": "YE2704",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الخبت",
+      "en": "Al Khabt",
+      "slug": "al-khabt-ye2704"
+    },
+    "code": {
+      "id": "YE2704",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.487",
+      "lon": "43.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2709",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "المحويت",
+      "en": "Al Mahwit",
+      "slug": "al-mahwit-ye2709"
+    },
+    "code": {
+      "id": "YE2709",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.411",
+      "lon": "43.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2708",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "مدينة المحويت",
+      "en": "Al Mahwit City",
+      "slug": "al-mahwit-city-ye2708"
+    },
+    "code": {
+      "id": "YE2708",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.462",
+      "lon": "43.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2703",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرجم",
+      "en": "Ar Rujum",
+      "slug": "ar-rujum-ye2703"
+    },
+    "code": {
+      "id": "YE2703",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.408",
+      "lon": "43.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2702",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "الطويله",
+      "en": "At Tawilah",
+      "slug": "at-tawilah-ye2702"
+    },
+    "code": {
+      "id": "YE2702",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.463",
+      "lon": "43.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2707",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "بني سعد",
+      "en": "Bani Sa'd",
+      "slug": "bani-sad-ye2707"
+    },
+    "code": {
+      "id": "YE2707",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.235",
+      "lon": "43.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2706",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "حفاش",
+      "en": "Hufash",
+      "slug": "hufash-ye2706"
+    },
+    "code": {
+      "id": "YE2706",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.375",
+      "lon": "43.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2705",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "ملحان",
+      "en": "Melhan",
+      "slug": "melhan-ye2705"
+    },
+    "code": {
+      "id": "YE2705",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.323",
+      "lon": "43.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "YE2701",
+    "level": 2,
+    "level_name": {
+      "local": "مديرية",
+      "en": "District"
+    },
+    "name": {
+      "local": "شبام كوكبان",
+      "en": "Shibam Kawkaban",
+      "slug": "shibam-kawkaban-ye2701"
+    },
+    "code": {
+      "id": "YE2701",
+      "iso": null
+    },
+    "parent": {
+      "id": "YE27",
+      "level": 1,
+      "name": {
+        "local": "المحويت",
+        "en": "Al Mahwit",
+        "slug": "al-mahwit-ye27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "YE27",
+        "level": 1,
+        "name": {
+          "local": "المحويت",
+          "en": "Al Mahwit",
+          "slug": "al-mahwit-ye27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.475",
+      "lon": "43.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

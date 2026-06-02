@@ -1,0 +1,45 @@
+{
+  "id": "YE1725",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "الشغادره",
+    "en": "Ash Shaghadirah",
+    "slug": "ash-shaghadirah-ye1725"
+  },
+  "code": {
+    "id": "YE1725",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.607",
+    "lon": "43.507"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1905",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "حجر الصيعر",
+    "en": "Hajar As Say'ar",
+    "slug": "hajar-as-sayar-ye1905"
+  },
+  "code": {
+    "id": "YE1905",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.297",
+    "lon": "48.055"
+  },
+  "metadata": {},
+  "source": {}
+}

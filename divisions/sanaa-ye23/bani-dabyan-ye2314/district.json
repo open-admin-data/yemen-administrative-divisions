@@ -1,0 +1,45 @@
+{
+  "id": "YE2314",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بني ضبيان",
+    "en": "Bani Dabyan",
+    "slug": "bani-dabyan-ye2314"
+  },
+  "code": {
+    "id": "YE2314",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.05",
+    "lon": "44.818"
+  },
+  "metadata": {},
+  "source": {}
+}

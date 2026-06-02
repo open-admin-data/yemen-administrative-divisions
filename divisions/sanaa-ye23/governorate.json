@@ -1,0 +1,33 @@
+{
+  "id": "YE23",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "صنعاء",
+    "en": "Sana'a",
+    "slug": "sanaa-ye23"
+  },
+  "code": {
+    "id": "YE23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.404",
+    "lon": "44.462"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ye/governorates/sanaa-ye23/",
+    "api": "https://openadmindata.org/api/ye/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE1110",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "فرع العدين",
+    "en": "Far' Al Odayn",
+    "slug": "far-al-odayn-ye1110"
+  },
+  "code": {
+    "id": "YE1110",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.958",
+    "lon": "43.79"
+  },
+  "metadata": {},
+  "source": {}
+}

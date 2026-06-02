@@ -1,0 +1,45 @@
+{
+  "id": "YE1505",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المخاء",
+    "en": "Al Makha",
+    "slug": "al-makha-ye1505"
+  },
+  "code": {
+    "id": "YE1505",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE15",
+    "level": 1,
+    "name": {
+      "local": "تعز",
+      "en": "Ta'iz",
+      "slug": "taiz-ye15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE15",
+      "level": 1,
+      "name": {
+        "local": "تعز",
+        "en": "Ta'iz",
+        "slug": "taiz-ye15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.522",
+    "lon": "43.37"
+  },
+  "metadata": {},
+  "source": {}
+}

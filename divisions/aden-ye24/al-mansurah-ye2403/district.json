@@ -1,0 +1,45 @@
+{
+  "id": "YE2403",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "المنصوره",
+    "en": "Al Mansurah",
+    "slug": "al-mansurah-ye2403"
+  },
+  "code": {
+    "id": "YE2403",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE24",
+    "level": 1,
+    "name": {
+      "local": "عدن",
+      "en": "Aden",
+      "slug": "aden-ye24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE24",
+      "level": 1,
+      "name": {
+        "local": "عدن",
+        "en": "Aden",
+        "slug": "aden-ye24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.841",
+    "lon": "44.97"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YE2515",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "تبن",
+    "en": "Tuban",
+    "slug": "tuban-ye2515"
+  },
+  "code": {
+    "id": "YE2515",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE25",
+    "level": 1,
+    "name": {
+      "local": "لحج",
+      "en": "Lahj",
+      "slug": "lahj-ye25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE25",
+      "level": 1,
+      "name": {
+        "local": "لحج",
+        "en": "Lahj",
+        "slug": "lahj-ye25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.085",
+    "lon": "44.909"
+  },
+  "metadata": {},
+  "source": {}
+}

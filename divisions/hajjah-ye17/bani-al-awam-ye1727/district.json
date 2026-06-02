@@ -1,0 +1,45 @@
+{
+  "id": "YE1727",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بني العوام",
+    "en": "Bani Al Awam",
+    "slug": "bani-al-awam-ye1727"
+  },
+  "code": {
+    "id": "YE1727",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.581",
+    "lon": "43.614"
+  },
+  "metadata": {},
+  "source": {}
+}

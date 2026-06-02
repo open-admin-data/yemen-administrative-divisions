@@ -1,0 +1,45 @@
+{
+  "id": "YE1712",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "اسلم",
+    "en": "Aslam",
+    "slug": "aslam-ye1712"
+  },
+  "code": {
+    "id": "YE1712",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE17",
+    "level": 1,
+    "name": {
+      "local": "حجه",
+      "en": "Hajjah",
+      "slug": "hajjah-ye17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE17",
+      "level": 1,
+      "name": {
+        "local": "حجه",
+        "en": "Hajjah",
+        "slug": "hajjah-ye17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.058",
+    "lon": "43.286"
+  },
+  "metadata": {},
+  "source": {}
+}

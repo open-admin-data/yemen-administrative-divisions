@@ -1,0 +1,45 @@
+{
+  "id": "YE2202",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "قطابر",
+    "en": "Qatabir",
+    "slug": "qatabir-ye2202"
+  },
+  "code": {
+    "id": "YE2202",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE22",
+    "level": 1,
+    "name": {
+      "local": "صعده",
+      "en": "Sa'dah",
+      "slug": "sadah-ye22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE22",
+      "level": 1,
+      "name": {
+        "local": "صعده",
+        "en": "Sa'dah",
+        "slug": "sadah-ye22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.33",
+    "lon": "43.354"
+  },
+  "metadata": {},
+  "source": {}
+}

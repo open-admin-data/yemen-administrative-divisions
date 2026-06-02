@@ -1,0 +1,45 @@
+{
+  "id": "YE1917",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "غيل باوزير",
+    "en": "Ghayl Bawazir",
+    "slug": "ghayl-bawazir-ye1917"
+  },
+  "code": {
+    "id": "YE1917",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE19",
+    "level": 1,
+    "name": {
+      "local": "حضرموت",
+      "en": "Hadramawt",
+      "slug": "hadramawt-ye19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE19",
+      "level": 1,
+      "name": {
+        "local": "حضرموت",
+        "en": "Hadramawt",
+        "slug": "hadramawt-ye19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.882",
+    "lon": "49.076"
+  },
+  "metadata": {},
+  "source": {}
+}

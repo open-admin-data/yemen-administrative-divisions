@@ -1,0 +1,45 @@
+{
+  "id": "YE2908",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "ظليمة حبور",
+    "en": "Dhulaymat Habur",
+    "slug": "dhulaymat-habur-ye2908"
+  },
+  "code": {
+    "id": "YE2908",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE29",
+    "level": 1,
+    "name": {
+      "local": "عمران",
+      "en": "Amran",
+      "slug": "amran-ye29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE29",
+      "level": 1,
+      "name": {
+        "local": "عمران",
+        "en": "Amran",
+        "slug": "amran-ye29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.038",
+    "lon": "43.709"
+  },
+  "metadata": {},
+  "source": {}
+}

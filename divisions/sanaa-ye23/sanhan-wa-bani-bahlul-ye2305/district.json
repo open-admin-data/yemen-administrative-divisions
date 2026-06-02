@@ -1,0 +1,45 @@
+{
+  "id": "YE2305",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "سنحان وبني بهلول",
+    "en": "Sanhan wa Bani Bahlul",
+    "slug": "sanhan-wa-bani-bahlul-ye2305"
+  },
+  "code": {
+    "id": "YE2305",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE23",
+    "level": 1,
+    "name": {
+      "local": "صنعاء",
+      "en": "Sana'a",
+      "slug": "sanaa-ye23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE23",
+      "level": 1,
+      "name": {
+        "local": "صنعاء",
+        "en": "Sana'a",
+        "slug": "sanaa-ye23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.226",
+    "lon": "44.328"
+  },
+  "metadata": {},
+  "source": {}
+}

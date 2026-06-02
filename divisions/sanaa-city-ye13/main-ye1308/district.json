@@ -1,0 +1,45 @@
+{
+  "id": "YE1308",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "معين",
+    "en": "Ma'in",
+    "slug": "main-ye1308"
+  },
+  "code": {
+    "id": "YE1308",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE13",
+    "level": 1,
+    "name": {
+      "local": "امانة العاصمه",
+      "en": "Sana'a City",
+      "slug": "sanaa-city-ye13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE13",
+      "level": 1,
+      "name": {
+        "local": "امانة العاصمه",
+        "en": "Sana'a City",
+        "slug": "sanaa-city-ye13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.379",
+    "lon": "44.162"
+  },
+  "metadata": {},
+  "source": {}
+}

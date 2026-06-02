@@ -1,0 +1,45 @@
+{
+  "id": "YE1113",
+  "level": 2,
+  "level_name": {
+    "local": "مديرية",
+    "en": "District"
+  },
+  "name": {
+    "local": "بعدان",
+    "en": "Ba'dan",
+    "slug": "badan-ye1113"
+  },
+  "code": {
+    "id": "YE1113",
+    "iso": null
+  },
+  "parent": {
+    "id": "YE11",
+    "level": 1,
+    "name": {
+      "local": "اب",
+      "en": "Ibb",
+      "slug": "ibb-ye11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "YE11",
+      "level": 1,
+      "name": {
+        "local": "اب",
+        "en": "Ibb",
+        "slug": "ibb-ye11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.989",
+    "lon": "44.298"
+  },
+  "metadata": {},
+  "source": {}
+}
