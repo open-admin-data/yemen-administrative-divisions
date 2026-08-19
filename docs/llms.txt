@@ -9,7 +9,7 @@
 - Total governorates: 22
 - Total districts: 335
 - Coordinates: included (all levels)
-- Last updated: 2026-06-02
+- Last updated: 2026-08-19
 - License: CC-BY-4.0
 
 ## Aggregate Data Files
