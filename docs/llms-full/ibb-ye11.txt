@@ -3,7 +3,7 @@
 > 20 districts
 > Code: YE11
 > Coordinates: 14.084, 44.18
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 
