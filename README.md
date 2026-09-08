@@ -11,11 +11,12 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/ye](https://openadmindata.org/ye/) |
 | API | [openadmindata.org/api/ye](https://openadmindata.org/api/ye/) |
 | Flag | [PNG](https://onlygames.me/flags-png/ye/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Yemen National Anthem MP3](https://onlygames.me/national-anthems/ye/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/yem) · [Population](https://nationdata.org/population/country/yem) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Governorate
 
